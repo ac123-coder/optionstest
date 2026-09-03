@@ -11,7 +11,7 @@ name: X relay
 
 on:
   schedule:
-    */5 12-20 * * 1-5
+     - cron: "*/5 12-20 * * 1-5"
   workflow_dispatch:
 
 permissions:
