@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-03T19:12:34+00:00",
-  "last_id": "2095574770540499083",
-  "new_this_run": 0,
-  "post_count": 75,
+  "updated_at": "2026-09-03T19:26:43+00:00",
+  "last_id": "2095592660769587394",
+  "new_this_run": 1,
+  "post_count": 76,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095592660769587394",
+      "created_at": "2026-09-03T19:19:59.000Z",
+      "text": "$PCG - $176K Call buyer https://t.co/xmYMWAtJx8",
+      "url": "https://x.com/FL0WG0D/status/2095592660769587394",
+      "images": [
+        "images/2095592660769587394-0.jpg"
+      ]
+    },
     {
       "id": "2095574770540499083",
       "created_at": "2026-09-03T18:08:53.000Z",
@@ -531,9 +540,7 @@
       "created_at": "2026-08-31T16:20:51.000Z",
       "text": "$5.5 million into these $FSLR calls for 2028 https://t.co/dnUz95m8DG",
       "url": "https://x.com/FL0WG0D/status/2094460417888166355",
-      "images": [
-        "images/2094460417888166355-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094458343620296941",
