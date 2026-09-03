@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "x-relay"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add posts.json
+          git add -A
           # updated_at changes every run, so this commits a heartbeat even when
           # no new posts arrived. A stale timestamp then means the relay broke,
           # not that the account went quiet.
