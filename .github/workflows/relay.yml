@@ -1,0 +1,54 @@
+name: X relay
+
+# Polls the account on the :40 of each market hour, which lands the committed
+# posts.json ~20 minutes before the trading agent reads it at the top of the
+# hour — enough slack to absorb GitHub's scheduling delays, which routinely
+# run 5-15 minutes under load.
+#
+# 12:40-20:40 UTC, weekdays. That covers 08:40-16:40 ET during daylight time
+# and 07:40-15:40 ET the rest of the year, so the schedule never needs editing
+# when the clocks change. Extra runs outside market hours cost nothing.
+
+on:
+  schedule:
+    - cron: "40 12-20 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: x-relay
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new posts
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          X_ACCOUNT: FL0WG0D
+        run: python relay.py
+
+      - name: Commit
+        run: |
+          git config user.name "x-relay"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posts.json
+          # updated_at changes every run, so this commits a heartbeat even when
+          # no new posts arrived. A stale timestamp then means the relay broke,
+          # not that the account went quiet.
+          if git diff --staged --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "relay: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
