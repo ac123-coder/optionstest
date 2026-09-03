@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-03T17:53:43+00:00",
-  "last_id": "2095569216455729504",
-  "new_this_run": 0,
-  "post_count": 73,
+  "updated_at": "2026-09-03T18:51:42+00:00",
+  "last_id": "2095574770540499083",
+  "new_this_run": 2,
+  "post_count": 75,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095574770540499083",
+      "created_at": "2026-09-03T18:08:53.000Z",
+      "text": "$BMNR - $3M Put seller (bullish) https://t.co/GR5oc9SlWm",
+      "url": "https://x.com/FL0WG0D/status/2095574770540499083",
+      "images": [
+        "images/2095574770540499083-0.jpg"
+      ]
+    },
+    {
+      "id": "2095573147692986815",
+      "created_at": "2026-09-03T18:02:26.000Z",
+      "text": "$238K into these $CHGG calls now. $CHGG up 12% since last post https://t.co/hp27DyLAKJ https://t.co/SDrkUzTfMI",
+      "url": "https://x.com/FL0WG0D/status/2095573147692986815",
+      "images": [
+        "images/2095573147692986815-0.jpg"
+      ]
+    },
     {
       "id": "2095569216455729504",
       "created_at": "2026-09-03T17:46:49.000Z",
@@ -522,18 +540,14 @@
       "created_at": "2026-08-31T16:12:36.000Z",
       "text": "Small $GPRO bull https://t.co/k5ulGyDXKD",
       "url": "https://x.com/FL0WG0D/status/2094458343620296941",
-      "images": [
-        "images/2094458343620296941-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094429700189802819",
       "created_at": "2026-08-31T14:18:47.000Z",
       "text": "$1 million into these $FUTU calls https://t.co/7NOoJIbd9W",
       "url": "https://x.com/FL0WG0D/status/2094429700189802819",
-      "images": [
-        "images/2094429700189802819-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094427127286288465",
