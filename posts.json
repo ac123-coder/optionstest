@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-04T16:00:27+00:00",
-  "last_id": "2095904596610732306",
+  "updated_at": "2026-09-04T16:16:44+00:00",
+  "last_id": "2095905962267758947",
   "new_this_run": 1,
-  "post_count": 83,
+  "post_count": 84,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095905962267758947",
+      "created_at": "2026-09-04T16:04:56.000Z",
+      "text": "$813K into these $SMCI calls https://t.co/Yx7xq9OqYa",
+      "url": "https://x.com/FL0WG0D/status/2095905962267758947",
+      "images": [
+        "images/2095905962267758947-0.jpg"
+      ]
+    },
     {
       "id": "2095904596610732306",
       "created_at": "2026-09-04T15:59:30.000Z",
@@ -529,9 +538,7 @@
       "created_at": "2026-08-31T22:11:01.000Z",
       "text": "$GPRO is up over 40% after hours 👀 https://t.co/OPpDHguTWo https://t.co/VZEj1PH2Nu",
       "url": "https://x.com/FL0WG0D/status/2094548541146304949",
-      "images": [
-        "images/2094548541146304949-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094513840503341270",
