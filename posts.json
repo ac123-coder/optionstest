@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-04T15:15:12+00:00",
-  "last_id": "2095882689354092547",
-  "new_this_run": 0,
-  "post_count": 81,
+  "updated_at": "2026-09-04T15:29:30+00:00",
+  "last_id": "2095893582762684799",
+  "new_this_run": 1,
+  "post_count": 82,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095893582762684799",
+      "created_at": "2026-09-04T15:15:44.000Z",
+      "text": "$1.2 million into these $PPTA calls https://t.co/lsfbWxgdKY",
+      "url": "https://x.com/FL0WG0D/status/2095893582762684799",
+      "images": [
+        "images/2095893582762684799-0.jpg"
+      ]
+    },
     {
       "id": "2095882689354092547",
       "created_at": "2026-09-04T14:32:27.000Z",
@@ -529,9 +538,7 @@
       "created_at": "2026-08-31T18:08:52.000Z",
       "text": "Double down for this $MRVL bull https://t.co/dyeIWAy9Dy https://t.co/affkjefKQr",
       "url": "https://x.com/FL0WG0D/status/2094487600757187040",
-      "images": [
-        "images/2094487600757187040-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094474241198465136",
