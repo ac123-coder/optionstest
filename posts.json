@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-04T17:11:32+00:00",
-  "last_id": "2095919537346527677",
-  "new_this_run": 1,
-  "post_count": 87,
+  "updated_at": "2026-09-04T17:23:23+00:00",
+  "last_id": "2095925616008659379",
+  "new_this_run": 2,
+  "post_count": 89,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095925616008659379",
+      "created_at": "2026-09-04T17:23:01.000Z",
+      "text": "$DRAM - $843K Call buyer https://t.co/LLhaMd4VK5",
+      "url": "https://x.com/FL0WG0D/status/2095925616008659379",
+      "images": [
+        "images/2095925616008659379-0.jpg"
+      ]
+    },
+    {
+      "id": "2095925178240823384",
+      "created_at": "2026-09-04T17:21:17.000Z",
+      "text": "$1.5 million into these $AAPL calls https://t.co/FkQ1Y1a4Qe",
+      "url": "https://x.com/FL0WG0D/status/2095925178240823384",
+      "images": [
+        "images/2095925178240823384-0.jpg"
+      ]
+    },
     {
       "id": "2095919537346527677",
       "created_at": "2026-09-04T16:58:52.000Z",
@@ -522,18 +540,14 @@
       "created_at": "2026-09-01T14:18:07.000Z",
       "text": "$HWM - $341K Call buyer https://t.co/Bxx5LbOuBo",
       "url": "https://x.com/FL0WG0D/status/2094791919859532018",
-      "images": [
-        "images/2094791919859532018-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094788699305246902",
       "created_at": "2026-09-01T14:05:19.000Z",
       "text": "$ASST - $258K Call buyer https://t.co/e4Phc1C0iM",
       "url": "https://x.com/FL0WG0D/status/2094788699305246902",
-      "images": [
-        "images/2094788699305246902-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094777129791611299",
