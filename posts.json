@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-04T13:50:33+00:00",
-  "last_id": "2095868711890550982",
-  "new_this_run": 0,
-  "post_count": 78,
+  "updated_at": "2026-09-04T13:58:58+00:00",
+  "last_id": "2095873306138181997",
+  "new_this_run": 1,
+  "post_count": 79,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095873306138181997",
+      "created_at": "2026-09-04T13:55:10.000Z",
+      "text": "$339K into these cheap $NVDA contracts for next week https://t.co/bFr3lQvc90",
+      "url": "https://x.com/FL0WG0D/status/2095873306138181997",
+      "images": [
+        "images/2095873306138181997-0.jpg"
+      ]
+    },
     {
       "id": "2095868711890550982",
       "created_at": "2026-09-04T13:36:54.000Z",
@@ -529,9 +538,7 @@
       "created_at": "2026-08-31T17:04:00.000Z",
       "text": "$VEEV - $424K Call buyer https://t.co/KGgQOlhTQs",
       "url": "https://x.com/FL0WG0D/status/2094471277805285834",
-      "images": [
-        "images/2094471277805285834-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094465746101264852",
