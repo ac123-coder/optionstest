@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-04T14:27:09+00:00",
-  "last_id": "2095878707114102971",
+  "updated_at": "2026-09-04T14:40:04+00:00",
+  "last_id": "2095882689354092547",
   "new_this_run": 1,
-  "post_count": 80,
+  "post_count": 81,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095882689354092547",
+      "created_at": "2026-09-04T14:32:27.000Z",
+      "text": "$HOOD - $894K Call buyer https://t.co/tuydGKciXX",
+      "url": "https://x.com/FL0WG0D/status/2095882689354092547",
+      "images": [
+        "images/2095882689354092547-0.jpg"
+      ]
+    },
     {
       "id": "2095878707114102971",
       "created_at": "2026-09-04T14:16:37.000Z",
@@ -529,9 +538,7 @@
       "created_at": "2026-08-31T17:15:47.000Z",
       "text": "$AMGN - $601K Call buyer https://t.co/qdTVFY1GlA",
       "url": "https://x.com/FL0WG0D/status/2094474241198465136",
-      "images": [
-        "images/2094474241198465136-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094473233827250674",
