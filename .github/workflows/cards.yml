@@ -1,0 +1,47 @@
+name: Fetch archive cards
+
+# Manual, one-off. Downloads every Bullflow card referenced in archive.json,
+# OCRs it, and writes cards.json with strike / expiry / premium / OTM / volume /
+# OI per post. That turns two months of post text into two months of
+# contract-level data — enough to backtest the original options rules on real
+# contracts instead of forward-only. Safe to re-run: images already present are
+# skipped and cards.json is rebuilt from whatever is on disk.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: x-cards
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install OCR
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr > /dev/null
+
+      - name: Download and OCR cards
+        run: python fetch_cards.py
+
+      - name: Commit
+        run: |
+          git config user.name "x-cards"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "nothing new"
+          else
+            git commit -m "cards: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push || (git pull --rebase origin main && git push)
+          fi
