@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-04T16:50:10+00:00",
-  "last_id": "2095912780716998724",
-  "new_this_run": 0,
-  "post_count": 85,
+  "updated_at": "2026-09-04T16:58:18+00:00",
+  "last_id": "2095917644671033425",
+  "new_this_run": 1,
+  "post_count": 86,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2095917644671033425",
+      "created_at": "2026-09-04T16:51:21.000Z",
+      "text": "$644K into these $GPRO calls https://t.co/04LxSjcT45",
+      "url": "https://x.com/FL0WG0D/status/2095917644671033425",
+      "images": [
+        "images/2095917644671033425-0.jpg"
+      ]
+    },
     {
       "id": "2095912780716998724",
       "created_at": "2026-09-04T16:32:01.000Z",
