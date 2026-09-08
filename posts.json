@@ -1,12 +1,19 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-08T18:27:34+00:00",
-  "last_id": "2097389335360188809",
+  "updated_at": "2026-09-08T18:43:47+00:00",
+  "last_id": "2097391490016137255",
   "new_this_run": 1,
-  "post_count": 112,
+  "post_count": 113,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097391490016137255",
+      "created_at": "2026-09-08T18:27:53.000Z",
+      "text": "Last day of Bullflow's labor day SALE!! \n\n20% off your first year of any yearly Bullflow plan. \nCode: LABOR20  \n\n40% off your first month of the Bullflow API. (The API sub includes access to Bullflow Premium) \nCode: LABOR40 \n\nUse link: https://t.co/RLfrjpIluE",
+      "url": "https://x.com/FL0WG0D/status/2097391490016137255",
+      "images": []
+    },
     {
       "id": "2097389335360188809",
       "created_at": "2026-09-08T18:19:19.000Z",
@@ -533,9 +540,7 @@
       "created_at": "2026-09-02T19:50:49.000Z",
       "text": "$HL - $390K Call buyer https://t.co/CKAir04ocC",
       "url": "https://x.com/FL0WG0D/status/2095238031972139031",
-      "images": [
-        "images/2095238031972139031-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095230827458138265",
