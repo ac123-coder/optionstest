@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-08T17:10:58+00:00",
-  "last_id": "2097370296193806391",
+  "updated_at": "2026-09-08T17:25:44+00:00",
+  "last_id": "2097373418203041853",
   "new_this_run": 1,
-  "post_count": 110,
+  "post_count": 111,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097373418203041853",
+      "created_at": "2026-09-08T17:16:04.000Z",
+      "text": "$DRAM Weekly bull https://t.co/ec7YnYiLVX",
+      "url": "https://x.com/FL0WG0D/status/2097373418203041853",
+      "images": [
+        "images/2097373418203041853-0.jpg"
+      ]
+    },
     {
       "id": "2097370296193806391",
       "created_at": "2026-09-08T17:03:40.000Z",
@@ -533,9 +542,7 @@
       "created_at": "2026-09-02T19:01:42.000Z",
       "text": "$CLMT - $418K Call buyer https://t.co/S1v9XhomY1",
       "url": "https://x.com/FL0WG0D/status/2095225671513501864",
-      "images": [
-        "images/2095225671513501864-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095211147628584979",
