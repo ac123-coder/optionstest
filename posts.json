@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-08T16:57:24+00:00",
-  "last_id": "2097359614048117012",
-  "new_this_run": 0,
-  "post_count": 109,
+  "updated_at": "2026-09-08T17:10:58+00:00",
+  "last_id": "2097370296193806391",
+  "new_this_run": 1,
+  "post_count": 110,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097370296193806391",
+      "created_at": "2026-09-08T17:03:40.000Z",
+      "text": "$782K into these $IREN calls. $95 strike https://t.co/u2KIzBJAwV",
+      "url": "https://x.com/FL0WG0D/status/2097370296193806391",
+      "images": [
+        "images/2097370296193806391-0.jpg"
+      ]
+    },
     {
       "id": "2097359614048117012",
       "created_at": "2026-09-08T16:21:13.000Z",
@@ -533,9 +542,7 @@
       "created_at": "2026-09-02T18:03:59.000Z",
       "text": "$NU - $228K Call buyer https://t.co/kd2ZzQLqod",
       "url": "https://x.com/FL0WG0D/status/2095211147628584979",
-      "images": [
-        "images/2095211147628584979-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095198265104830900",
