@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-08T14:18:34+00:00",
-  "last_id": "2097327873052844381",
-  "new_this_run": 1,
-  "post_count": 94,
+  "updated_at": "2026-09-08T14:34:52+00:00",
+  "last_id": "2097332284319822326",
+  "new_this_run": 2,
+  "post_count": 96,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097332284319822326",
+      "created_at": "2026-09-08T14:32:37.000Z",
+      "text": "$FRVO - $551K Call buyer https://t.co/ju6L00WGfV",
+      "url": "https://x.com/FL0WG0D/status/2097332284319822326",
+      "images": [
+        "images/2097332284319822326-0.jpg"
+      ]
+    },
+    {
+      "id": "2097330577460371805",
+      "created_at": "2026-09-08T14:25:50.000Z",
+      "text": "$TSCO - $166K Call buyer https://t.co/FvFQdU3613",
+      "url": "https://x.com/FL0WG0D/status/2097330577460371805",
+      "images": [
+        "images/2097330577460371805-0.jpg"
+      ]
+    },
     {
       "id": "2097327873052844381",
       "created_at": "2026-09-08T14:15:06.000Z",
@@ -520,18 +538,14 @@
       "created_at": "2026-09-01T16:25:40.000Z",
       "text": "🤔🤔 $BNO bull is paid https://t.co/Mz76vWk41l https://t.co/U6pPYPR8QS",
       "url": "https://x.com/FL0WG0D/status/2094824017379164645",
-      "images": [
-        "images/2094824017379164645-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094820982498136326",
       "created_at": "2026-09-01T16:13:36.000Z",
       "text": "$PCG - $399K Call buyer https://t.co/yR95mjagbc",
       "url": "https://x.com/FL0WG0D/status/2094820982498136326",
-      "images": [
-        "images/2094820982498136326-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2094816041280880732",
