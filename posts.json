@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-08T15:19:12+00:00",
-  "last_id": "2097342200958820637",
-  "new_this_run": 4,
-  "post_count": 102,
+  "updated_at": "2026-09-08T15:35:05+00:00",
+  "last_id": "2097346398349906236",
+  "new_this_run": 1,
+  "post_count": 103,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097346398349906236",
+      "created_at": "2026-09-08T15:28:42.000Z",
+      "text": "$FPS - $470K Call buyer https://t.co/TfCoEmZKOs",
+      "url": "https://x.com/FL0WG0D/status/2097346398349906236",
+      "images": [
+        "images/2097346398349906236-0.jpg"
+      ]
+    },
     {
       "id": "2097342200958820637",
       "created_at": "2026-09-08T15:12:02.000Z",
@@ -531,9 +540,7 @@
       "created_at": "2026-09-02T14:24:12.000Z",
       "text": "$2.9 million into these $NVDA calls https://t.co/8aGupCZX7Z",
       "url": "https://x.com/FL0WG0D/status/2095155839065612458",
-      "images": [
-        "images/2095155839065612458-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095150443798167966",
