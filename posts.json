@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-08T15:59:57+00:00",
-  "last_id": "2097352997206458796",
-  "new_this_run": 1,
-  "post_count": 105,
+  "updated_at": "2026-09-08T16:17:49+00:00",
+  "last_id": "2097356857794801960",
+  "new_this_run": 3,
+  "post_count": 108,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097356857794801960",
+      "created_at": "2026-09-08T16:10:16.000Z",
+      "text": "$RUN - $158K Call buyer https://t.co/2bU1dOoLPJ",
+      "url": "https://x.com/FL0WG0D/status/2097356857794801960",
+      "images": [
+        "images/2097356857794801960-0.jpg"
+      ]
+    },
+    {
+      "id": "2097355797172732284",
+      "created_at": "2026-09-08T16:06:03.000Z",
+      "text": "$596K into these $ORCL calls. $ORCL reports earnings on Thursday https://t.co/yxwHx894AX",
+      "url": "https://x.com/FL0WG0D/status/2097355797172732284",
+      "images": [
+        "images/2097355797172732284-0.jpg"
+      ]
+    },
+    {
+      "id": "2097355437972623566",
+      "created_at": "2026-09-08T16:04:38.000Z",
+      "text": "$EXE - $969K Call buyer https://t.co/ANvPNj8tNa",
+      "url": "https://x.com/FL0WG0D/status/2097355437972623566",
+      "images": [
+        "images/2097355437972623566-0.jpg"
+      ]
+    },
     {
       "id": "2097352997206458796",
       "created_at": "2026-09-08T15:54:56.000Z",
@@ -513,27 +540,21 @@
       "created_at": "2026-09-02T16:45:45.000Z",
       "text": "$XP - $714K Call buyer https://t.co/hyZIXAKzQZ",
       "url": "https://x.com/FL0WG0D/status/2095191461650157654",
-      "images": [
-        "images/2095191461650157654-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095185203006161270",
       "created_at": "2026-09-02T16:20:53.000Z",
       "text": "$2.1 million into these $NVDA calls https://t.co/ciu4ZaprZd",
       "url": "https://x.com/FL0WG0D/status/2095185203006161270",
-      "images": [
-        "images/2095185203006161270-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095177730899738839",
       "created_at": "2026-09-02T15:51:12.000Z",
       "text": "$1.4 million into these $TXN calls https://t.co/qukQKfHhVi",
       "url": "https://x.com/FL0WG0D/status/2095177730899738839",
-      "images": [
-        "images/2095177730899738839-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095175893874253942",
