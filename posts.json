@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-09T19:36:49+00:00",
-  "last_id": "2097752742638854308",
-  "new_this_run": 0,
-  "post_count": 127,
+  "updated_at": "2026-09-09T19:45:01+00:00",
+  "last_id": "2097772530702471270",
+  "new_this_run": 1,
+  "post_count": 128,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097772530702471270",
+      "created_at": "2026-09-09T19:42:00.000Z",
+      "text": "$1.2 million into these $GXO calls https://t.co/TLVL7yla9D",
+      "url": "https://x.com/FL0WG0D/status/2097772530702471270",
+      "images": [
+        "images/2097772530702471270-0.jpg"
+      ]
+    },
     {
       "id": "2097752742638854308",
       "created_at": "2026-09-09T18:23:22.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-03T15:56:17.000Z",
       "text": "$2.6 million into these $NBIS calls https://t.co/hcHJdjgbX3",
       "url": "https://x.com/FL0WG0D/status/2095541399898706322",
-      "images": [
-        "images/2095541399898706322-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095533354279932304",
