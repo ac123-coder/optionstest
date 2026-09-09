@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-09T18:04:05+00:00",
-  "last_id": "2097740549893595478",
-  "new_this_run": 0,
-  "post_count": 126,
+  "updated_at": "2026-09-09T18:24:12+00:00",
+  "last_id": "2097752742638854308",
+  "new_this_run": 1,
+  "post_count": 127,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097752742638854308",
+      "created_at": "2026-09-09T18:23:22.000Z",
+      "text": "$2.3 million into these $LYFT puts https://t.co/TM8EPeSM1f",
+      "url": "https://x.com/FL0WG0D/status/2097752742638854308",
+      "images": [
+        "images/2097752742638854308-0.jpg"
+      ]
+    },
     {
       "id": "2097740549893595478",
       "created_at": "2026-09-09T17:34:55.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-03T15:24:19.000Z",
       "text": "Small $CRWV bull https://t.co/bTOfaEJruI",
       "url": "https://x.com/FL0WG0D/status/2095533354279932304",
-      "images": [
-        "images/2095533354279932304-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095532938200760808",
