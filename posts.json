@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-09T13:33:38+00:00",
-  "last_id": "2097675979015508309",
-  "new_this_run": 1,
-  "post_count": 114,
+  "updated_at": "2026-09-09T13:48:11+00:00",
+  "last_id": "2097681143956955630",
+  "new_this_run": 3,
+  "post_count": 117,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097681143956955630",
+      "created_at": "2026-09-09T13:38:52.000Z",
+      "text": "$6.4 million into these $META calls https://t.co/mov4WI1wb2",
+      "url": "https://x.com/FL0WG0D/status/2097681143956955630",
+      "images": [
+        "images/2097681143956955630-0.jpg"
+      ]
+    },
+    {
+      "id": "2097680866843513317",
+      "created_at": "2026-09-09T13:37:46.000Z",
+      "text": "$9.2 million into these $AMD calls https://t.co/CJ1LOCCqvm",
+      "url": "https://x.com/FL0WG0D/status/2097680866843513317",
+      "images": [
+        "images/2097680866843513317-0.jpg"
+      ]
+    },
+    {
+      "id": "2097680453293469865",
+      "created_at": "2026-09-09T13:36:07.000Z",
+      "text": "$1.1 million into these $META calls https://t.co/UM2DvapRVW",
+      "url": "https://x.com/FL0WG0D/status/2097680453293469865",
+      "images": [
+        "images/2097680453293469865-0.jpg"
+      ]
+    },
     {
       "id": "2097675979015508309",
       "created_at": "2026-09-09T13:18:20.000Z",
@@ -513,27 +540,21 @@
       "created_at": "2026-09-03T13:50:33.000Z",
       "text": "$3.8 million into these $MSTR calls https://t.co/EnpY3sk9ih",
       "url": "https://x.com/FL0WG0D/status/2095509755267530799",
-      "images": [
-        "images/2095509755267530799-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095508830985544084",
       "created_at": "2026-09-03T13:46:52.000Z",
       "text": "$1.1 million into these $TSLA calls https://t.co/apHV35fIaX",
       "url": "https://x.com/FL0WG0D/status/2095508830985544084",
-      "images": [
-        "images/2095508830985544084-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095508283842822166",
       "created_at": "2026-09-03T13:44:42.000Z",
       "text": "$RKT - $225K Call buyer https://t.co/YU0qzP68Fp",
       "url": "https://x.com/FL0WG0D/status/2095508283842822166",
-      "images": [
-        "images/2095508283842822166-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095503150992019571",
