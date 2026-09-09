@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-09T17:34:09+00:00",
-  "last_id": "2097732818910564530",
-  "new_this_run": 0,
-  "post_count": 125,
+  "updated_at": "2026-09-09T17:45:03+00:00",
+  "last_id": "2097740549893595478",
+  "new_this_run": 1,
+  "post_count": 126,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097740549893595478",
+      "created_at": "2026-09-09T17:34:55.000Z",
+      "text": "$15.5 million into these $PLTR calls https://t.co/SLAuegDxdu",
+      "url": "https://x.com/FL0WG0D/status/2097740549893595478",
+      "images": [
+        "images/2097740549893595478-0.jpg"
+      ]
+    },
     {
       "id": "2097732818910564530",
       "created_at": "2026-09-09T17:04:12.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-03T15:22:40.000Z",
       "text": "$BE - $5.9M Put seller (bullish) https://t.co/Zvfayk8KyO",
       "url": "https://x.com/FL0WG0D/status/2095532938200760808",
-      "images": [
-        "images/2095532938200760808-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095530207331422574",
