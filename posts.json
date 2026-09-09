@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-09T14:55:23+00:00",
-  "last_id": "2097695520726585647",
-  "new_this_run": 0,
-  "post_count": 119,
+  "updated_at": "2026-09-09T15:06:45+00:00",
+  "last_id": "2097702398743462139",
+  "new_this_run": 2,
+  "post_count": 121,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2097702398743462139",
+      "created_at": "2026-09-09T15:03:19.000Z",
+      "text": "$4.4 million into these $META calls https://t.co/M3s6kwpTdM",
+      "url": "https://x.com/FL0WG0D/status/2097702398743462139",
+      "images": [
+        "images/2097702398743462139-0.jpg"
+      ]
+    },
+    {
+      "id": "2097702100268458351",
+      "created_at": "2026-09-09T15:02:08.000Z",
+      "text": "This $6.4 million $META bull from this morning is already up over 30% https://t.co/xHmZLg4i4b https://t.co/gXSum6Fwzp",
+      "url": "https://x.com/FL0WG0D/status/2097702100268458351",
+      "images": [
+        "images/2097702100268458351-0.jpg"
+      ]
+    },
     {
       "id": "2097695520726585647",
       "created_at": "2026-09-09T14:36:00.000Z",
@@ -522,18 +540,14 @@
       "created_at": "2026-09-03T14:25:16.000Z",
       "text": "$IBIT - $710K Call buyer https://t.co/vldnw4EviA",
       "url": "https://x.com/FL0WG0D/status/2095518494930386968",
-      "images": [
-        "images/2095518494930386968-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095517644057162099",
       "created_at": "2026-09-03T14:21:53.000Z",
       "text": "$COIN Weekly bull https://t.co/v67dZ4BUj1",
       "url": "https://x.com/FL0WG0D/status/2095517644057162099",
-      "images": [
-        "images/2095517644057162099-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095516986331578776",
