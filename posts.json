@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-10T16:18:34+00:00",
-  "last_id": "2098069831203291269",
-  "new_this_run": 0,
-  "post_count": 133,
+  "updated_at": "2026-09-10T16:31:38+00:00",
+  "last_id": "2098086951089832321",
+  "new_this_run": 1,
+  "post_count": 134,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2098086951089832321",
+      "created_at": "2026-09-10T16:31:24.000Z",
+      "text": "$1.9 million into these $EQT calls https://t.co/FIEt6pUF53",
+      "url": "https://x.com/FL0WG0D/status/2098086951089832321",
+      "images": [
+        "images/2098086951089832321-0.jpg"
+      ]
+    },
     {
       "id": "2098069831203291269",
       "created_at": "2026-09-10T15:23:22.000Z",
@@ -536,9 +545,7 @@
       "created_at": "2026-09-03T18:02:26.000Z",
       "text": "$238K into these $CHGG calls now. $CHGG up 12% since last post https://t.co/hp27DyLAKJ https://t.co/SDrkUzTfMI",
       "url": "https://x.com/FL0WG0D/status/2095573147692986815",
-      "images": [
-        "images/2095573147692986815-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095569216455729504",
