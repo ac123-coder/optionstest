@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-10T17:31:22+00:00",
-  "last_id": "2098086951089832321",
-  "new_this_run": 0,
-  "post_count": 134,
+  "updated_at": "2026-09-10T17:43:20+00:00",
+  "last_id": "2098104485893505282",
+  "new_this_run": 1,
+  "post_count": 135,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2098104485893505282",
+      "created_at": "2026-09-10T17:41:04.000Z",
+      "text": "$AAPL - $885K Call buyer https://t.co/F2J6nM1WZP",
+      "url": "https://x.com/FL0WG0D/status/2098104485893505282",
+      "images": [
+        "images/2098104485893505282-0.jpg"
+      ]
+    },
     {
       "id": "2098086951089832321",
       "created_at": "2026-09-10T16:31:24.000Z",
@@ -536,9 +545,7 @@
       "created_at": "2026-09-03T18:08:53.000Z",
       "text": "$BMNR - $3M Put seller (bullish) https://t.co/GR5oc9SlWm",
       "url": "https://x.com/FL0WG0D/status/2095574770540499083",
-      "images": [
-        "images/2095574770540499083-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095573147692986815",
