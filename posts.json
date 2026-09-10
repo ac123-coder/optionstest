@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-10T13:42:25+00:00",
-  "last_id": "2097772530702471270",
-  "new_this_run": 0,
-  "post_count": 128,
+  "updated_at": "2026-09-10T13:53:30+00:00",
+  "last_id": "2098046180374499529",
+  "new_this_run": 3,
+  "post_count": 131,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2098046180374499529",
+      "created_at": "2026-09-10T13:49:23.000Z",
+      "text": "$1 million into these $VSAT calls https://t.co/6jBb2pBUrb",
+      "url": "https://x.com/FL0WG0D/status/2098046180374499529",
+      "images": [
+        "images/2098046180374499529-0.jpg"
+      ]
+    },
+    {
+      "id": "2098045994310984103",
+      "created_at": "2026-09-10T13:48:39.000Z",
+      "text": "$968K into these $AAPL calls https://t.co/gORycItHAb",
+      "url": "https://x.com/FL0WG0D/status/2098045994310984103",
+      "images": [
+        "images/2098045994310984103-0.jpg"
+      ]
+    },
+    {
+      "id": "2098044399133360613",
+      "created_at": "2026-09-10T13:42:19.000Z",
+      "text": "$FSLY - $294K Call buyer https://t.co/WjD2kvpG2q",
+      "url": "https://x.com/FL0WG0D/status/2098044399133360613",
+      "images": [
+        "images/2098044399133360613-0.jpg"
+      ]
+    },
     {
       "id": "2097772530702471270",
       "created_at": "2026-09-09T19:42:00.000Z",
@@ -525,9 +552,7 @@
       "created_at": "2026-09-03T16:30:34.000Z",
       "text": "$1.2 million into these $DPRO calls https://t.co/DocUJSoaMb",
       "url": "https://x.com/FL0WG0D/status/2095550027720524020",
-      "images": [
-        "images/2095550027720524020-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095542201702871293",
