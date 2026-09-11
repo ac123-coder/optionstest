@@ -1,12 +1,40 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-11T13:42:14+00:00",
-  "last_id": "2098405859395092981",
-  "new_this_run": 2,
-  "post_count": 139,
+  "updated_at": "2026-09-11T13:52:39+00:00",
+  "last_id": "2098408969936994534",
+  "new_this_run": 3,
+  "post_count": 142,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2098408969936994534",
+      "created_at": "2026-09-11T13:50:59.000Z",
+      "text": "$INTC - $389K Call buyer https://t.co/1hWitDT72X",
+      "url": "https://x.com/FL0WG0D/status/2098408969936994534",
+      "images": [
+        "images/2098408969936994534-0.jpg"
+      ]
+    },
+    {
+      "id": "2098408513542250752",
+      "created_at": "2026-09-11T13:49:10.000Z",
+      "text": "$IBIT - $944K Call buyer https://t.co/TjBfNwlpJZ",
+      "url": "https://x.com/FL0WG0D/status/2098408513542250752",
+      "images": [
+        "images/2098408513542250752-0.jpg"
+      ]
+    },
+    {
+      "id": "2098407851781664817",
+      "created_at": "2026-09-11T13:46:33.000Z",
+      "text": "2 decent size $AAOI put sellers (bullish) https://t.co/8HK78vrjMB",
+      "url": "https://x.com/FL0WG0D/status/2098407851781664817",
+      "images": [
+        "images/2098407851781664817-0.jpg",
+        "images/2098407851781664817-1.jpg"
+      ]
+    },
     {
       "id": "2098405859395092981",
       "created_at": "2026-09-11T13:38:38.000Z",
@@ -518,27 +546,21 @@
       "created_at": "2026-09-04T15:15:44.000Z",
       "text": "$1.2 million into these $PPTA calls https://t.co/lsfbWxgdKY",
       "url": "https://x.com/FL0WG0D/status/2095893582762684799",
-      "images": [
-        "images/2095893582762684799-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095882689354092547",
       "created_at": "2026-09-04T14:32:27.000Z",
       "text": "$HOOD - $894K Call buyer https://t.co/tuydGKciXX",
       "url": "https://x.com/FL0WG0D/status/2095882689354092547",
-      "images": [
-        "images/2095882689354092547-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095878707114102971",
       "created_at": "2026-09-04T14:16:37.000Z",
       "text": "$MU - $20.3M Put seller (bullish) https://t.co/GzWm4sw6oV",
       "url": "https://x.com/FL0WG0D/status/2095878707114102971",
-      "images": [
-        "images/2095878707114102971-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095873306138181997",
