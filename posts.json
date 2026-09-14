@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-14T19:30:07+00:00",
-  "last_id": "2099577485964820682",
-  "new_this_run": 0,
-  "post_count": 154,
+  "updated_at": "2026-09-14T19:42:50+00:00",
+  "last_id": "2099582007403528321",
+  "new_this_run": 1,
+  "post_count": 155,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2099582007403528321",
+      "created_at": "2026-09-14T19:32:13.000Z",
+      "text": "$8 million into these $PANW calls https://t.co/FF1Qgx1Ouz",
+      "url": "https://x.com/FL0WG0D/status/2099582007403528321",
+      "images": [
+        "images/2099582007403528321-0.jpg"
+      ]
+    },
     {
       "id": "2099577485964820682",
       "created_at": "2026-09-14T19:14:15.000Z",
@@ -539,9 +548,7 @@
       "created_at": "2026-09-08T14:25:50.000Z",
       "text": "$TSCO - $166K Call buyer https://t.co/FvFQdU3613",
       "url": "https://x.com/FL0WG0D/status/2097330577460371805",
-      "images": [
-        "images/2097330577460371805-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097327873052844381",
