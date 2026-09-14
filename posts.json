@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-14T17:21:42+00:00",
-  "last_id": "2099509961579524098",
-  "new_this_run": 0,
-  "post_count": 148,
+  "updated_at": "2026-09-14T17:34:01+00:00",
+  "last_id": "2099552180902510920",
+  "new_this_run": 3,
+  "post_count": 151,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2099552180902510920",
+      "created_at": "2026-09-14T17:33:42.000Z",
+      "text": "$GOOG - $5.7M Put seller (bullish) https://t.co/CkdOatHqae",
+      "url": "https://x.com/FL0WG0D/status/2099552180902510920",
+      "images": [
+        "images/2099552180902510920-0.jpg"
+      ]
+    },
+    {
+      "id": "2099551703632695807",
+      "created_at": "2026-09-14T17:31:48.000Z",
+      "text": "This $GOOGL bull from last week is up roughly 150% and just took some profits https://t.co/yW9rBDMFYe https://t.co/uDtYZIPTyQ",
+      "url": "https://x.com/FL0WG0D/status/2099551703632695807",
+      "images": [
+        "images/2099551703632695807-0.jpg"
+      ]
+    },
+    {
+      "id": "2099551009806655925",
+      "created_at": "2026-09-14T17:29:03.000Z",
+      "text": "$MSFT is paying my X subscribers. Very bullish heatmaps this morning on Bullflow. $500 → $510 https://t.co/QbLlSl8PeB",
+      "url": "https://x.com/FL0WG0D/status/2099551009806655925",
+      "images": [
+        "images/2099551009806655925-0.png"
+      ]
+    },
     {
       "id": "2099509961579524098",
       "created_at": "2026-09-14T14:45:56.000Z",
@@ -521,9 +548,7 @@
       "created_at": "2026-09-08T13:14:14.000Z",
       "text": "Great week to get funded! The first-ever options prop firm!\n\nRIGHT NOW: 70% off any eval account using code FLOW. (Unlimited uses per person)\n\nhttps://t.co/2i5Bplj808 https://t.co/tiU5uKyUeo",
       "url": "https://x.com/FL0WG0D/status/2097312555660144854",
-      "images": [
-        "images/2097312555660144854-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097310806681465252",
@@ -537,9 +562,7 @@
       "created_at": "2026-09-04T17:23:01.000Z",
       "text": "$DRAM - $843K Call buyer https://t.co/LLhaMd4VK5",
       "url": "https://x.com/FL0WG0D/status/2095925616008659379",
-      "images": [
-        "images/2095925616008659379-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2095925178240823384",
