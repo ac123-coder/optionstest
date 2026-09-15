@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-15T14:08:37+00:00",
-  "last_id": "2099582007403528321",
-  "new_this_run": 0,
-  "post_count": 155,
+  "updated_at": "2026-09-15T14:24:28+00:00",
+  "last_id": "2099865214384513350",
+  "new_this_run": 1,
+  "post_count": 156,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2099865214384513350",
+      "created_at": "2026-09-15T14:17:35.000Z",
+      "text": "$2.3 million into these $META calls https://t.co/nIS8PSqXp4",
+      "url": "https://x.com/FL0WG0D/status/2099865214384513350",
+      "images": [
+        "images/2099865214384513350-0.jpg"
+      ]
+    },
     {
       "id": "2099582007403528321",
       "created_at": "2026-09-14T19:32:13.000Z",
@@ -539,9 +548,7 @@
       "created_at": "2026-09-08T14:32:37.000Z",
       "text": "$FRVO - $551K Call buyer https://t.co/ju6L00WGfV",
       "url": "https://x.com/FL0WG0D/status/2097332284319822326",
-      "images": [
-        "images/2097332284319822326-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097330577460371805",
