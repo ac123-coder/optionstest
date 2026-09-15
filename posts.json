@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-15T15:55:03+00:00",
-  "last_id": "2099881421661667534",
-  "new_this_run": 0,
-  "post_count": 160,
+  "updated_at": "2026-09-15T16:06:22+00:00",
+  "last_id": "2099890030529413576",
+  "new_this_run": 1,
+  "post_count": 161,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2099890030529413576",
+      "created_at": "2026-09-15T15:56:12.000Z",
+      "text": "$NBIS - $8.3M Put seller (bullish) https://t.co/3oZ57roJJg",
+      "url": "https://x.com/FL0WG0D/status/2099890030529413576",
+      "images": [
+        "images/2099890030529413576-0.jpg"
+      ]
+    },
     {
       "id": "2099881421661667534",
       "created_at": "2026-09-15T15:21:59.000Z",
@@ -539,9 +548,7 @@
       "created_at": "2026-09-08T15:08:36.000Z",
       "text": "$2.3 million into these $DRAM call for January https://t.co/CZ6rcRQxhr",
       "url": "https://x.com/FL0WG0D/status/2097341337376821421",
-      "images": [
-        "images/2097341337376821421-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097340665499729998",
