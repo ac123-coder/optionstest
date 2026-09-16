@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-16T18:58:23+00:00",
-  "last_id": "2100295870612746604",
-  "new_this_run": 0,
-  "post_count": 177,
+  "updated_at": "2026-09-16T19:12:10+00:00",
+  "last_id": "2100300739033575718",
+  "new_this_run": 1,
+  "post_count": 178,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100300739033575718",
+      "created_at": "2026-09-16T19:08:12.000Z",
+      "text": "$3 million into these $SPY puts https://t.co/bQm5aCMJZB",
+      "url": "https://x.com/FL0WG0D/status/2100300739033575718",
+      "images": [
+        "images/2100300739033575718-0.jpg"
+      ]
+    },
     {
       "id": "2100295870612746604",
       "created_at": "2026-09-16T18:48:51.000Z",
@@ -543,9 +552,7 @@
       "created_at": "2026-09-09T14:23:54.000Z",
       "text": "$1.4 million into these $IREN calls https://t.co/eoxkwotrdL",
       "url": "https://x.com/FL0WG0D/status/2097692477096353834",
-      "images": [
-        "images/2097692477096353834-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097681143956955630",
