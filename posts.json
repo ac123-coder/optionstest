@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-16T18:35:45+00:00",
-  "last_id": "2100256802470343077",
-  "new_this_run": 0,
-  "post_count": 174,
+  "updated_at": "2026-09-16T18:49:39+00:00",
+  "last_id": "2100295870612746604",
+  "new_this_run": 3,
+  "post_count": 177,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100295870612746604",
+      "created_at": "2026-09-16T18:48:51.000Z",
+      "text": "$DINO - $489K Call buyer https://t.co/r6lWnKJw4f",
+      "url": "https://x.com/FL0WG0D/status/2100295870612746604",
+      "images": [
+        "images/2100295870612746604-0.jpg"
+      ]
+    },
+    {
+      "id": "2100295589992767606",
+      "created_at": "2026-09-16T18:47:44.000Z",
+      "text": "$1.2 million into these $TSLA calls https://t.co/RaETrPqPXJ",
+      "url": "https://x.com/FL0WG0D/status/2100295589992767606",
+      "images": [
+        "images/2100295589992767606-0.jpg"
+      ]
+    },
+    {
+      "id": "2100294647029321793",
+      "created_at": "2026-09-16T18:44:00.000Z",
+      "text": "$1.2 million into these $META calls https://t.co/XblffyUzWe",
+      "url": "https://x.com/FL0WG0D/status/2100294647029321793",
+      "images": [
+        "images/2100294647029321793-0.jpg"
+      ]
+    },
     {
       "id": "2100256802470343077",
       "created_at": "2026-09-16T16:13:37.000Z",
@@ -525,27 +552,21 @@
       "created_at": "2026-09-09T13:38:52.000Z",
       "text": "$6.4 million into these $META calls https://t.co/mov4WI1wb2",
       "url": "https://x.com/FL0WG0D/status/2097681143956955630",
-      "images": [
-        "images/2097681143956955630-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097680866843513317",
       "created_at": "2026-09-09T13:37:46.000Z",
       "text": "$9.2 million into these $AMD calls https://t.co/CJ1LOCCqvm",
       "url": "https://x.com/FL0WG0D/status/2097680866843513317",
-      "images": [
-        "images/2097680866843513317-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097680453293469865",
       "created_at": "2026-09-09T13:36:07.000Z",
       "text": "$1.1 million into these $META calls https://t.co/UM2DvapRVW",
       "url": "https://x.com/FL0WG0D/status/2097680453293469865",
-      "images": [
-        "images/2097680453293469865-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097675979015508309",
