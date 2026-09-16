@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-16T13:58:55+00:00",
-  "last_id": "2100220565743173682",
-  "new_this_run": 1,
-  "post_count": 165,
+  "updated_at": "2026-09-16T14:15:21+00:00",
+  "last_id": "2100225166915563587",
+  "new_this_run": 2,
+  "post_count": 167,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100225166915563587",
+      "created_at": "2026-09-16T14:07:54.000Z",
+      "text": "$TSLA - $560K Call buyer https://t.co/D3ve0OuKry",
+      "url": "https://x.com/FL0WG0D/status/2100225166915563587",
+      "images": [
+        "images/2100225166915563587-0.jpg"
+      ]
+    },
+    {
+      "id": "2100223843042218044",
+      "created_at": "2026-09-16T14:02:39.000Z",
+      "text": "$2.3 million into these $SPCX calls. $215 strike https://t.co/xXQ0XETICl",
+      "url": "https://x.com/FL0WG0D/status/2100223843042218044",
+      "images": [
+        "images/2100223843042218044-0.jpg"
+      ]
+    },
     {
       "id": "2100220565743173682",
       "created_at": "2026-09-16T13:49:37.000Z",
@@ -530,18 +548,14 @@
       "created_at": "2026-09-08T16:06:03.000Z",
       "text": "$596K into these $ORCL calls. $ORCL reports earnings on Thursday https://t.co/yxwHx894AX",
       "url": "https://x.com/FL0WG0D/status/2097355797172732284",
-      "images": [
-        "images/2097355797172732284-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097355437972623566",
       "created_at": "2026-09-08T16:04:38.000Z",
       "text": "$EXE - $969K Call buyer https://t.co/ANvPNj8tNa",
       "url": "https://x.com/FL0WG0D/status/2097355437972623566",
-      "images": [
-        "images/2097355437972623566-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097352997206458796",
