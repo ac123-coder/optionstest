@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-16T13:18:38+00:00",
-  "last_id": "2099921705531478250",
-  "new_this_run": 0,
-  "post_count": 163,
+  "updated_at": "2026-09-16T13:33:35+00:00",
+  "last_id": "2100216304347107696",
+  "new_this_run": 1,
+  "post_count": 164,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100216304347107696",
+      "created_at": "2026-09-16T13:32:41.000Z",
+      "text": "$4.2 million into these $AMD calls https://t.co/xM2Zxx29as",
+      "url": "https://x.com/FL0WG0D/status/2100216304347107696",
+      "images": [
+        "images/2100216304347107696-0.jpg"
+      ]
+    },
     {
       "id": "2099921705531478250",
       "created_at": "2026-09-15T18:02:03.000Z",
@@ -539,9 +548,7 @@
       "created_at": "2026-09-08T15:43:12.000Z",
       "text": "$1 million into these $MU calls https://t.co/MRolO8Nbto",
       "url": "https://x.com/FL0WG0D/status/2097350044311503154",
-      "images": [
-        "images/2097350044311503154-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097346398349906236",
