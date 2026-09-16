@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-16T15:58:32+00:00",
-  "last_id": "2100245820809396364",
-  "new_this_run": 0,
-  "post_count": 171,
+  "updated_at": "2026-09-16T16:13:53+00:00",
+  "last_id": "2100256802470343077",
+  "new_this_run": 3,
+  "post_count": 174,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100256802470343077",
+      "created_at": "2026-09-16T16:13:37.000Z",
+      "text": "$OPCH - $612K Call buyer https://t.co/0Bhdm6yMN3",
+      "url": "https://x.com/FL0WG0D/status/2100256802470343077",
+      "images": [
+        "images/2100256802470343077-0.jpg"
+      ]
+    },
+    {
+      "id": "2100256487457079449",
+      "created_at": "2026-09-16T16:12:22.000Z",
+      "text": "Almost 100% gains for this $AXON weekly bull https://t.co/DtmaXRb9xQ https://t.co/iGRk3xRC1U",
+      "url": "https://x.com/FL0WG0D/status/2100256487457079449",
+      "images": [
+        "images/2100256487457079449-0.jpg"
+      ]
+    },
+    {
+      "id": "2100254635403424145",
+      "created_at": "2026-09-16T16:05:00.000Z",
+      "text": "Limited time 70% sale for Options Funding eval accounts right now. Code FLOW (unlimited uses)\n\nhttps://t.co/2i5Bplj808 https://t.co/vfYRQZgKxV",
+      "url": "https://x.com/FL0WG0D/status/2100254635403424145",
+      "images": [
+        "images/2100254635403424145-0.jpg"
+      ]
+    },
     {
       "id": "2100245820809396364",
       "created_at": "2026-09-16T15:29:59.000Z",
@@ -539,9 +566,7 @@
       "created_at": "2026-09-08T18:19:19.000Z",
       "text": "$NU - $493K Call buyer https://t.co/z7iqw9XBFz",
       "url": "https://x.com/FL0WG0D/status/2097389335360188809",
-      "images": [
-        "images/2097389335360188809-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097373418203041853",
