@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-16T19:46:05+00:00",
-  "last_id": "2100302552180945067",
-  "new_this_run": 0,
-  "post_count": 179,
+  "updated_at": "2026-09-16T19:53:46+00:00",
+  "last_id": "2100311051614965839",
+  "new_this_run": 1,
+  "post_count": 180,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100311051614965839",
+      "created_at": "2026-09-16T19:49:11.000Z",
+      "text": "Bullflows $SPY GEX chart showed nothing but downside as soon as Warsh started speaking.\n\nNo need to pay hundreds a month for this data. Bullflow has you covered for $69/month, use code FLOW for 20% off.\n\nhttps://t.co/RLfrjpIluE https://t.co/V7FWRF0rdG",
+      "url": "https://x.com/FL0WG0D/status/2100311051614965839",
+      "images": [
+        "images/2100311051614965839-0.jpg"
+      ]
+    },
     {
       "id": "2100302552180945067",
       "created_at": "2026-09-16T19:15:24.000Z",
@@ -543,9 +552,7 @@
       "created_at": "2026-09-09T15:02:08.000Z",
       "text": "This $6.4 million $META bull from this morning is already up over 30% https://t.co/xHmZLg4i4b https://t.co/gXSum6Fwzp",
       "url": "https://x.com/FL0WG0D/status/2097702100268458351",
-      "images": [
-        "images/2097702100268458351-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097695520726585647",
