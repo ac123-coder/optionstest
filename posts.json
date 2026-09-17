@@ -1,12 +1,19 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-17T12:58:46+00:00",
-  "last_id": "2100311051614965839",
-  "new_this_run": 0,
-  "post_count": 180,
+  "updated_at": "2026-09-17T13:15:18+00:00",
+  "last_id": "2100573656938066256",
+  "new_this_run": 1,
+  "post_count": 181,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100573656938066256",
+      "created_at": "2026-09-17T13:12:41.000Z",
+      "text": "Noteworthy flow from yesterday\n\n$META 690 Call (9/18) - $1.4M @ 6.20\n$TSLA 370 Call (9/25) - $1.2M @ 5.31\n$ORCL 150 Call (10/2) - $404K @ 3.97\n$DINO 120 Call (10/16) - $590K @ 5.18\n$OPCH 25 Call (1/15/27) - $637K @ 2.01\n$SPCX 165 Call (1/21/28) - $5.1M @ 35.85",
+      "url": "https://x.com/FL0WG0D/status/2100573656938066256",
+      "images": []
+    },
     {
       "id": "2100311051614965839",
       "created_at": "2026-09-16T19:49:11.000Z",
@@ -543,9 +550,7 @@
       "created_at": "2026-09-09T15:03:19.000Z",
       "text": "$4.4 million into these $META calls https://t.co/M3s6kwpTdM",
       "url": "https://x.com/FL0WG0D/status/2097702398743462139",
-      "images": [
-        "images/2097702398743462139-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097702100268458351",
