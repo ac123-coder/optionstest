@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-17T14:08:09+00:00",
-  "last_id": "2100573656938066256",
-  "new_this_run": 0,
-  "post_count": 181,
+  "updated_at": "2026-09-17T14:25:26+00:00",
+  "last_id": "2100588838175264933",
+  "new_this_run": 1,
+  "post_count": 182,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100588838175264933",
+      "created_at": "2026-09-17T14:13:00.000Z",
+      "text": "So much $TSLA flow yesterday + very bullish GEX map posted for my X subs. Day done https://t.co/JVMzDAOvZL https://t.co/PdF7q6JXtP",
+      "url": "https://x.com/FL0WG0D/status/2100588838175264933",
+      "images": [
+        "images/2100588838175264933-0.jpg"
+      ]
+    },
     {
       "id": "2100573656938066256",
       "created_at": "2026-09-17T13:12:41.000Z",
@@ -540,10 +549,7 @@
       "created_at": "2026-09-09T15:15:55.000Z",
       "text": "7630 SPX lit up all morning long on Bullflow’s GEX charts.\n\nNo need to pay $500 a month for GEX data. Bullflow gives you the same data and more at a much more reasonable price.\n\nUse the link below + code FLOW for 20% off.\nhttps://t.co/RLfrjpIluE https://t.co/VdPhW0sjSU",
       "url": "https://x.com/FL0WG0D/status/2097705567833739316",
-      "images": [
-        "images/2097705567833739316-0.jpg",
-        "images/2097705567833739316-1.png"
-      ]
+      "images": []
     },
     {
       "id": "2097702398743462139",
