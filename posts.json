@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-17T18:40:39+00:00",
-  "last_id": "2100649617490678115",
-  "new_this_run": 0,
-  "post_count": 188,
+  "updated_at": "2026-09-17T18:53:39+00:00",
+  "last_id": "2100658231794086209",
+  "new_this_run": 2,
+  "post_count": 190,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100658231794086209",
+      "created_at": "2026-09-17T18:48:45.000Z",
+      "text": "$4.8 million into these $AAPL calls now https://t.co/iJkMUzRcSs https://t.co/5xBHoLLd2B",
+      "url": "https://x.com/FL0WG0D/status/2100658231794086209",
+      "images": [
+        "images/2100658231794086209-0.jpg"
+      ]
+    },
+    {
+      "id": "2100657899009617985",
+      "created_at": "2026-09-17T18:47:26.000Z",
+      "text": "$SKHY - $577K Call buyer https://t.co/izYBFaMmaq",
+      "url": "https://x.com/FL0WG0D/status/2100657899009617985",
+      "images": [
+        "images/2100657899009617985-0.jpg"
+      ]
+    },
     {
       "id": "2100649617490678115",
       "created_at": "2026-09-17T18:14:31.000Z",
@@ -531,18 +549,14 @@
       "created_at": "2026-09-10T13:48:39.000Z",
       "text": "$968K into these $AAPL calls https://t.co/gORycItHAb",
       "url": "https://x.com/FL0WG0D/status/2098045994310984103",
-      "images": [
-        "images/2098045994310984103-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2098044399133360613",
       "created_at": "2026-09-10T13:42:19.000Z",
       "text": "$FSLY - $294K Call buyer https://t.co/WjD2kvpG2q",
       "url": "https://x.com/FL0WG0D/status/2098044399133360613",
-      "images": [
-        "images/2098044399133360613-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097772530702471270",
