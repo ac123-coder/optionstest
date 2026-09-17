@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-17T16:06:24+00:00",
-  "last_id": "2100616618589966421",
+  "updated_at": "2026-09-17T16:23:06+00:00",
+  "last_id": "2100618003398168743",
   "new_this_run": 1,
-  "post_count": 185,
+  "post_count": 186,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100618003398168743",
+      "created_at": "2026-09-17T16:08:54.000Z",
+      "text": "Some $AMD $600 calls for next week getting hit https://t.co/tfwwXa3Zwv",
+      "url": "https://x.com/FL0WG0D/status/2100618003398168743",
+      "images": [
+        "images/2100618003398168743-0.jpg"
+      ]
+    },
     {
       "id": "2100616618589966421",
       "created_at": "2026-09-17T16:03:24.000Z",
@@ -540,9 +549,7 @@
       "created_at": "2026-09-09T17:34:55.000Z",
       "text": "$15.5 million into these $PLTR calls https://t.co/SLAuegDxdu",
       "url": "https://x.com/FL0WG0D/status/2097740549893595478",
-      "images": [
-        "images/2097740549893595478-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097732818910564530",
