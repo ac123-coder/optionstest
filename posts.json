@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-17T15:30:39+00:00",
-  "last_id": "2100588838175264933",
-  "new_this_run": 0,
-  "post_count": 182,
+  "updated_at": "2026-09-17T15:44:24+00:00",
+  "last_id": "2100608431967142166",
+  "new_this_run": 1,
+  "post_count": 183,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100608431967142166",
+      "created_at": "2026-09-17T15:30:52.000Z",
+      "text": "$2.6 million into these $DHR calls https://t.co/u1WN9t5BIf",
+      "url": "https://x.com/FL0WG0D/status/2100608431967142166",
+      "images": [
+        "images/2100608431967142166-0.jpg"
+      ]
+    },
     {
       "id": "2100588838175264933",
       "created_at": "2026-09-17T14:13:00.000Z",
@@ -540,9 +549,7 @@
       "created_at": "2026-09-09T15:29:19.000Z",
       "text": "$5.4 million into these $INTC calls https://t.co/PvUB5BmRh7",
       "url": "https://x.com/FL0WG0D/status/2097708938837873022",
-      "images": [
-        "images/2097708938837873022-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2097705567833739316",
