@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-18T14:20:56+00:00",
-  "last_id": "2100944590731681932",
-  "new_this_run": 0,
-  "post_count": 193,
+  "updated_at": "2026-09-18T14:33:13+00:00",
+  "last_id": "2100955113938448768",
+  "new_this_run": 1,
+  "post_count": 194,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100955113938448768",
+      "created_at": "2026-09-18T14:28:27.000Z",
+      "text": "$8.6 million into these $AAPL calls https://t.co/DeHdUHfZVN",
+      "url": "https://x.com/FL0WG0D/status/2100955113938448768",
+      "images": [
+        "images/2100955113938448768-0.jpg"
+      ]
+    },
     {
       "id": "2100944590731681932",
       "created_at": "2026-09-18T13:46:38.000Z",
@@ -540,9 +549,7 @@
       "created_at": "2026-09-10T16:31:24.000Z",
       "text": "$1.9 million into these $EQT calls https://t.co/FIEt6pUF53",
       "url": "https://x.com/FL0WG0D/status/2098086951089832321",
-      "images": [
-        "images/2098086951089832321-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2098069831203291269",
