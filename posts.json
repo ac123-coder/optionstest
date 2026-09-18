@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-18T17:43:25+00:00",
-  "last_id": "2100999311039328314",
-  "new_this_run": 0,
+  "updated_at": "2026-09-18T17:51:38+00:00",
+  "last_id": "2101005656996110675",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2101005656996110675",
+      "created_at": "2026-09-18T17:49:18.000Z",
+      "text": "$2.1 million into these $LRCX calls https://t.co/IjDmkJrBTV",
+      "url": "https://x.com/FL0WG0D/status/2101005656996110675",
+      "images": [
+        "images/2101005656996110675-0.jpg"
+      ]
+    },
     {
       "id": "2100999311039328314",
       "created_at": "2026-09-18T17:24:05.000Z",
@@ -538,9 +547,7 @@
       "created_at": "2026-09-11T14:16:37.000Z",
       "text": "$1.9 million into these $SWKS calls https://t.co/dON8W8OSRd",
       "url": "https://x.com/FL0WG0D/status/2098415421716119686",
-      "images": [
-        "images/2098415421716119686-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2098410579236892959",
@@ -1513,13 +1520,6 @@
       "created_at": "2026-08-28T15:06:10.000Z",
       "text": "$MAGS - $210K Call buyer https://t.co/KDAbkcO5Om",
       "url": "https://x.com/FL0WG0D/status/2093354460101701667",
-      "images": []
-    },
-    {
-      "id": "2093354023235489913",
-      "created_at": "2026-08-28T15:04:26.000Z",
-      "text": "772 --&gt; 775 🎯. Nice setup today for $SPY heatmaps on Bullflow. This is why you don't need to pay $500 a month for these maps! \n\nLink in my bio for discount on Bullflows heatmaps + flow https://t.co/twV9JcbNfA",
-      "url": "https://x.com/FL0WG0D/status/2093354023235489913",
       "images": []
     }
   ]
