@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-18T16:44:12+00:00",
-  "last_id": "2100975594544488645",
-  "new_this_run": 0,
+  "updated_at": "2026-09-18T16:52:40+00:00",
+  "last_id": "2100990884909138288",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100990884909138288",
+      "created_at": "2026-09-18T16:50:36.000Z",
+      "text": "$2.2 million into these $ERAS calls https://t.co/4eWnFhUbeB",
+      "url": "https://x.com/FL0WG0D/status/2100990884909138288",
+      "images": [
+        "images/2100990884909138288-0.jpg"
+      ]
+    },
     {
       "id": "2100975594544488645",
       "created_at": "2026-09-18T15:49:50.000Z",
@@ -538,9 +547,7 @@
       "created_at": "2026-09-11T13:50:59.000Z",
       "text": "$INTC - $389K Call buyer https://t.co/1hWitDT72X",
       "url": "https://x.com/FL0WG0D/status/2098408969936994534",
-      "images": [
-        "images/2098408969936994534-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2098408513542250752",
@@ -1513,13 +1520,6 @@
       "created_at": "2026-08-28T14:35:59.000Z",
       "text": "$QCOM - $767K Call buyer https://t.co/0Fv2wL7Y7O",
       "url": "https://x.com/FL0WG0D/status/2093346863567016149",
-      "images": []
-    },
-    {
-      "id": "2093338135912395166",
-      "created_at": "2026-08-28T14:01:18.000Z",
-      "text": "$CRM - $357K Call buyer https://t.co/LhcAIpCZA6",
-      "url": "https://x.com/FL0WG0D/status/2093338135912395166",
       "images": []
     }
   ]
