@@ -1,12 +1,28 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-18T15:46:19+00:00",
-  "last_id": "2100965035056980312",
-  "new_this_run": 0,
-  "post_count": 199,
+  "updated_at": "2026-09-18T15:55:11+00:00",
+  "last_id": "2100975594544488645",
+  "new_this_run": 2,
+  "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2100975594544488645",
+      "created_at": "2026-09-18T15:49:50.000Z",
+      "text": "Opening trade https://t.co/AXxIvwRU5C",
+      "url": "https://x.com/FL0WG0D/status/2100975594544488645",
+      "images": []
+    },
+    {
+      "id": "2100975373362114721",
+      "created_at": "2026-09-18T15:48:57.000Z",
+      "text": "Leopold closed the $INTC calls yesterday. Opened them on 9/9 https://t.co/vmTi4ElgdO https://t.co/3cg1GNX1m4",
+      "url": "https://x.com/FL0WG0D/status/2100975373362114721",
+      "images": [
+        "images/2100975373362114721-0.jpg"
+      ]
+    },
     {
       "id": "2100965035056980312",
       "created_at": "2026-09-18T15:07:53.000Z",
@@ -531,19 +547,14 @@
       "created_at": "2026-09-11T13:49:10.000Z",
       "text": "$IBIT - $944K Call buyer https://t.co/TjBfNwlpJZ",
       "url": "https://x.com/FL0WG0D/status/2098408513542250752",
-      "images": [
-        "images/2098408513542250752-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2098407851781664817",
       "created_at": "2026-09-11T13:46:33.000Z",
       "text": "2 decent size $AAOI put sellers (bullish) https://t.co/8HK78vrjMB",
       "url": "https://x.com/FL0WG0D/status/2098407851781664817",
-      "images": [
-        "images/2098407851781664817-0.jpg",
-        "images/2098407851781664817-1.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2098405859395092981",
@@ -1509,13 +1520,6 @@
       "created_at": "2026-08-28T14:01:18.000Z",
       "text": "$CRM - $357K Call buyer https://t.co/LhcAIpCZA6",
       "url": "https://x.com/FL0WG0D/status/2093338135912395166",
-      "images": []
-    },
-    {
-      "id": "2093337761587568746",
-      "created_at": "2026-08-28T13:59:49.000Z",
-      "text": "$2.3 million into these $INTC calls https://t.co/fHEkLItgZx",
-      "url": "https://x.com/FL0WG0D/status/2093337761587568746",
       "images": []
     }
   ]
