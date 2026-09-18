@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-18T19:54:43+00:00",
-  "last_id": "2101033456167772255",
-  "new_this_run": 0,
+  "updated_at": "2026-09-18T20:05:08+00:00",
+  "last_id": "2101038320847347836",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2101038320847347836",
+      "created_at": "2026-09-18T19:59:05.000Z",
+      "text": "These $MU calls just ran 100% in just 2 hours 🤯 https://t.co/tku0ON05EU https://t.co/JzsabjWvpj",
+      "url": "https://x.com/FL0WG0D/status/2101038320847347836",
+      "images": [
+        "images/2101038320847347836-0.jpg"
+      ]
+    },
     {
       "id": "2101033456167772255",
       "created_at": "2026-09-18T19:39:45.000Z",
@@ -538,9 +547,7 @@
       "created_at": "2026-09-14T17:33:42.000Z",
       "text": "$GOOG - $5.7M Put seller (bullish) https://t.co/CkdOatHqae",
       "url": "https://x.com/FL0WG0D/status/2099552180902510920",
-      "images": [
-        "images/2099552180902510920-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2099551703632695807",
@@ -1513,13 +1520,6 @@
       "created_at": "2026-08-31T13:53:16.000Z",
       "text": "$1 million into these $MRNA calls https://t.co/dIFZLV6kcJ",
       "url": "https://x.com/FL0WG0D/status/2094423278756475012",
-      "images": []
-    },
-    {
-      "id": "2094415817895035273",
-      "created_at": "2026-08-31T13:23:38.000Z",
-      "text": "Noteworthy flow from Friday\n\n$AMZN 267.5 Call (9/11) - $1.6M @ 5.10\n$QCOM 170 Call (9/11) - $1.2M @ 2.22\n$CVX 205 Call (9/18) - $1.3M @ 3.50\n$NVDA 190 Put (10/2) - $863K @ 1.27",
-      "url": "https://x.com/FL0WG0D/status/2094415817895035273",
       "images": []
     }
   ]
