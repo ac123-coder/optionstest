@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T18:01:07+00:00",
-  "last_id": "2102091454982090900",
-  "new_this_run": 0,
+  "updated_at": "2026-09-21T18:20:04+00:00",
+  "last_id": "2102097516548210812",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102097516548210812",
+      "created_at": "2026-09-21T18:07:57.000Z",
+      "text": "$1.9 million into these $DDOG calls https://t.co/bNcKnNCcPW",
+      "url": "https://x.com/FL0WG0D/status/2102097516548210812",
+      "images": [
+        "images/2102097516548210812-0.jpg"
+      ]
+    },
     {
       "id": "2102091454982090900",
       "created_at": "2026-09-21T17:43:52.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-16T19:08:12.000Z",
       "text": "$3 million into these $SPY puts https://t.co/bQm5aCMJZB",
       "url": "https://x.com/FL0WG0D/status/2100300739033575718",
-      "images": [
-        "images/2100300739033575718-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100295870612746604",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-09-01T19:15:44.000Z",
       "text": "Nice entry for this $MRNA bull from yesterday https://t.co/3BM8snHKqG https://t.co/0KVLo5FbJe",
       "url": "https://x.com/FL0WG0D/status/2094866816782704871",
-      "images": []
-    },
-    {
-      "id": "2094857119501550079",
-      "created_at": "2026-09-01T18:37:12.000Z",
-      "text": "$2 million into these $PBR calls https://t.co/KOyKrWOhje",
-      "url": "https://x.com/FL0WG0D/status/2094857119501550079",
       "images": []
     }
   ]
