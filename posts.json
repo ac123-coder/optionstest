@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T16:22:07+00:00",
-  "last_id": "2102070166880141532",
-  "new_this_run": 2,
+  "updated_at": "2026-09-21T16:34:44+00:00",
+  "last_id": "2102073998767018496",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102073998767018496",
+      "created_at": "2026-09-21T16:34:30.000Z",
+      "text": "$IGV - $779K Call buyer https://t.co/Tda9Affaha",
+      "url": "https://x.com/FL0WG0D/status/2102073998767018496",
+      "images": [
+        "images/2102073998767018496-0.jpg"
+      ]
+    },
     {
       "id": "2102070166880141532",
       "created_at": "2026-09-21T16:19:17.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-09-16T16:05:00.000Z",
       "text": "Limited time 70% sale for Options Funding eval accounts right now. Code FLOW (unlimited uses)\n\nhttps://t.co/2i5Bplj808 https://t.co/vfYRQZgKxV",
       "url": "https://x.com/FL0WG0D/status/2100254635403424145",
-      "images": [
-        "images/2100254635403424145-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100245820809396364",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-09-01T15:49:30.000Z",
       "text": "$1.1 million into these $BNO calls https://t.co/rWX5uYB921",
       "url": "https://x.com/FL0WG0D/status/2094814917962403992",
-      "images": []
-    },
-    {
-      "id": "2094814592086024494",
-      "created_at": "2026-09-01T15:48:13.000Z",
-      "text": "$1.2 million into these $MU calls https://t.co/SaVtwLyx7H",
-      "url": "https://x.com/FL0WG0D/status/2094814592086024494",
       "images": []
     }
   ]
