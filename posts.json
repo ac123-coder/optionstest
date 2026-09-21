@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T13:54:45+00:00",
-  "last_id": "2102033381806539071",
-  "new_this_run": 2,
+  "updated_at": "2026-09-21T14:05:16+00:00",
+  "last_id": "2102034634506752074",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102034634506752074",
+      "created_at": "2026-09-21T13:58:05.000Z",
+      "text": "Over 70% for this chasing $META bull. My X subs getting the best flow out there https://t.co/BO2cpWKSSL https://t.co/4Zu7aPE4Gd",
+      "url": "https://x.com/FL0WG0D/status/2102034634506752074",
+      "images": [
+        "images/2102034634506752074-0.jpg"
+      ]
+    },
     {
       "id": "2102033381806539071",
       "created_at": "2026-09-21T13:53:06.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-09-15T15:05:52.000Z",
       "text": "$1 million into these $CAVA calls https://t.co/104yz5Ec02",
       "url": "https://x.com/FL0WG0D/status/2099877367783051695",
-      "images": [
-        "images/2099877367783051695-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2099873864318656694",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-08-31T17:11:47.000Z",
       "text": "$429K into these $DRAM puts https://t.co/gJNnZuox2Z",
       "url": "https://x.com/FL0WG0D/status/2094473233827250674",
-      "images": []
-    },
-    {
-      "id": "2094471277805285834",
-      "created_at": "2026-08-31T17:04:00.000Z",
-      "text": "$VEEV - $424K Call buyer https://t.co/KGgQOlhTQs",
-      "url": "https://x.com/FL0WG0D/status/2094471277805285834",
       "images": []
     }
   ]
