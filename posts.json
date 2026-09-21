@@ -1,12 +1,28 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T16:46:59+00:00",
-  "last_id": "2102077085523022090",
-  "new_this_run": 1,
+  "updated_at": "2026-09-21T16:56:32+00:00",
+  "last_id": "2102079201318723849",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102079201318723849",
+      "created_at": "2026-09-21T16:55:10.000Z",
+      "text": "Could of sold some to. Will not know until OI updates in the morning",
+      "url": "https://x.com/FL0WG0D/status/2102079201318723849",
+      "images": []
+    },
+    {
+      "id": "2102078893003796522",
+      "created_at": "2026-09-21T16:53:57.000Z",
+      "text": "This $QQQ bull from this morning is already up over 70%. Possibly adding more with a total of $11.3 million into these contracts now https://t.co/SO9zfduz78 https://t.co/Wu7h9ci5Aw",
+      "url": "https://x.com/FL0WG0D/status/2102078893003796522",
+      "images": [
+        "images/2102078893003796522-0.jpg"
+      ]
+    },
     {
       "id": "2102077085523022090",
       "created_at": "2026-09-21T16:46:46.000Z",
@@ -525,18 +541,14 @@
       "created_at": "2026-09-16T18:44:00.000Z",
       "text": "$1.2 million into these $META calls https://t.co/XblffyUzWe",
       "url": "https://x.com/FL0WG0D/status/2100294647029321793",
-      "images": [
-        "images/2100294647029321793-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100256802470343077",
       "created_at": "2026-09-16T16:13:37.000Z",
       "text": "$OPCH - $612K Call buyer https://t.co/0Bhdm6yMN3",
       "url": "https://x.com/FL0WG0D/status/2100256802470343077",
-      "images": [
-        "images/2100256802470343077-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100256487457079449",
@@ -1502,20 +1514,6 @@
       "created_at": "2026-09-01T16:25:40.000Z",
       "text": "🤔🤔 $BNO bull is paid https://t.co/Mz76vWk41l https://t.co/U6pPYPR8QS",
       "url": "https://x.com/FL0WG0D/status/2094824017379164645",
-      "images": []
-    },
-    {
-      "id": "2094820982498136326",
-      "created_at": "2026-09-01T16:13:36.000Z",
-      "text": "$PCG - $399K Call buyer https://t.co/yR95mjagbc",
-      "url": "https://x.com/FL0WG0D/status/2094820982498136326",
-      "images": []
-    },
-    {
-      "id": "2094816041280880732",
-      "created_at": "2026-09-01T15:53:58.000Z",
-      "text": "$10.8 million into these $AAPL calls for January 🤯 https://t.co/Sfo00a3I0k",
-      "url": "https://x.com/FL0WG0D/status/2094816041280880732",
       "images": []
     }
   ]
