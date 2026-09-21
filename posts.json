@@ -1,12 +1,19 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T13:00:18+00:00",
-  "last_id": "2101038320847347836",
-  "new_this_run": 0,
+  "updated_at": "2026-09-21T13:16:20+00:00",
+  "last_id": "2102023798027350086",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102023798027350086",
+      "created_at": "2026-09-21T13:15:01.000Z",
+      "text": "Noteworthy flow from Friday\n\n$PLTR 172.5 Call (9/25) - $ 1.6M @ 5.47\n$LRCX 300 Call (10/16) - $3.1M @ 10.44\n$ERAS 17.5 Call (11/20) - $2.8M @ 2.02\n$MSTR 190 Call (12/18) - $1.2M @ 10.77\n$RARE 15 Call (1/15/27) - $3M @ 2.53\n$CRWV 90 Call (3/19/27) - $1.8M @ 15.08",
+      "url": "https://x.com/FL0WG0D/status/2102023798027350086",
+      "images": []
+    },
     {
       "id": "2101038320847347836",
       "created_at": "2026-09-18T19:59:05.000Z",
@@ -538,9 +545,7 @@
       "created_at": "2026-09-14T17:46:17.000Z",
       "text": "$1.4 million into these $INTU calls https://t.co/ZV6IVcFY9H",
       "url": "https://x.com/FL0WG0D/status/2099555347220349305",
-      "images": [
-        "images/2099555347220349305-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2099552180902510920",
@@ -1513,13 +1518,6 @@
       "created_at": "2026-08-31T14:08:34.000Z",
       "text": "$SHOP - $497K Put buyer https://t.co/Fg2tc6gEBf",
       "url": "https://x.com/FL0WG0D/status/2094427127286288465",
-      "images": []
-    },
-    {
-      "id": "2094423278756475012",
-      "created_at": "2026-08-31T13:53:16.000Z",
-      "text": "$1 million into these $MRNA calls https://t.co/dIFZLV6kcJ",
-      "url": "https://x.com/FL0WG0D/status/2094423278756475012",
       "images": []
     }
   ]
