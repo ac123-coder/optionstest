@@ -1,12 +1,46 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T13:30:00+00:00",
-  "last_id": "2102023798027350086",
-  "new_this_run": 0,
+  "updated_at": "2026-09-21T13:43:20+00:00",
+  "last_id": "2102029612993716485",
+  "new_this_run": 4,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102029612993716485",
+      "created_at": "2026-09-21T13:38:08.000Z",
+      "text": "https://t.co/EVppyKiI3n",
+      "url": "https://x.com/FL0WG0D/status/2102029612993716485",
+      "images": []
+    },
+    {
+      "id": "2102029269127901212",
+      "created_at": "2026-09-21T13:36:46.000Z",
+      "text": "$3.4 million into these $MU calls https://t.co/5wV4uLKB7Y",
+      "url": "https://x.com/FL0WG0D/status/2102029269127901212",
+      "images": [
+        "images/2102029269127901212-0.jpg"
+      ]
+    },
+    {
+      "id": "2102028964189323505",
+      "created_at": "2026-09-21T13:35:33.000Z",
+      "text": "$5 million into these $QQQ December calls. $815 strike 👀 https://t.co/G6STYshCBJ",
+      "url": "https://x.com/FL0WG0D/status/2102028964189323505",
+      "images": [
+        "images/2102028964189323505-0.jpg"
+      ]
+    },
+    {
+      "id": "2102028440748625937",
+      "created_at": "2026-09-21T13:33:28.000Z",
+      "text": "Oh my this $META bull is paid. Tons of flow posted for my X subscribers last Friday https://t.co/JFSQunOJSt",
+      "url": "https://x.com/FL0WG0D/status/2102028440748625937",
+      "images": [
+        "images/2102028440748625937-0.jpg"
+      ]
+    },
     {
       "id": "2102023798027350086",
       "created_at": "2026-09-21T13:15:01.000Z",
@@ -509,36 +543,28 @@
       "created_at": "2026-09-15T14:17:35.000Z",
       "text": "$2.3 million into these $META calls https://t.co/nIS8PSqXp4",
       "url": "https://x.com/FL0WG0D/status/2099865214384513350",
-      "images": [
-        "images/2099865214384513350-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2099582007403528321",
       "created_at": "2026-09-14T19:32:13.000Z",
       "text": "$8 million into these $PANW calls https://t.co/FF1Qgx1Ouz",
       "url": "https://x.com/FL0WG0D/status/2099582007403528321",
-      "images": [
-        "images/2099582007403528321-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2099577485964820682",
       "created_at": "2026-09-14T19:14:15.000Z",
       "text": "$AMZN - $1.6M Put seller (bullish) https://t.co/3IHKzV8W7o",
       "url": "https://x.com/FL0WG0D/status/2099577485964820682",
-      "images": [
-        "images/2099577485964820682-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2099565039740915924",
       "created_at": "2026-09-14T18:24:48.000Z",
       "text": "Small $GME bull https://t.co/mBOPfDHFWg",
       "url": "https://x.com/FL0WG0D/status/2099565039740915924",
-      "images": [
-        "images/2099565039740915924-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2099555347220349305",
@@ -1490,34 +1516,6 @@
       "created_at": "2026-08-31T16:31:30.000Z",
       "text": "$MRVL - $382K Call buyer https://t.co/QPNJ10ReSM",
       "url": "https://x.com/FL0WG0D/status/2094463098409058402",
-      "images": []
-    },
-    {
-      "id": "2094460417888166355",
-      "created_at": "2026-08-31T16:20:51.000Z",
-      "text": "$5.5 million into these $FSLR calls for 2028 https://t.co/dnUz95m8DG",
-      "url": "https://x.com/FL0WG0D/status/2094460417888166355",
-      "images": []
-    },
-    {
-      "id": "2094458343620296941",
-      "created_at": "2026-08-31T16:12:36.000Z",
-      "text": "Small $GPRO bull https://t.co/k5ulGyDXKD",
-      "url": "https://x.com/FL0WG0D/status/2094458343620296941",
-      "images": []
-    },
-    {
-      "id": "2094429700189802819",
-      "created_at": "2026-08-31T14:18:47.000Z",
-      "text": "$1 million into these $FUTU calls https://t.co/7NOoJIbd9W",
-      "url": "https://x.com/FL0WG0D/status/2094429700189802819",
-      "images": []
-    },
-    {
-      "id": "2094427127286288465",
-      "created_at": "2026-08-31T14:08:34.000Z",
-      "text": "$SHOP - $497K Put buyer https://t.co/Fg2tc6gEBf",
-      "url": "https://x.com/FL0WG0D/status/2094427127286288465",
       "images": []
     }
   ]
