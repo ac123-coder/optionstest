@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T15:33:19+00:00",
-  "last_id": "2102057774662156688",
-  "new_this_run": 3,
+  "updated_at": "2026-09-21T15:45:07+00:00",
+  "last_id": "2102060179709723076",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102060179709723076",
+      "created_at": "2026-09-21T15:39:35.000Z",
+      "text": "$QCOM - $516K Call buyer https://t.co/n8caPmr040",
+      "url": "https://x.com/FL0WG0D/status/2102060179709723076",
+      "images": [
+        "images/2102060179709723076-0.jpg"
+      ]
+    },
     {
       "id": "2102057774662156688",
       "created_at": "2026-09-21T15:30:02.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-09-16T14:21:16.000Z",
       "text": "Might of already took profits https://t.co/rZj9DjnkkC",
       "url": "https://x.com/FL0WG0D/status/2100228530751541646",
-      "images": [
-        "images/2100228530751541646-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100225166915563587",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-09-01T14:18:07.000Z",
       "text": "$HWM - $341K Call buyer https://t.co/Bxx5LbOuBo",
       "url": "https://x.com/FL0WG0D/status/2094791919859532018",
-      "images": []
-    },
-    {
-      "id": "2094788699305246902",
-      "created_at": "2026-09-01T14:05:19.000Z",
-      "text": "$ASST - $258K Call buyer https://t.co/e4Phc1C0iM",
-      "url": "https://x.com/FL0WG0D/status/2094788699305246902",
       "images": []
     }
   ]
