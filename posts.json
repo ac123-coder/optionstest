@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-22T14:47:49+00:00",
-  "last_id": "2102405817765142543",
-  "new_this_run": 0,
+  "updated_at": "2026-09-22T14:58:30+00:00",
+  "last_id": "2102411807952425441",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102411807952425441",
+      "created_at": "2026-09-22T14:56:50.000Z",
+      "text": "$SNOW Weekly https://t.co/Voxr3qm8QA",
+      "url": "https://x.com/FL0WG0D/status/2102411807952425441",
+      "images": [
+        "images/2102411807952425441-0.jpg"
+      ]
+    },
     {
       "id": "2102405817765142543",
       "created_at": "2026-09-22T14:33:02.000Z",
@@ -531,9 +540,7 @@
       "created_at": "2026-09-17T18:48:45.000Z",
       "text": "$4.8 million into these $AAPL calls now https://t.co/iJkMUzRcSs https://t.co/5xBHoLLd2B",
       "url": "https://x.com/FL0WG0D/status/2100658231794086209",
-      "images": [
-        "images/2100658231794086209-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100657899009617985",
@@ -1506,13 +1513,6 @@
       "created_at": "2026-09-02T19:01:42.000Z",
       "text": "$CLMT - $418K Call buyer https://t.co/S1v9XhomY1",
       "url": "https://x.com/FL0WG0D/status/2095225671513501864",
-      "images": []
-    },
-    {
-      "id": "2095211147628584979",
-      "created_at": "2026-09-02T18:03:59.000Z",
-      "text": "$NU - $228K Call buyer https://t.co/kd2ZzQLqod",
-      "url": "https://x.com/FL0WG0D/status/2095211147628584979",
       "images": []
     }
   ]
