@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-22T19:46:41+00:00",
-  "last_id": "2102482944082559145",
+  "updated_at": "2026-09-22T19:54:54+00:00",
+  "last_id": "2102485924923994305",
   "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102485924923994305",
+      "created_at": "2026-09-22T19:51:21.000Z",
+      "text": "Great timing here $QQQ https://t.co/PXRKqnDaaZ",
+      "url": "https://x.com/FL0WG0D/status/2102485924923994305",
+      "images": [
+        "images/2102485924923994305-0.jpg"
+      ]
+    },
     {
       "id": "2102482944082559145",
       "created_at": "2026-09-22T19:39:30.000Z",
@@ -531,9 +540,7 @@
       "created_at": "2026-09-18T17:59:47.000Z",
       "text": "$MSTR - $918K Call buyer https://t.co/z2uLzt3xSQ",
       "url": "https://x.com/FL0WG0D/status/2101008296224121129",
-      "images": [
-        "images/2101008296224121129-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2101005656996110675",
@@ -1506,13 +1513,6 @@
       "created_at": "2026-09-03T15:22:40.000Z",
       "text": "$BE - $5.9M Put seller (bullish) https://t.co/Zvfayk8KyO",
       "url": "https://x.com/FL0WG0D/status/2095532938200760808",
-      "images": []
-    },
-    {
-      "id": "2095530207331422574",
-      "created_at": "2026-09-03T15:11:49.000Z",
-      "text": "$2.1 million into these $NVDA calls https://t.co/IcWuwDU9NX",
-      "url": "https://x.com/FL0WG0D/status/2095530207331422574",
       "images": []
     }
   ]
