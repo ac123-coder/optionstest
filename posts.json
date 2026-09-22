@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-22T14:18:29+00:00",
-  "last_id": "2102400644564844889",
+  "updated_at": "2026-09-22T14:33:33+00:00",
+  "last_id": "2102405817765142543",
   "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102405817765142543",
+      "created_at": "2026-09-22T14:33:02.000Z",
+      "text": "$CLF - $1.3M Call buyer https://t.co/tyOGJ6PPXF",
+      "url": "https://x.com/FL0WG0D/status/2102405817765142543",
+      "images": [
+        "images/2102405817765142543-0.jpg"
+      ]
+    },
+    {
+      "id": "2102404594076946852",
+      "created_at": "2026-09-22T14:28:10.000Z",
+      "text": "$1.3 million into these $MRNA calls https://t.co/CMTHZrOeI0",
+      "url": "https://x.com/FL0WG0D/status/2102404594076946852",
+      "images": [
+        "images/2102404594076946852-0.jpg"
+      ]
+    },
     {
       "id": "2102400644564844889",
       "created_at": "2026-09-22T14:12:29.000Z",
@@ -522,18 +540,14 @@
       "created_at": "2026-09-17T18:47:26.000Z",
       "text": "$SKHY - $577K Call buyer https://t.co/izYBFaMmaq",
       "url": "https://x.com/FL0WG0D/status/2100657899009617985",
-      "images": [
-        "images/2100657899009617985-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100649617490678115",
       "created_at": "2026-09-17T18:14:31.000Z",
       "text": "$1.1 million into these $ITW calls https://t.co/6AVXFcs5vb",
       "url": "https://x.com/FL0WG0D/status/2100649617490678115",
-      "images": [
-        "images/2100649617490678115-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100647432589598857",
@@ -1499,20 +1513,6 @@
       "created_at": "2026-09-02T18:03:59.000Z",
       "text": "$NU - $228K Call buyer https://t.co/kd2ZzQLqod",
       "url": "https://x.com/FL0WG0D/status/2095211147628584979",
-      "images": []
-    },
-    {
-      "id": "2095198265104830900",
-      "created_at": "2026-09-02T17:12:47.000Z",
-      "text": "Self-funded account = full downside on you.  \n\nOptionsFunding = low eval, trade their money, keep 80%.  \n\nFirst options prop firm. Get funded ASAP.  \n\nCode FLOW = 60% off all evals (unlimited uses).\nhttps://t.co/2i5Bplj808",
-      "url": "https://x.com/FL0WG0D/status/2095198265104830900",
-      "images": []
-    },
-    {
-      "id": "2095191461650157654",
-      "created_at": "2026-09-02T16:45:45.000Z",
-      "text": "$XP - $714K Call buyer https://t.co/hyZIXAKzQZ",
-      "url": "https://x.com/FL0WG0D/status/2095191461650157654",
       "images": []
     }
   ]
