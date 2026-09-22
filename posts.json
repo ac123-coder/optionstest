@@ -1,12 +1,38 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-21T20:59:59+00:00",
-  "last_id": "2102115840707428651",
-  "new_this_run": 0,
+  "updated_at": "2026-09-22T12:07:47+00:00",
+  "last_id": "2102360604480815259",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102360604480815259",
+      "created_at": "2026-09-22T11:33:22.000Z",
+      "text": "Unreal $VKTX https://t.co/w8QLXH0NBj https://t.co/czIYDXn8zo",
+      "url": "https://x.com/FL0WG0D/status/2102360604480815259",
+      "images": [
+        "images/2102360604480815259-0.jpg"
+      ]
+    },
+    {
+      "id": "2102158985256165493",
+      "created_at": "2026-09-21T22:12:12.000Z",
+      "text": "Sub here\n\nhttps://t.co/qufKfVJeCC",
+      "url": "https://x.com/FL0WG0D/status/2102158985256165493",
+      "images": []
+    },
+    {
+      "id": "2102158891865756099",
+      "created_at": "2026-09-21T22:11:50.000Z",
+      "text": "Friday I caught this $META bull loading short-dated calls with urgency. Fast forward to Monday and $META ended the day up 11% and these calls are now up over 1,100%.\n\nMy X subscribers get the fastest and best flow on the street. Every single day. https://t.co/ap0HItentQ",
+      "url": "https://x.com/FL0WG0D/status/2102158891865756099",
+      "images": [
+        "images/2102158891865756099-0.jpg",
+        "images/2102158891865756099-1.jpg"
+      ]
+    },
     {
       "id": "2102115840707428651",
       "created_at": "2026-09-21T19:20:46.000Z",
@@ -516,9 +542,7 @@
       "created_at": "2026-09-17T14:13:00.000Z",
       "text": "So much $TSLA flow yesterday + very bullish GEX map posted for my X subs. Day done https://t.co/JVMzDAOvZL https://t.co/PdF7q6JXtP",
       "url": "https://x.com/FL0WG0D/status/2100588838175264933",
-      "images": [
-        "images/2100588838175264933-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100573656938066256",
@@ -532,9 +556,7 @@
       "created_at": "2026-09-16T19:49:11.000Z",
       "text": "Bullflows $SPY GEX chart showed nothing but downside as soon as Warsh started speaking.\n\nNo need to pay hundreds a month for this data. Bullflow has you covered for $69/month, use code FLOW for 20% off.\n\nhttps://t.co/RLfrjpIluE https://t.co/V7FWRF0rdG",
       "url": "https://x.com/FL0WG0D/status/2100311051614965839",
-      "images": [
-        "images/2100311051614965839-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100302552180945067",
@@ -1493,27 +1515,6 @@
       "created_at": "2026-09-02T14:24:12.000Z",
       "text": "$2.9 million into these $NVDA calls https://t.co/8aGupCZX7Z",
       "url": "https://x.com/FL0WG0D/status/2095155839065612458",
-      "images": []
-    },
-    {
-      "id": "2095150443798167966",
-      "created_at": "2026-09-02T14:02:46.000Z",
-      "text": "$PURR Weekly Bull https://t.co/Zw9IOGupRO",
-      "url": "https://x.com/FL0WG0D/status/2095150443798167966",
-      "images": []
-    },
-    {
-      "id": "2095137286371291557",
-      "created_at": "2026-09-02T13:10:29.000Z",
-      "text": "Noteworthy flow from yesterday\n\n$OSCR 34 Call (9/18) - $840K @ 0.50\n$BNO 58 Call (10/16) - $2.3M @ 2.56\n$AAPL 355 Call (1/15/27) - $11.6M @ 10.66\n$PBR 22 Call (6/17/27) - $4.2M @ 1.97",
-      "url": "https://x.com/FL0WG0D/status/2095137286371291557",
-      "images": []
-    },
-    {
-      "id": "2094871992369381555",
-      "created_at": "2026-09-01T19:36:18.000Z",
-      "text": "$404K into these $OSCR calls https://t.co/9IplYAErM1",
-      "url": "https://x.com/FL0WG0D/status/2094871992369381555",
       "images": []
     }
   ]
