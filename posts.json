@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-22T15:48:52+00:00",
-  "last_id": "2102416972411449661",
-  "new_this_run": 0,
+  "updated_at": "2026-09-22T15:57:07+00:00",
+  "last_id": "2102426197091115077",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102426197091115077",
+      "created_at": "2026-09-22T15:54:01.000Z",
+      "text": "$USB - $453K Call buyer https://t.co/v4qGrvJsZx",
+      "url": "https://x.com/FL0WG0D/status/2102426197091115077",
+      "images": [
+        "images/2102426197091115077-0.jpg"
+      ]
+    },
     {
       "id": "2102416972411449661",
       "created_at": "2026-09-22T15:17:21.000Z",
@@ -531,9 +540,7 @@
       "created_at": "2026-09-18T13:39:22.000Z",
       "text": "$GOOGL ripping today after this bull loaded up $1.1 million worth of calls yesterday. All posted for my X subscribers! https://t.co/R8ZIbtox3I",
       "url": "https://x.com/FL0WG0D/status/2100942762065498193",
-      "images": [
-        "images/2100942762065498193-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100941868880032158",
@@ -1506,13 +1513,6 @@
       "created_at": "2026-09-02T19:50:49.000Z",
       "text": "$HL - $390K Call buyer https://t.co/CKAir04ocC",
       "url": "https://x.com/FL0WG0D/status/2095238031972139031",
-      "images": []
-    },
-    {
-      "id": "2095230827458138265",
-      "created_at": "2026-09-02T19:22:11.000Z",
-      "text": "$567K into these $REPX calls https://t.co/OGOgMD9lNP",
-      "url": "https://x.com/FL0WG0D/status/2095230827458138265",
       "images": []
     }
   ]
