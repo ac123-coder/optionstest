@@ -1,12 +1,29 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-22T18:25:07+00:00",
-  "last_id": "2102459544920277382",
-  "new_this_run": 1,
+  "updated_at": "2026-09-22T18:39:30+00:00",
+  "last_id": "2102465104373596161",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102465104373596161",
+      "created_at": "2026-09-22T18:28:37.000Z",
+      "text": "Sub here https://t.co/qufKfVJeCC",
+      "url": "https://x.com/FL0WG0D/status/2102465104373596161",
+      "images": []
+    },
+    {
+      "id": "2102464982260846710",
+      "created_at": "2026-09-22T18:28:08.000Z",
+      "text": "$MU is up over 4% today. No surprise here, the bulls were loading up yesterday. My X subs knew. The weekly $MU bull is up over 140% now. https://t.co/6JNloEcSly",
+      "url": "https://x.com/FL0WG0D/status/2102464982260846710",
+      "images": [
+        "images/2102464982260846710-0.jpg",
+        "images/2102464982260846710-1.jpg"
+      ]
+    },
     {
       "id": "2102459544920277382",
       "created_at": "2026-09-22T18:06:31.000Z",
@@ -528,10 +545,7 @@
       "created_at": "2026-09-18T15:06:20.000Z",
       "text": "$META dip paid. $12 higher off the 670 bounce. Flow + Heatmap posted for X subs https://t.co/7VQv07kh8y",
       "url": "https://x.com/FL0WG0D/status/2100964645095768489",
-      "images": [
-        "images/2100964645095768489-0.jpg",
-        "images/2100964645095768489-1.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2100962218799980794",
@@ -1497,20 +1511,6 @@
       "created_at": "2026-09-03T14:21:53.000Z",
       "text": "$COIN Weekly bull https://t.co/v67dZ4BUj1",
       "url": "https://x.com/FL0WG0D/status/2095517644057162099",
-      "images": []
-    },
-    {
-      "id": "2095516986331578776",
-      "created_at": "2026-09-03T14:19:17.000Z",
-      "text": "$471K into these $MDT calls https://t.co/Y4Ov2ejjhi",
-      "url": "https://x.com/FL0WG0D/status/2095516986331578776",
-      "images": []
-    },
-    {
-      "id": "2095511328748195901",
-      "created_at": "2026-09-03T13:56:48.000Z",
-      "text": "$CBIO - $905K Call buyer https://t.co/RzlwnrsXh1",
-      "url": "https://x.com/FL0WG0D/status/2095511328748195901",
       "images": []
     }
   ]
