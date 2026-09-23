@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-23T17:46:18+00:00",
-  "last_id": "2102814019442925800",
-  "new_this_run": 0,
+  "updated_at": "2026-09-23T17:54:37+00:00",
+  "last_id": "2102818718522957852",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102818718522957852",
+      "created_at": "2026-09-23T17:53:45.000Z",
+      "text": "$2.3 million into these $U calls https://t.co/OLrIa98KZ6",
+      "url": "https://x.com/FL0WG0D/status/2102818718522957852",
+      "images": [
+        "images/2102818718522957852-0.jpg"
+      ]
+    },
     {
       "id": "2102814019442925800",
       "created_at": "2026-09-23T17:35:05.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-09-21T13:51:02.000Z",
       "text": "$AXTI - $345K Call buyer https://t.co/fOoNLt4GVZ",
       "url": "https://x.com/FL0WG0D/status/2102032860244795592",
-      "images": [
-        "images/2102032860244795592-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102029612993716485",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-09-04T13:36:54.000Z",
       "text": "This $SNDK weekly bull is so paid 🤯 https://t.co/7gi4Y2au9B https://t.co/1gNiDmCsZn",
       "url": "https://x.com/FL0WG0D/status/2095868711890550982",
-      "images": []
-    },
-    {
-      "id": "2095861379936784648",
-      "created_at": "2026-09-04T13:07:46.000Z",
-      "text": "Noteworthy flow from yesterday\n(OI Confirmed)\n\n$IBIT 42.5 Call (9/25) - $1.2M @ 3.46\n$NVDA 250 Call (10/2) - $3.6M @ 1.60\n$DPRO 7.5 Call (10/16) - $6.8M @ 0.60\n$CBIO 20 Call (2/19/27) - $1M @ 6.60\n$CHGG 1.5 Call (4/16/27) - $708K @ 0.30",
-      "url": "https://x.com/FL0WG0D/status/2095861379936784648",
       "images": []
     }
   ]
