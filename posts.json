@@ -1,12 +1,22 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-23T13:54:25+00:00",
-  "last_id": "2102756263469764903",
+  "updated_at": "2026-09-23T14:05:14+00:00",
+  "last_id": "2102758571431821351",
   "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102758571431821351",
+      "created_at": "2026-09-23T13:54:45.000Z",
+      "text": "$SNOW was a top setup this week. Almost reaching $350 target this morning. Some weekly flow yesterday which is up over 120% today https://t.co/bhpy7cRIl8 https://t.co/yQcnMLiBmN",
+      "url": "https://x.com/FL0WG0D/status/2102758571431821351",
+      "images": [
+        "images/2102758571431821351-0.jpg",
+        "images/2102758571431821351-1.jpg"
+      ]
+    },
     {
       "id": "2102756263469764903",
       "created_at": "2026-09-23T13:45:35.000Z",
@@ -529,9 +539,7 @@
       "created_at": "2026-09-18T18:54:36.000Z",
       "text": "$1.9 million into these $LLY calls https://t.co/35UmibXybz",
       "url": "https://x.com/FL0WG0D/status/2101022090652438740",
-      "images": [
-        "images/2101022090652438740-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2101021814663061525",
@@ -1504,13 +1512,6 @@
       "created_at": "2026-09-03T16:30:34.000Z",
       "text": "$1.2 million into these $DPRO calls https://t.co/DocUJSoaMb",
       "url": "https://x.com/FL0WG0D/status/2095550027720524020",
-      "images": []
-    },
-    {
-      "id": "2095542201702871293",
-      "created_at": "2026-09-03T15:59:28.000Z",
-      "text": "Over 120% already for this $COIN bull.\n\nCould of full ported these on an Options Funding eval account and be funded right now. Use code FLOW for 60% off today\n\nhttps://t.co/2i5Bplj808 https://t.co/yXx3XY6KED",
-      "url": "https://x.com/FL0WG0D/status/2095542201702871293",
       "images": []
     }
   ]
