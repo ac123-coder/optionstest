@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-23T15:14:00+00:00",
-  "last_id": "2102774347341660318",
-  "new_this_run": 0,
+  "updated_at": "2026-09-23T15:29:00+00:00",
+  "last_id": "2102778924430426412",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102778924430426412",
+      "created_at": "2026-09-23T15:15:37.000Z",
+      "text": "$3.2 million into these $AMD calls https://t.co/poNuOIenkl",
+      "url": "https://x.com/FL0WG0D/status/2102778924430426412",
+      "images": [
+        "images/2102778924430426412-0.jpg"
+      ]
+    },
     {
       "id": "2102774347341660318",
       "created_at": "2026-09-23T14:57:26.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-21T13:33:28.000Z",
       "text": "Oh my this $META bull is paid. Tons of flow posted for my X subscribers last Friday https://t.co/JFSQunOJSt",
       "url": "https://x.com/FL0WG0D/status/2102028440748625937",
-      "images": [
-        "images/2102028440748625937-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102023798027350086",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-09-03T18:02:26.000Z",
       "text": "$238K into these $CHGG calls now. $CHGG up 12% since last post https://t.co/hp27DyLAKJ https://t.co/SDrkUzTfMI",
       "url": "https://x.com/FL0WG0D/status/2095573147692986815",
-      "images": []
-    },
-    {
-      "id": "2095569216455729504",
-      "created_at": "2026-09-03T17:46:49.000Z",
-      "text": "$NVDA is flying https://t.co/Q6hoNl0WiR https://t.co/Rt9Nxyfhob",
-      "url": "https://x.com/FL0WG0D/status/2095569216455729504",
       "images": []
     }
   ]
