@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-23T15:53:54+00:00",
-  "last_id": "2102778924430426412",
-  "new_this_run": 0,
+  "updated_at": "2026-09-23T16:03:55+00:00",
+  "last_id": "2102790840892391892",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102790840892391892",
+      "created_at": "2026-09-23T16:02:59.000Z",
+      "text": "$4.5 million into these $IGV calls https://t.co/oTbsfLquaD",
+      "url": "https://x.com/FL0WG0D/status/2102790840892391892",
+      "images": [
+        "images/2102790840892391892-0.jpg"
+      ]
+    },
     {
       "id": "2102778924430426412",
       "created_at": "2026-09-23T15:15:37.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-21T13:35:33.000Z",
       "text": "$5 million into these $QQQ December calls. $815 strike 👀 https://t.co/G6STYshCBJ",
       "url": "https://x.com/FL0WG0D/status/2102028964189323505",
-      "images": [
-        "images/2102028964189323505-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102028440748625937",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-09-03T18:08:53.000Z",
       "text": "$BMNR - $3M Put seller (bullish) https://t.co/GR5oc9SlWm",
       "url": "https://x.com/FL0WG0D/status/2095574770540499083",
-      "images": []
-    },
-    {
-      "id": "2095573147692986815",
-      "created_at": "2026-09-03T18:02:26.000Z",
-      "text": "$238K into these $CHGG calls now. $CHGG up 12% since last post https://t.co/hp27DyLAKJ https://t.co/SDrkUzTfMI",
-      "url": "https://x.com/FL0WG0D/status/2095573147692986815",
       "images": []
     }
   ]
