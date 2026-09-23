@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-23T13:44:41+00:00",
-  "last_id": "2102754141730677112",
+  "updated_at": "2026-09-23T13:54:25+00:00",
+  "last_id": "2102756263469764903",
   "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102756263469764903",
+      "created_at": "2026-09-23T13:45:35.000Z",
+      "text": "$1.4 million into these $PURR calls https://t.co/GgVKWhLWxn",
+      "url": "https://x.com/FL0WG0D/status/2102756263469764903",
+      "images": [
+        "images/2102756263469764903-0.jpg"
+      ]
+    },
     {
       "id": "2102754141730677112",
       "created_at": "2026-09-23T13:37:09.000Z",
@@ -529,9 +538,7 @@
       "created_at": "2026-09-18T18:53:30.000Z",
       "text": "$2.6 million into these $RARE calls https://t.co/FkqdKkeMEA",
       "url": "https://x.com/FL0WG0D/status/2101021814663061525",
-      "images": [
-        "images/2101021814663061525-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2101021559812972652",
@@ -1504,13 +1511,6 @@
       "created_at": "2026-09-03T15:59:28.000Z",
       "text": "Over 120% already for this $COIN bull.\n\nCould of full ported these on an Options Funding eval account and be funded right now. Use code FLOW for 60% off today\n\nhttps://t.co/2i5Bplj808 https://t.co/yXx3XY6KED",
       "url": "https://x.com/FL0WG0D/status/2095542201702871293",
-      "images": []
-    },
-    {
-      "id": "2095541399898706322",
-      "created_at": "2026-09-03T15:56:17.000Z",
-      "text": "$2.6 million into these $NBIS calls https://t.co/hcHJdjgbX3",
-      "url": "https://x.com/FL0WG0D/status/2095541399898706322",
       "images": []
     }
   ]
