@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-23T14:49:17+00:00",
-  "last_id": "2102768765448692219",
-  "new_this_run": 0,
+  "updated_at": "2026-09-23T14:59:07+00:00",
+  "last_id": "2102774347341660318",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2102774347341660318",
+      "created_at": "2026-09-23T14:57:26.000Z",
+      "text": "Ignore this. Looks sold to open $9 mill now https://t.co/G3V4P1wzI0",
+      "url": "https://x.com/FL0WG0D/status/2102774347341660318",
+      "images": [
+        "images/2102774347341660318-0.jpg"
+      ]
+    },
+    {
+      "id": "2102773412162892200",
+      "created_at": "2026-09-23T14:53:43.000Z",
+      "text": "$1.4 million into these $CRWV $110 calls https://t.co/HXK3OdgsJf",
+      "url": "https://x.com/FL0WG0D/status/2102773412162892200",
+      "images": [
+        "images/2102773412162892200-0.jpg"
+      ]
+    },
     {
       "id": "2102768765448692219",
       "created_at": "2026-09-23T14:35:15.000Z",
@@ -530,9 +548,7 @@
       "created_at": "2026-09-18T19:59:05.000Z",
       "text": "These $MU calls just ran 100% in just 2 hours 🤯 https://t.co/tku0ON05EU https://t.co/JzsabjWvpj",
       "url": "https://x.com/FL0WG0D/status/2101038320847347836",
-      "images": [
-        "images/2101038320847347836-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2101033456167772255",
@@ -1498,20 +1514,6 @@
       "created_at": "2026-09-03T17:46:49.000Z",
       "text": "$NVDA is flying https://t.co/Q6hoNl0WiR https://t.co/Rt9Nxyfhob",
       "url": "https://x.com/FL0WG0D/status/2095569216455729504",
-      "images": []
-    },
-    {
-      "id": "2095566629660750121",
-      "created_at": "2026-09-03T17:36:32.000Z",
-      "text": "$CHGG - $99K Call buyer https://t.co/ygpuDysYWE",
-      "url": "https://x.com/FL0WG0D/status/2095566629660750121",
-      "images": []
-    },
-    {
-      "id": "2095556843309346854",
-      "created_at": "2026-09-03T16:57:39.000Z",
-      "text": "🤫🤫 $SNDK https://t.co/1gNiDmCsZn",
-      "url": "https://x.com/FL0WG0D/status/2095556843309346854",
       "images": []
     }
   ]
