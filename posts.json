@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-24T16:33:55+00:00",
-  "last_id": "2103156404320166018",
-  "new_this_run": 0,
+  "updated_at": "2026-09-24T16:46:58+00:00",
+  "last_id": "2103163636197798348",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2103163636197798348",
+      "created_at": "2026-09-24T16:44:20.000Z",
+      "text": "Somebody knew... $QQQ https://t.co/XdkUxT7T8H",
+      "url": "https://x.com/FL0WG0D/status/2103163636197798348",
+      "images": [
+        "images/2103163636197798348-0.png"
+      ]
+    },
+    {
+      "id": "2103162967470621066",
+      "created_at": "2026-09-24T16:41:40.000Z",
+      "text": "$1.7 million into these $ARM calls https://t.co/wMlNjrqPgv",
+      "url": "https://x.com/FL0WG0D/status/2103162967470621066",
+      "images": [
+        "images/2103162967470621066-0.jpg"
+      ]
+    },
     {
       "id": "2103156404320166018",
       "created_at": "2026-09-24T16:15:36.000Z",
@@ -523,18 +541,14 @@
       "created_at": "2026-09-21T15:39:35.000Z",
       "text": "$QCOM - $516K Call buyer https://t.co/n8caPmr040",
       "url": "https://x.com/FL0WG0D/status/2102060179709723076",
-      "images": [
-        "images/2102060179709723076-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102057774662156688",
       "created_at": "2026-09-21T15:30:02.000Z",
       "text": "$AAOI - $121K Call buyer https://t.co/BuKDRPYpWm",
       "url": "https://x.com/FL0WG0D/status/2102057774662156688",
-      "images": [
-        "images/2102057774662156688-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102057548522168737",
@@ -1500,20 +1514,6 @@
       "created_at": "2026-09-04T17:23:01.000Z",
       "text": "$DRAM - $843K Call buyer https://t.co/LLhaMd4VK5",
       "url": "https://x.com/FL0WG0D/status/2095925616008659379",
-      "images": []
-    },
-    {
-      "id": "2095925178240823384",
-      "created_at": "2026-09-04T17:21:17.000Z",
-      "text": "$1.5 million into these $AAPL calls https://t.co/FkQ1Y1a4Qe",
-      "url": "https://x.com/FL0WG0D/status/2095925178240823384",
-      "images": []
-    },
-    {
-      "id": "2095919537346527677",
-      "created_at": "2026-09-04T16:58:52.000Z",
-      "text": "$3 million into these $MU calls https://t.co/Cjp1PUTSgE",
-      "url": "https://x.com/FL0WG0D/status/2095919537346527677",
       "images": []
     }
   ]
