@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-24T19:01:01+00:00",
-  "last_id": "2103180515889250308",
-  "new_this_run": 0,
+  "updated_at": "2026-09-24T19:16:18+00:00",
+  "last_id": "2103200739183190199",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2103200739183190199",
+      "created_at": "2026-09-24T19:11:46.000Z",
+      "text": "$1.8 million into these $TEM calls https://t.co/936WIl89D0",
+      "url": "https://x.com/FL0WG0D/status/2103200739183190199",
+      "images": [
+        "images/2103200739183190199-0.jpg"
+      ]
+    },
     {
       "id": "2103180515889250308",
       "created_at": "2026-09-24T17:51:24.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-21T16:11:13.000Z",
       "text": "$JBLU - $375K Call buyer https://t.co/iQoaTHQ52Y",
       "url": "https://x.com/FL0WG0D/status/2102068137147478105",
-      "images": [
-        "images/2102068137147478105-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102062053850485030",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-09-08T13:14:14.000Z",
       "text": "Great week to get funded! The first-ever options prop firm!\n\nRIGHT NOW: 70% off any eval account using code FLOW. (Unlimited uses per person)\n\nhttps://t.co/2i5Bplj808 https://t.co/tiU5uKyUeo",
       "url": "https://x.com/FL0WG0D/status/2097312555660144854",
-      "images": []
-    },
-    {
-      "id": "2097310806681465252",
-      "created_at": "2026-09-08T13:07:17.000Z",
-      "text": "Noteworthy flow from Friday\n(OI Confirmed)\n\n$HOOD 145 Call (10/16) - $1.5M @ 3.69\n$SMCI 48 Call (12/18) - $996K @ 3.73\n$DRAM 71 Call (1/15/27) - $902K @ 5.12\n$PPTA 35 Call (1/15/27) - $1.3M @ 1.66\n$IREN 75 Call (2/19/27) - $782K @ 3.89",
-      "url": "https://x.com/FL0WG0D/status/2097310806681465252",
       "images": []
     }
   ]
