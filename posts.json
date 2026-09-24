@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-24T16:00:52+00:00",
-  "last_id": "2103135386608312363",
-  "new_this_run": 0,
+  "updated_at": "2026-09-24T16:18:52+00:00",
+  "last_id": "2103156404320166018",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2103156404320166018",
+      "created_at": "2026-09-24T16:15:36.000Z",
+      "text": "$CCC - $485K Call buyer https://t.co/gcvpDwW5e7",
+      "url": "https://x.com/FL0WG0D/status/2103156404320166018",
+      "images": [
+        "images/2103156404320166018-0.jpg"
+      ]
+    },
     {
       "id": "2103135386608312363",
       "created_at": "2026-09-24T14:52:05.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-21T15:29:08.000Z",
       "text": "They keep adding these $INTC calls. $4.4 million into them now. Leo is that you? https://t.co/kSSzUEQS9S https://t.co/dUmWsRN2MA",
       "url": "https://x.com/FL0WG0D/status/2102057548522168737",
-      "images": [
-        "images/2102057548522168737-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102056745887580310",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-09-04T16:58:52.000Z",
       "text": "$3 million into these $MU calls https://t.co/Cjp1PUTSgE",
       "url": "https://x.com/FL0WG0D/status/2095919537346527677",
-      "images": []
-    },
-    {
-      "id": "2095917644671033425",
-      "created_at": "2026-09-04T16:51:21.000Z",
-      "text": "$644K into these $GPRO calls https://t.co/04LxSjcT45",
-      "url": "https://x.com/FL0WG0D/status/2095917644671033425",
       "images": []
     }
   ]
