@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-25T14:55:36+00:00",
-  "last_id": "2103497038704869650",
+  "updated_at": "2026-09-25T15:08:03+00:00",
+  "last_id": "2103498619936719067",
   "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2103498619936719067",
+      "created_at": "2026-09-25T14:55:26.000Z",
+      "text": "$FSLR - $915K Call buyer https://t.co/UqaD6q6KNA",
+      "url": "https://x.com/FL0WG0D/status/2103498619936719067",
+      "images": [
+        "images/2103498619936719067-0.jpg"
+      ]
+    },
     {
       "id": "2103497038704869650",
       "created_at": "2026-09-25T14:49:09.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-21T17:41:40.000Z",
       "text": "$1.9 million into these $AVGO calls https://t.co/l93ts4zzZO",
       "url": "https://x.com/FL0WG0D/status/2102090901631668496",
-      "images": [
-        "images/2102090901631668496-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102079201318723849",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-09-08T14:53:09.000Z",
       "text": "$NBIS - 355K Call buyer https://t.co/JX65UbYUGo",
       "url": "https://x.com/FL0WG0D/status/2097337450037158090",
-      "images": []
-    },
-    {
-      "id": "2097332284319822326",
-      "created_at": "2026-09-08T14:32:37.000Z",
-      "text": "$FRVO - $551K Call buyer https://t.co/ju6L00WGfV",
-      "url": "https://x.com/FL0WG0D/status/2097332284319822326",
       "images": []
     }
   ]
