@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-25T19:28:31+00:00",
-  "last_id": "2103552355996250334",
-  "new_this_run": 0,
+  "updated_at": "2026-09-25T19:39:53+00:00",
+  "last_id": "2103567959184806169",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2103567959184806169",
+      "created_at": "2026-09-25T19:30:58.000Z",
+      "text": "$VEON - $414K Call buyer https://t.co/UkzXA0Nda7",
+      "url": "https://x.com/FL0WG0D/status/2103567959184806169",
+      "images": [
+        "images/2103567959184806169-0.jpg"
+      ]
+    },
     {
       "id": "2103552355996250334",
       "created_at": "2026-09-25T18:28:58.000Z",
@@ -533,9 +542,7 @@
       "created_at": "2026-09-22T11:33:22.000Z",
       "text": "Unreal $VKTX https://t.co/w8QLXH0NBj https://t.co/czIYDXn8zo",
       "url": "https://x.com/FL0WG0D/status/2102360604480815259",
-      "images": [
-        "images/2102360604480815259-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102158985256165493",
@@ -1508,13 +1515,6 @@
       "created_at": "2026-09-08T15:28:42.000Z",
       "text": "$FPS - $470K Call buyer https://t.co/TfCoEmZKOs",
       "url": "https://x.com/FL0WG0D/status/2097346398349906236",
-      "images": []
-    },
-    {
-      "id": "2097342200958820637",
-      "created_at": "2026-09-08T15:12:02.000Z",
-      "text": "$1.3 million into these $CRWV calls. 46% OTM https://t.co/uEUtTNP3zN",
-      "url": "https://x.com/FL0WG0D/status/2097342200958820637",
       "images": []
     }
   ]
