@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-25T17:33:24+00:00",
-  "last_id": "2103518092374466675",
-  "new_this_run": 0,
+  "updated_at": "2026-09-25T17:46:38+00:00",
+  "last_id": "2103540801381028132",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2103540801381028132",
+      "created_at": "2026-09-25T17:43:03.000Z",
+      "text": "$1.4 million into these $XLU calls https://t.co/Sf51181Sxg",
+      "url": "https://x.com/FL0WG0D/status/2103540801381028132",
+      "images": [
+        "images/2103540801381028132-0.jpg"
+      ]
+    },
     {
       "id": "2103518092374466675",
       "created_at": "2026-09-25T16:12:49.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-09-21T19:20:46.000Z",
       "text": "$1.6 million into these $VKTX calls https://t.co/5pjCvnK5LY",
       "url": "https://x.com/FL0WG0D/status/2102115840707428651",
-      "images": [
-        "images/2102115840707428651-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102097516548210812",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-09-08T15:05:56.000Z",
       "text": "$3 million into these $NBIS calls for next year https://t.co/MWK95HYeo2",
       "url": "https://x.com/FL0WG0D/status/2097340665499729998",
-      "images": []
-    },
-    {
-      "id": "2097339558337663031",
-      "created_at": "2026-09-08T15:01:32.000Z",
-      "text": "$NBIS - $532K Call buyer https://t.co/Cjo6F5E1iJ",
-      "url": "https://x.com/FL0WG0D/status/2097339558337663031",
       "images": []
     }
   ]
