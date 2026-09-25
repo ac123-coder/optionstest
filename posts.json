@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-25T13:57:15+00:00",
-  "last_id": "2103474076400398658",
-  "new_this_run": 0,
+  "updated_at": "2026-09-25T14:11:28+00:00",
+  "last_id": "2103486104959680521",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2103486104959680521",
+      "created_at": "2026-09-25T14:05:42.000Z",
+      "text": "$POWI - $308K Call buyer https://t.co/JcDfDXfme1",
+      "url": "https://x.com/FL0WG0D/status/2103486104959680521",
+      "images": [
+        "images/2103486104959680521-0.jpg"
+      ]
+    },
     {
       "id": "2103474076400398658",
       "created_at": "2026-09-25T13:17:55.000Z",
@@ -530,9 +539,7 @@
       "created_at": "2026-09-21T16:34:30.000Z",
       "text": "$IGV - $779K Call buyer https://t.co/Tda9Affaha",
       "url": "https://x.com/FL0WG0D/status/2102073998767018496",
-      "images": [
-        "images/2102073998767018496-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102070166880141532",
@@ -1505,13 +1512,6 @@
       "created_at": "2026-09-08T13:56:43.000Z",
       "text": "$2.1 million into these $DRAM calls https://t.co/JuFWnFQCq6",
       "url": "https://x.com/FL0WG0D/status/2097323248396489133",
-      "images": []
-    },
-    {
-      "id": "2097319439330922903",
-      "created_at": "2026-09-08T13:41:35.000Z",
-      "text": "$890K into these $IREN calls https://t.co/iuklsRhdgx",
-      "url": "https://x.com/FL0WG0D/status/2097319439330922903",
       "images": []
     }
   ]
