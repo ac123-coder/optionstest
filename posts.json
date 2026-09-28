@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-28T13:37:39+00:00",
-  "last_id": "2104560103169065048",
-  "new_this_run": 0,
+  "updated_at": "2026-09-28T13:53:35+00:00",
+  "last_id": "2104567555658744109",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2104567555658744109",
+      "created_at": "2026-09-28T13:43:00.000Z",
+      "text": "$IONQ - $160K Call buyer https://t.co/8xZbtIrqHH",
+      "url": "https://x.com/FL0WG0D/status/2104567555658744109",
+      "images": [
+        "images/2104567555658744109-0.jpg"
+      ]
+    },
+    {
+      "id": "2104566762817589263",
+      "created_at": "2026-09-28T13:39:51.000Z",
+      "text": "$GOOGL - $559K Call buyer https://t.co/y6Rf302KXQ",
+      "url": "https://x.com/FL0WG0D/status/2104566762817589263",
+      "images": [
+        "images/2104566762817589263-0.jpg"
+      ]
+    },
     {
       "id": "2104560103169065048",
       "created_at": "2026-09-28T13:13:24.000Z",
@@ -524,18 +542,14 @@
       "created_at": "2026-09-22T14:11:24.000Z",
       "text": "$1.7 million into these $AVGO calls https://t.co/A4OvRuvbVD",
       "url": "https://x.com/FL0WG0D/status/2102400373441089963",
-      "images": [
-        "images/2102400373441089963-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102393251630318030",
       "created_at": "2026-09-22T13:43:06.000Z",
       "text": "$CRWV - $703K Call buyer https://t.co/7yh68bfVy5",
       "url": "https://x.com/FL0WG0D/status/2102393251630318030",
-      "images": [
-        "images/2102393251630318030-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102390770938314832",
@@ -1501,20 +1515,6 @@
       "created_at": "2026-09-08T16:06:03.000Z",
       "text": "$596K into these $ORCL calls. $ORCL reports earnings on Thursday https://t.co/yxwHx894AX",
       "url": "https://x.com/FL0WG0D/status/2097355797172732284",
-      "images": []
-    },
-    {
-      "id": "2097355437972623566",
-      "created_at": "2026-09-08T16:04:38.000Z",
-      "text": "$EXE - $969K Call buyer https://t.co/ANvPNj8tNa",
-      "url": "https://x.com/FL0WG0D/status/2097355437972623566",
-      "images": []
-    },
-    {
-      "id": "2097352997206458796",
-      "created_at": "2026-09-08T15:54:56.000Z",
-      "text": "$GFS - $534K Call buyer https://t.co/Ehaeo1I9Bs",
-      "url": "https://x.com/FL0WG0D/status/2097352997206458796",
       "images": []
     }
   ]
