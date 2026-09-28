@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-28T16:01:47+00:00",
-  "last_id": "2104596418849808754",
-  "new_this_run": 0,
+  "updated_at": "2026-09-28T16:22:34+00:00",
+  "last_id": "2104607646053470717",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2104607646053470717",
+      "created_at": "2026-09-28T16:22:19.000Z",
+      "text": "$CCL - $549K Call buyer https://t.co/ZvTji9eVE4",
+      "url": "https://x.com/FL0WG0D/status/2104607646053470717",
+      "images": [
+        "images/2104607646053470717-0.jpg"
+      ]
+    },
+    {
+      "id": "2104607455141302344",
+      "created_at": "2026-09-28T16:21:33.000Z",
+      "text": "$1.1 million into these $TSLA calls https://t.co/ocPQcWzEnz",
+      "url": "https://x.com/FL0WG0D/status/2104607455141302344",
+      "images": [
+        "images/2104607455141302344-0.jpg"
+      ]
+    },
     {
       "id": "2104596418849808754",
       "created_at": "2026-09-28T15:37:42.000Z",
@@ -524,18 +542,14 @@
       "created_at": "2026-09-22T14:56:50.000Z",
       "text": "$SNOW Weekly https://t.co/Voxr3qm8QA",
       "url": "https://x.com/FL0WG0D/status/2102411807952425441",
-      "images": [
-        "images/2102411807952425441-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102405817765142543",
       "created_at": "2026-09-22T14:33:02.000Z",
       "text": "$CLF - $1.3M Call buyer https://t.co/tyOGJ6PPXF",
       "url": "https://x.com/FL0WG0D/status/2102405817765142543",
-      "images": [
-        "images/2102405817765142543-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102404594076946852",
@@ -1501,20 +1515,6 @@
       "created_at": "2026-09-08T17:16:04.000Z",
       "text": "$DRAM Weekly bull https://t.co/ec7YnYiLVX",
       "url": "https://x.com/FL0WG0D/status/2097373418203041853",
-      "images": []
-    },
-    {
-      "id": "2097370296193806391",
-      "created_at": "2026-09-08T17:03:40.000Z",
-      "text": "$782K into these $IREN calls. $95 strike https://t.co/u2KIzBJAwV",
-      "url": "https://x.com/FL0WG0D/status/2097370296193806391",
-      "images": []
-    },
-    {
-      "id": "2097359614048117012",
-      "created_at": "2026-09-08T16:21:13.000Z",
-      "text": "$4.1 million into these $CORZ calls for December https://t.co/LjJ3LR6Wb0",
-      "url": "https://x.com/FL0WG0D/status/2097359614048117012",
       "images": []
     }
   ]
