@@ -1,12 +1,19 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-28T13:02:47+00:00",
-  "last_id": "2103573142879027256",
-  "new_this_run": 0,
+  "updated_at": "2026-09-28T13:21:51+00:00",
+  "last_id": "2104560103169065048",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2104560103169065048",
+      "created_at": "2026-09-28T13:13:24.000Z",
+      "text": "Noteworthy flow from Friday\n(OI Confirmed)\n\n$CBRS 210 Call (10/2) - $5M @ 9.20\n$RIOT 23 Call (10/16) - $3.9M @ 1.58\n$BTG 5.5 Call (10/16) - $1M @ 0.25\n$FSLR 180 Call (10/30) - $1M @ 11.55\n$XLU 45 Call (3/19/27) - $2M @ 0.46",
+      "url": "https://x.com/FL0WG0D/status/2104560103169065048",
+      "images": []
+    },
     {
       "id": "2103573142879027256",
       "created_at": "2026-09-25T19:51:34.000Z",
@@ -535,9 +542,7 @@
       "created_at": "2026-09-22T13:33:14.000Z",
       "text": "$ASST - $274K Call buyer https://t.co/IjDnZ52G1z",
       "url": "https://x.com/FL0WG0D/status/2102390770938314832",
-      "images": [
-        "images/2102390770938314832-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102385762712920080",
@@ -1510,13 +1515,6 @@
       "created_at": "2026-09-08T15:54:56.000Z",
       "text": "$GFS - $534K Call buyer https://t.co/Ehaeo1I9Bs",
       "url": "https://x.com/FL0WG0D/status/2097352997206458796",
-      "images": []
-    },
-    {
-      "id": "2097350044311503154",
-      "created_at": "2026-09-08T15:43:12.000Z",
-      "text": "$1 million into these $MU calls https://t.co/MRolO8Nbto",
-      "url": "https://x.com/FL0WG0D/status/2097350044311503154",
       "images": []
     }
   ]
