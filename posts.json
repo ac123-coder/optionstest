@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-30T14:01:46+00:00",
-  "last_id": "2105295285756760479",
-  "new_this_run": 1,
+  "updated_at": "2026-09-30T14:23:07+00:00",
+  "last_id": "2105301406739562548",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105301406739562548",
+      "created_at": "2026-09-30T14:19:04.000Z",
+      "text": "$PACB - $95K Call buyer https://t.co/2vrkf4b610",
+      "url": "https://x.com/FL0WG0D/status/2105301406739562548",
+      "images": [
+        "images/2105301406739562548-0.jpg"
+      ]
+    },
+    {
+      "id": "2105301073686880697",
+      "created_at": "2026-09-30T14:17:45.000Z",
+      "text": "$PATH - $494K Call buyer https://t.co/7sC4MBG5BI",
+      "url": "https://x.com/FL0WG0D/status/2105301073686880697",
+      "images": [
+        "images/2105301073686880697-0.jpg"
+      ]
+    },
+    {
+      "id": "2105300402388500613",
+      "created_at": "2026-09-30T14:15:05.000Z",
+      "text": "$AMZN - $845K Call buyer https://t.co/dDnx8o5qb1",
+      "url": "https://x.com/FL0WG0D/status/2105300402388500613",
+      "images": [
+        "images/2105300402388500613-0.jpg"
+      ]
+    },
     {
       "id": "2105295285756760479",
       "created_at": "2026-09-30T13:54:45.000Z",
@@ -516,27 +543,21 @@
       "created_at": "2026-09-23T16:02:59.000Z",
       "text": "$4.5 million into these $IGV calls https://t.co/oTbsfLquaD",
       "url": "https://x.com/FL0WG0D/status/2102790840892391892",
-      "images": [
-        "images/2102790840892391892-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102778924430426412",
       "created_at": "2026-09-23T15:15:37.000Z",
       "text": "$3.2 million into these $AMD calls https://t.co/poNuOIenkl",
       "url": "https://x.com/FL0WG0D/status/2102778924430426412",
-      "images": [
-        "images/2102778924430426412-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102774347341660318",
       "created_at": "2026-09-23T14:57:26.000Z",
       "text": "Ignore this. Looks sold to open $9 mill now https://t.co/G3V4P1wzI0",
       "url": "https://x.com/FL0WG0D/status/2102774347341660318",
-      "images": [
-        "images/2102774347341660318-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102773412162892200",
@@ -1495,27 +1516,6 @@
       "created_at": "2026-09-10T17:41:04.000Z",
       "text": "$AAPL - $885K Call buyer https://t.co/F2J6nM1WZP",
       "url": "https://x.com/FL0WG0D/status/2098104485893505282",
-      "images": []
-    },
-    {
-      "id": "2098086951089832321",
-      "created_at": "2026-09-10T16:31:24.000Z",
-      "text": "$1.9 million into these $EQT calls https://t.co/FIEt6pUF53",
-      "url": "https://x.com/FL0WG0D/status/2098086951089832321",
-      "images": []
-    },
-    {
-      "id": "2098069831203291269",
-      "created_at": "2026-09-10T15:23:22.000Z",
-      "text": "$1.6 million into these $NRG calls https://t.co/Ikub2S6Gdi",
-      "url": "https://x.com/FL0WG0D/status/2098069831203291269",
-      "images": []
-    },
-    {
-      "id": "2098059536191922337",
-      "created_at": "2026-09-10T14:42:28.000Z",
-      "text": "$2 million into these $GOOGL calls https://t.co/E3Rh3P3p6g",
-      "url": "https://x.com/FL0WG0D/status/2098059536191922337",
       "images": []
     }
   ]
