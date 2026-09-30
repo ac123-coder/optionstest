@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-30T14:58:38+00:00",
-  "last_id": "2105301406739562548",
-  "new_this_run": 0,
+  "updated_at": "2026-09-30T15:18:16+00:00",
+  "last_id": "2105314718936367138",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105314718936367138",
+      "created_at": "2026-09-30T15:11:58.000Z",
+      "text": "Another bull $PACB. Also 8% higher since last post https://t.co/DDa394c2FZ https://t.co/uojhdA4low",
+      "url": "https://x.com/FL0WG0D/status/2105314718936367138",
+      "images": [
+        "images/2105314718936367138-0.jpg"
+      ]
+    },
+    {
+      "id": "2105312886696341724",
+      "created_at": "2026-09-30T15:04:41.000Z",
+      "text": "$1.4 million into these $RIOT calls https://t.co/0jkRTQSSeR",
+      "url": "https://x.com/FL0WG0D/status/2105312886696341724",
+      "images": [
+        "images/2105312886696341724-0.jpg"
+      ]
+    },
     {
       "id": "2105301406739562548",
       "created_at": "2026-09-30T14:19:04.000Z",
@@ -525,18 +543,14 @@
       "created_at": "2026-09-23T17:35:05.000Z",
       "text": "$7.4 million into these $U calls https://t.co/JkZI50auB6",
       "url": "https://x.com/FL0WG0D/status/2102814019442925800",
-      "images": [
-        "images/2102814019442925800-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102794355115544737",
       "created_at": "2026-09-23T16:16:56.000Z",
       "text": "$JELD - $210K Call buyer https://t.co/RhCSyz3mTD",
       "url": "https://x.com/FL0WG0D/status/2102794355115544737",
-      "images": [
-        "images/2102794355115544737-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102790840892391892",
@@ -1502,20 +1516,6 @@
       "created_at": "2026-09-11T13:06:17.000Z",
       "text": "Noteworthy flow from yesterday\n(OI Confirmed)\n\n$AAPL 340 Call (9/21) - $889K @ 1.39\n$GOOGL 355 Call (10/2) - $2.3M @ 2.83\n$NRG 125 Call (10/16) - $2.7M @ 3.00\n$VSAT 110 Call (12/18) - $1.1M @ 3.22\n$EQT 57.5 Call (12/18) - $2.1M @ 3.00",
       "url": "https://x.com/FL0WG0D/status/2098397722176901584",
-      "images": []
-    },
-    {
-      "id": "2098128078341853440",
-      "created_at": "2026-09-10T19:14:49.000Z",
-      "text": "$733K into these $AAPL calls https://t.co/0MsK0QxArz",
-      "url": "https://x.com/FL0WG0D/status/2098128078341853440",
-      "images": []
-    },
-    {
-      "id": "2098104485893505282",
-      "created_at": "2026-09-10T17:41:04.000Z",
-      "text": "$AAPL - $885K Call buyer https://t.co/F2J6nM1WZP",
-      "url": "https://x.com/FL0WG0D/status/2098104485893505282",
       "images": []
     }
   ]
