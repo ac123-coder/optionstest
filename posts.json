@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-30T13:32:11+00:00",
-  "last_id": "2105283415981314284",
-  "new_this_run": 0,
+  "updated_at": "2026-09-30T13:48:22+00:00",
+  "last_id": "2105292802984927309",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105292802984927309",
+      "created_at": "2026-09-30T13:44:53.000Z",
+      "text": "$3.9 million into these $CBRS calls https://t.co/QEzujW1gRh",
+      "url": "https://x.com/FL0WG0D/status/2105292802984927309",
+      "images": [
+        "images/2105292802984927309-0.jpg"
+      ]
+    },
+    {
+      "id": "2105290321013702667",
+      "created_at": "2026-09-30T13:35:01.000Z",
+      "text": "Oh my $MDB 🤯🤯🤯 https://t.co/KEUbW2AuQG https://t.co/KGWY2EBlID",
+      "url": "https://x.com/FL0WG0D/status/2105290321013702667",
+      "images": [
+        "images/2105290321013702667-0.jpg"
+      ]
+    },
+    {
+      "id": "2105289951881679166",
+      "created_at": "2026-09-30T13:33:33.000Z",
+      "text": "$ONDS - $295K Call buyer https://t.co/C1zIucnSYS",
+      "url": "https://x.com/FL0WG0D/status/2105289951881679166",
+      "images": [
+        "images/2105289951881679166-0.jpg"
+      ]
+    },
     {
       "id": "2105283415981314284",
       "created_at": "2026-09-30T13:07:35.000Z",
@@ -516,28 +543,21 @@
       "created_at": "2026-09-23T14:35:15.000Z",
       "text": "$1.8 million into these $JD calls https://t.co/5uacAgpqcz",
       "url": "https://x.com/FL0WG0D/status/2102768765448692219",
-      "images": [
-        "images/2102768765448692219-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102758571431821351",
       "created_at": "2026-09-23T13:54:45.000Z",
       "text": "$SNOW was a top setup this week. Almost reaching $350 target this morning. Some weekly flow yesterday which is up over 120% today https://t.co/bhpy7cRIl8 https://t.co/yQcnMLiBmN",
       "url": "https://x.com/FL0WG0D/status/2102758571431821351",
-      "images": [
-        "images/2102758571431821351-0.jpg",
-        "images/2102758571431821351-1.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102756263469764903",
       "created_at": "2026-09-23T13:45:35.000Z",
       "text": "$1.4 million into these $PURR calls https://t.co/GgVKWhLWxn",
       "url": "https://x.com/FL0WG0D/status/2102756263469764903",
-      "images": [
-        "images/2102756263469764903-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102754141730677112",
@@ -1496,27 +1516,6 @@
       "created_at": "2026-09-10T13:49:23.000Z",
       "text": "$1 million into these $VSAT calls https://t.co/6jBb2pBUrb",
       "url": "https://x.com/FL0WG0D/status/2098046180374499529",
-      "images": []
-    },
-    {
-      "id": "2098045994310984103",
-      "created_at": "2026-09-10T13:48:39.000Z",
-      "text": "$968K into these $AAPL calls https://t.co/gORycItHAb",
-      "url": "https://x.com/FL0WG0D/status/2098045994310984103",
-      "images": []
-    },
-    {
-      "id": "2098044399133360613",
-      "created_at": "2026-09-10T13:42:19.000Z",
-      "text": "$FSLY - $294K Call buyer https://t.co/WjD2kvpG2q",
-      "url": "https://x.com/FL0WG0D/status/2098044399133360613",
-      "images": []
-    },
-    {
-      "id": "2097772530702471270",
-      "created_at": "2026-09-09T19:42:00.000Z",
-      "text": "$1.2 million into these $GXO calls https://t.co/TLVL7yla9D",
-      "url": "https://x.com/FL0WG0D/status/2097772530702471270",
       "images": []
     }
   ]
