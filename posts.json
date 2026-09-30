@@ -1,12 +1,37 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-09-30T15:37:25+00:00",
-  "last_id": "2105317981794242901",
-  "new_this_run": 1,
+  "updated_at": "2026-09-30T15:53:50+00:00",
+  "last_id": "2105325144373625128",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105325144373625128",
+      "created_at": "2026-09-30T15:53:24.000Z",
+      "text": "Just closed these out",
+      "url": "https://x.com/FL0WG0D/status/2105325144373625128",
+      "images": []
+    },
+    {
+      "id": "2105324618932240803",
+      "created_at": "2026-09-30T15:51:18.000Z",
+      "text": "$AFRM - $511K Call buyer https://t.co/4leyMYvFXM",
+      "url": "https://x.com/FL0WG0D/status/2105324618932240803",
+      "images": [
+        "images/2105324618932240803-0.jpg"
+      ]
+    },
+    {
+      "id": "2105321966068506639",
+      "created_at": "2026-09-30T15:40:46.000Z",
+      "text": "Earnings gamble $MU https://t.co/fez7vAPFOI",
+      "url": "https://x.com/FL0WG0D/status/2105321966068506639",
+      "images": [
+        "images/2105321966068506639-0.jpg"
+      ]
+    },
     {
       "id": "2105317981794242901",
       "created_at": "2026-09-30T15:24:56.000Z",
@@ -516,27 +541,21 @@
       "created_at": "2026-09-23T19:22:46.000Z",
       "text": "$JETS - $470K Call buyer https://t.co/GHP1ffMgMR",
       "url": "https://x.com/FL0WG0D/status/2102841118815883392",
-      "images": [
-        "images/2102841118815883392-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102832796049809418",
       "created_at": "2026-09-23T18:49:41.000Z",
       "text": "$1 million into these $BNO calls https://t.co/qZX94XUPJs",
       "url": "https://x.com/FL0WG0D/status/2102832796049809418",
-      "images": [
-        "images/2102832796049809418-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102824844509470978",
       "created_at": "2026-09-23T18:18:06.000Z",
       "text": "$3.2 million into these $RARE calls https://t.co/0rQ6Xk8rHx",
       "url": "https://x.com/FL0WG0D/status/2102824844509470978",
-      "images": [
-        "images/2102824844509470978-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2102818718522957852",
@@ -1495,27 +1514,6 @@
       "created_at": "2026-09-11T13:49:10.000Z",
       "text": "$IBIT - $944K Call buyer https://t.co/TjBfNwlpJZ",
       "url": "https://x.com/FL0WG0D/status/2098408513542250752",
-      "images": []
-    },
-    {
-      "id": "2098407851781664817",
-      "created_at": "2026-09-11T13:46:33.000Z",
-      "text": "2 decent size $AAOI put sellers (bullish) https://t.co/8HK78vrjMB",
-      "url": "https://x.com/FL0WG0D/status/2098407851781664817",
-      "images": []
-    },
-    {
-      "id": "2098405859395092981",
-      "created_at": "2026-09-11T13:38:38.000Z",
-      "text": "Did I post enough $AAPL call flow yesterday? https://t.co/lhDbuPdEFq https://t.co/OoYxeb0BRS",
-      "url": "https://x.com/FL0WG0D/status/2098405859395092981",
-      "images": []
-    },
-    {
-      "id": "2098405480204738843",
-      "created_at": "2026-09-11T13:37:07.000Z",
-      "text": "$GOOGL paid. Sitting $10 higher after the $330 break yesterday. \n\nCalled it for my X subscribers yesterday morning. Bullflow heatmaps are a cheat code! https://t.co/hEtKfscWP3",
-      "url": "https://x.com/FL0WG0D/status/2098405480204738843",
       "images": []
     }
   ]
