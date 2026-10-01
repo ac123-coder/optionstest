@@ -1,12 +1,39 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-01T14:40:49+00:00",
-  "last_id": "2105665026342130178",
-  "new_this_run": 1,
+  "updated_at": "2026-10-01T14:55:54+00:00",
+  "last_id": "2105670989371613504",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105670989371613504",
+      "created_at": "2026-10-01T14:47:39.000Z",
+      "text": "$27.2 million into these $LITE calls now. Is that you Leopold? https://t.co/xbjfK7F6Ox https://t.co/kLHDxHe3z7",
+      "url": "https://x.com/FL0WG0D/status/2105670989371613504",
+      "images": [
+        "images/2105670989371613504-0.jpg"
+      ]
+    },
+    {
+      "id": "2105670033040912434",
+      "created_at": "2026-10-01T14:43:51.000Z",
+      "text": "$BIRK - $981K Call buyer https://t.co/NDpHcKExGX",
+      "url": "https://x.com/FL0WG0D/status/2105670033040912434",
+      "images": [
+        "images/2105670033040912434-0.jpg"
+      ]
+    },
+    {
+      "id": "2105669488876126283",
+      "created_at": "2026-10-01T14:41:42.000Z",
+      "text": "$10.5 million into these $LITE calls https://t.co/mblmfAIvfo",
+      "url": "https://x.com/FL0WG0D/status/2105669488876126283",
+      "images": [
+        "images/2105669488876126283-0.jpg"
+      ]
+    },
     {
       "id": "2105665026342130178",
       "created_at": "2026-10-01T14:23:58.000Z",
@@ -516,9 +543,7 @@
       "created_at": "2026-09-25T14:05:42.000Z",
       "text": "$POWI - $308K Call buyer https://t.co/JcDfDXfme1",
       "url": "https://x.com/FL0WG0D/status/2103486104959680521",
-      "images": [
-        "images/2103486104959680521-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103474076400398658",
@@ -532,9 +557,7 @@
       "created_at": "2026-09-24T19:11:46.000Z",
       "text": "$1.8 million into these $TEM calls https://t.co/936WIl89D0",
       "url": "https://x.com/FL0WG0D/status/2103200739183190199",
-      "images": [
-        "images/2103200739183190199-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103180515889250308",
@@ -1493,27 +1516,6 @@
       "created_at": "2026-09-14T18:24:48.000Z",
       "text": "Small $GME bull https://t.co/mBOPfDHFWg",
       "url": "https://x.com/FL0WG0D/status/2099565039740915924",
-      "images": []
-    },
-    {
-      "id": "2099555347220349305",
-      "created_at": "2026-09-14T17:46:17.000Z",
-      "text": "$1.4 million into these $INTU calls https://t.co/ZV6IVcFY9H",
-      "url": "https://x.com/FL0WG0D/status/2099555347220349305",
-      "images": []
-    },
-    {
-      "id": "2099552180902510920",
-      "created_at": "2026-09-14T17:33:42.000Z",
-      "text": "$GOOG - $5.7M Put seller (bullish) https://t.co/CkdOatHqae",
-      "url": "https://x.com/FL0WG0D/status/2099552180902510920",
-      "images": []
-    },
-    {
-      "id": "2099551703632695807",
-      "created_at": "2026-09-14T17:31:48.000Z",
-      "text": "This $GOOGL bull from last week is up roughly 150% and just took some profits https://t.co/yW9rBDMFYe https://t.co/uDtYZIPTyQ",
-      "url": "https://x.com/FL0WG0D/status/2099551703632695807",
       "images": []
     }
   ]
