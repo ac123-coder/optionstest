@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-01T19:44:03+00:00",
-  "last_id": "2105711626083311771",
-  "new_this_run": 0,
+  "updated_at": "2026-10-01T19:54:57+00:00",
+  "last_id": "2105747339973468330",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105747339973468330",
+      "created_at": "2026-10-01T19:51:03.000Z",
+      "text": "$STLA - $675K Call buyer https://t.co/zJDLX8RlHS",
+      "url": "https://x.com/FL0WG0D/status/2105747339973468330",
+      "images": [
+        "images/2105747339973468330-0.jpg"
+      ]
+    },
+    {
+      "id": "2105746113672413251",
+      "created_at": "2026-10-01T19:46:11.000Z",
+      "text": "Market on easy mode recently. $LRCX https://t.co/m8fo5SySxm https://t.co/2IRI2FoWHd",
+      "url": "https://x.com/FL0WG0D/status/2105746113672413251",
+      "images": [
+        "images/2105746113672413251-0.jpg"
+      ]
+    },
     {
       "id": "2105711626083311771",
       "created_at": "2026-10-01T17:29:08.000Z",
@@ -525,18 +543,14 @@
       "created_at": "2026-09-25T17:43:03.000Z",
       "text": "$1.4 million into these $XLU calls https://t.co/Sf51181Sxg",
       "url": "https://x.com/FL0WG0D/status/2103540801381028132",
-      "images": [
-        "images/2103540801381028132-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103518092374466675",
       "created_at": "2026-09-25T16:12:49.000Z",
       "text": "$3.1 million into these $CBRS calls https://t.co/diJp2t1oIX",
       "url": "https://x.com/FL0WG0D/status/2103518092374466675",
-      "images": [
-        "images/2103518092374466675-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103503369562140705",
@@ -1502,20 +1516,6 @@
       "created_at": "2026-09-15T15:21:59.000Z",
       "text": "$BP - $419K Call buyer https://t.co/U9bTTWiLXe",
       "url": "https://x.com/FL0WG0D/status/2099881421661667534",
-      "images": []
-    },
-    {
-      "id": "2099877367783051695",
-      "created_at": "2026-09-15T15:05:52.000Z",
-      "text": "$1 million into these $CAVA calls https://t.co/104yz5Ec02",
-      "url": "https://x.com/FL0WG0D/status/2099877367783051695",
-      "images": []
-    },
-    {
-      "id": "2099873864318656694",
-      "created_at": "2026-09-15T14:51:57.000Z",
-      "text": "$AXON Weekly Bull https://t.co/P296q17LzR",
-      "url": "https://x.com/FL0WG0D/status/2099873864318656694",
       "images": []
     }
   ]
