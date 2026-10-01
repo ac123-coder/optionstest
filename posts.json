@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-01T14:55:54+00:00",
-  "last_id": "2105670989371613504",
-  "new_this_run": 3,
+  "updated_at": "2026-10-01T15:09:24+00:00",
+  "last_id": "2105673075425767889",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105673075425767889",
+      "created_at": "2026-10-01T14:55:57.000Z",
+      "text": "$1.2 million into these $CCL calls https://t.co/GaY9MREYl1",
+      "url": "https://x.com/FL0WG0D/status/2105673075425767889",
+      "images": [
+        "images/2105673075425767889-0.jpg"
+      ]
+    },
     {
       "id": "2105670989371613504",
       "created_at": "2026-10-01T14:47:39.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-09-25T14:38:11.000Z",
       "text": "$MXL - $803K Call buyer https://t.co/P4ebN2F9yB",
       "url": "https://x.com/FL0WG0D/status/2103494278861525164",
-      "images": [
-        "images/2103494278861525164-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103486104959680521",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-09-14T19:14:15.000Z",
       "text": "$AMZN - $1.6M Put seller (bullish) https://t.co/3IHKzV8W7o",
       "url": "https://x.com/FL0WG0D/status/2099577485964820682",
-      "images": []
-    },
-    {
-      "id": "2099565039740915924",
-      "created_at": "2026-09-14T18:24:48.000Z",
-      "text": "Small $GME bull https://t.co/mBOPfDHFWg",
-      "url": "https://x.com/FL0WG0D/status/2099565039740915924",
       "images": []
     }
   ]
