@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-01T15:58:52+00:00",
-  "last_id": "2105673075425767889",
-  "new_this_run": 0,
+  "updated_at": "2026-10-01T16:14:30+00:00",
+  "last_id": "2105689430954577998",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2105689430954577998",
+      "created_at": "2026-10-01T16:00:56.000Z",
+      "text": "$2.8 million into these $SDGR calls https://t.co/iL7x66Glq9",
+      "url": "https://x.com/FL0WG0D/status/2105689430954577998",
+      "images": [
+        "images/2105689430954577998-0.jpg"
+      ]
+    },
     {
       "id": "2105673075425767889",
       "created_at": "2026-10-01T14:55:57.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-09-25T14:38:46.000Z",
       "text": "$2.3 million into these $RIOT calls https://t.co/BtFE9eGIip",
       "url": "https://x.com/FL0WG0D/status/2103494423166492816",
-      "images": [
-        "images/2103494423166492816-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103494278861525164",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-09-14T19:32:13.000Z",
       "text": "$8 million into these $PANW calls https://t.co/FF1Qgx1Ouz",
       "url": "https://x.com/FL0WG0D/status/2099582007403528321",
-      "images": []
-    },
-    {
-      "id": "2099577485964820682",
-      "created_at": "2026-09-14T19:14:15.000Z",
-      "text": "$AMZN - $1.6M Put seller (bullish) https://t.co/3IHKzV8W7o",
-      "url": "https://x.com/FL0WG0D/status/2099577485964820682",
       "images": []
     }
   ]
