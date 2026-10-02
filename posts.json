@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-02T14:46:48+00:00",
-  "last_id": "2106023303039119421",
-  "new_this_run": 0,
+  "updated_at": "2026-10-02T15:00:14+00:00",
+  "last_id": "2106034936226726038",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2106034936226726038",
+      "created_at": "2026-10-02T14:53:51.000Z",
+      "text": "This $AAOI bull turned $400 thousand into $1.6 million over night\n\nPosted this flow as it hit the tape for my X subscribers https://t.co/i0rD55kWeV",
+      "url": "https://x.com/FL0WG0D/status/2106034936226726038",
+      "images": [
+        "images/2106034936226726038-0.jpg"
+      ]
+    },
     {
       "id": "2106023303039119421",
       "created_at": "2026-10-02T14:07:38.000Z",
@@ -531,9 +540,7 @@
       "created_at": "2026-09-28T14:58:16.000Z",
       "text": "$SNDK - $12.2M Put seller (bullish) https://t.co/nlTFm8spcx",
       "url": "https://x.com/FL0WG0D/status/2104586494795186446",
-      "images": [
-        "images/2104586494795186446-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2104567555658744109",
@@ -1506,13 +1513,6 @@
       "created_at": "2026-09-16T14:21:16.000Z",
       "text": "Might of already took profits https://t.co/rZj9DjnkkC",
       "url": "https://x.com/FL0WG0D/status/2100228530751541646",
-      "images": []
-    },
-    {
-      "id": "2100225166915563587",
-      "created_at": "2026-09-16T14:07:54.000Z",
-      "text": "$TSLA - $560K Call buyer https://t.co/D3ve0OuKry",
-      "url": "https://x.com/FL0WG0D/status/2100225166915563587",
       "images": []
     }
   ]
