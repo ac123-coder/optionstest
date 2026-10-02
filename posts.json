@@ -1,12 +1,38 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-02T12:52:20+00:00",
-  "last_id": "2105747339973468330",
-  "new_this_run": 0,
+  "updated_at": "2026-10-02T13:04:11+00:00",
+  "last_id": "2106007235100905531",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2106007235100905531",
+      "created_at": "2026-10-02T13:03:47.000Z",
+      "text": "https://t.co/qufKfVJeCC",
+      "url": "https://x.com/FL0WG0D/status/2106007235100905531",
+      "images": []
+    },
+    {
+      "id": "2106007146152198274",
+      "created_at": "2026-10-02T13:03:26.000Z",
+      "text": "No need for 200 heatmaps a day when I’m always posting the best setups for my X subscribers. $MRVL https://t.co/m7D4gbhezn",
+      "url": "https://x.com/FL0WG0D/status/2106007146152198274",
+      "images": [
+        "images/2106007146152198274-0.jpg",
+        "images/2106007146152198274-1.jpg"
+      ]
+    },
+    {
+      "id": "2106006113158103528",
+      "created_at": "2026-10-02T12:59:19.000Z",
+      "text": "Just keeps going $LRCX https://t.co/09CahRJGGr https://t.co/wxFZkYNKbV",
+      "url": "https://x.com/FL0WG0D/status/2106006113158103528",
+      "images": [
+        "images/2106006113158103528-0.jpg"
+      ]
+    },
     {
       "id": "2105747339973468330",
       "created_at": "2026-10-01T19:51:03.000Z",
@@ -516,27 +542,21 @@
       "created_at": "2026-09-25T19:30:58.000Z",
       "text": "$VEON - $414K Call buyer https://t.co/UkzXA0Nda7",
       "url": "https://x.com/FL0WG0D/status/2103567959184806169",
-      "images": [
-        "images/2103567959184806169-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103552355996250334",
       "created_at": "2026-09-25T18:28:58.000Z",
       "text": "$1.6 million into these $VST calls https://t.co/Rd6wbntgdG",
       "url": "https://x.com/FL0WG0D/status/2103552355996250334",
-      "images": [
-        "images/2103552355996250334-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103544771130298772",
       "created_at": "2026-09-25T17:58:50.000Z",
       "text": "$1.3 million into these $MSFT calls https://t.co/AEQlZk0OF0",
       "url": "https://x.com/FL0WG0D/status/2103544771130298772",
-      "images": [
-        "images/2103544771130298772-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103540801381028132",
@@ -1495,27 +1515,6 @@
       "created_at": "2026-09-15T18:02:03.000Z",
       "text": "$993K into these $NBIS calls https://t.co/0iB8VezNsc",
       "url": "https://x.com/FL0WG0D/status/2099921705531478250",
-      "images": []
-    },
-    {
-      "id": "2099897722417397839",
-      "created_at": "2026-09-15T16:26:45.000Z",
-      "text": "$1.4 million into these $EXE calls https://t.co/NvTTvtdWrp",
-      "url": "https://x.com/FL0WG0D/status/2099897722417397839",
-      "images": []
-    },
-    {
-      "id": "2099890030529413576",
-      "created_at": "2026-09-15T15:56:12.000Z",
-      "text": "$NBIS - $8.3M Put seller (bullish) https://t.co/3oZ57roJJg",
-      "url": "https://x.com/FL0WG0D/status/2099890030529413576",
-      "images": []
-    },
-    {
-      "id": "2099881421661667534",
-      "created_at": "2026-09-15T15:21:59.000Z",
-      "text": "$BP - $419K Call buyer https://t.co/U9bTTWiLXe",
-      "url": "https://x.com/FL0WG0D/status/2099881421661667534",
       "images": []
     }
   ]
