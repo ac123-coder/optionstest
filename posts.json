@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-02T13:55:23+00:00",
-  "last_id": "2106017839815545013",
-  "new_this_run": 2,
+  "updated_at": "2026-10-02T14:08:45+00:00",
+  "last_id": "2106023303039119421",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2106023303039119421",
+      "created_at": "2026-10-02T14:07:38.000Z",
+      "text": "🤫🤫 $AAOI https://t.co/P1bHBb4K1y https://t.co/BTlNvMXQtv",
+      "url": "https://x.com/FL0WG0D/status/2106023303039119421",
+      "images": [
+        "images/2106023303039119421-0.jpg"
+      ]
+    },
     {
       "id": "2106017839815545013",
       "created_at": "2026-10-02T13:45:55.000Z",
@@ -531,9 +540,7 @@
       "created_at": "2026-09-28T13:43:00.000Z",
       "text": "$IONQ - $160K Call buyer https://t.co/8xZbtIrqHH",
       "url": "https://x.com/FL0WG0D/status/2104567555658744109",
-      "images": [
-        "images/2104567555658744109-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2104566762817589263",
@@ -1506,13 +1513,6 @@
       "created_at": "2026-09-16T14:07:54.000Z",
       "text": "$TSLA - $560K Call buyer https://t.co/D3ve0OuKry",
       "url": "https://x.com/FL0WG0D/status/2100225166915563587",
-      "images": []
-    },
-    {
-      "id": "2100223843042218044",
-      "created_at": "2026-09-16T14:02:39.000Z",
-      "text": "$2.3 million into these $SPCX calls. $215 strike https://t.co/xXQ0XETICl",
-      "url": "https://x.com/FL0WG0D/status/2100223843042218044",
       "images": []
     }
   ]
