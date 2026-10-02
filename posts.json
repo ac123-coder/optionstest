@@ -1,12 +1,19 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-02T13:04:11+00:00",
-  "last_id": "2106007235100905531",
-  "new_this_run": 3,
+  "updated_at": "2026-10-02T13:23:49+00:00",
+  "last_id": "2106009016467890680",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2106009016467890680",
+      "created_at": "2026-10-02T13:10:51.000Z",
+      "text": "Noteworthy flow from yesterday \n(OI Confirmed)\n\n$MSTR 172.5 Call (10/23) - $3.9M @ 5.27\n$BIRK 35 Call (11/20) - $1.4M @ 1.70\n$WULF 15 Call (11/20) - $2.5M @ 1.75\n$CCL 25 Call (12/18) - $1.4M @ 1.75\n$STLA 5 Call (12/18) - $756K @ 0.36\n$LITE 1150 Call (1/15/27) - $30M @ 139.92",
+      "url": "https://x.com/FL0WG0D/status/2106009016467890680",
+      "images": []
+    },
     {
       "id": "2106007235100905531",
       "created_at": "2026-10-02T13:03:47.000Z",
@@ -533,9 +540,7 @@
       "created_at": "2026-09-25T19:51:34.000Z",
       "text": "$OKTA - $385K Call buyer https://t.co/ETn9Kk394M",
       "url": "https://x.com/FL0WG0D/status/2103573142879027256",
-      "images": [
-        "images/2103573142879027256-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2103567959184806169",
@@ -1508,13 +1513,6 @@
       "created_at": "2026-09-16T13:32:41.000Z",
       "text": "$4.2 million into these $AMD calls https://t.co/xM2Zxx29as",
       "url": "https://x.com/FL0WG0D/status/2100216304347107696",
-      "images": []
-    },
-    {
-      "id": "2099921705531478250",
-      "created_at": "2026-09-15T18:02:03.000Z",
-      "text": "$993K into these $NBIS calls https://t.co/0iB8VezNsc",
-      "url": "https://x.com/FL0WG0D/status/2099921705531478250",
       "images": []
     }
   ]
