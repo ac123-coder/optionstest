@@ -1,12 +1,28 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-02T13:40:10+00:00",
-  "last_id": "2106009016467890680",
-  "new_this_run": 0,
+  "updated_at": "2026-10-02T13:55:23+00:00",
+  "last_id": "2106017839815545013",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2106017839815545013",
+      "created_at": "2026-10-02T13:45:55.000Z",
+      "text": "Where it will be for now!👇👇\n\nhttps://t.co/qufKfVJeCC",
+      "url": "https://x.com/FL0WG0D/status/2106017839815545013",
+      "images": []
+    },
+    {
+      "id": "2106017351783305529",
+      "created_at": "2026-10-02T13:43:59.000Z",
+      "text": "Holy sh*t $TSLA. I am done posting flow for the public. https://t.co/mj5xmNQwzn https://t.co/BCzJoYgqj4",
+      "url": "https://x.com/FL0WG0D/status/2106017351783305529",
+      "images": [
+        "images/2106017351783305529-0.jpg"
+      ]
+    },
     {
       "id": "2106009016467890680",
       "created_at": "2026-10-02T13:10:51.000Z",
@@ -524,9 +540,7 @@
       "created_at": "2026-09-28T13:39:51.000Z",
       "text": "$GOOGL - $559K Call buyer https://t.co/y6Rf302KXQ",
       "url": "https://x.com/FL0WG0D/status/2104566762817589263",
-      "images": [
-        "images/2104566762817589263-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2104560103169065048",
@@ -1499,20 +1513,6 @@
       "created_at": "2026-09-16T14:02:39.000Z",
       "text": "$2.3 million into these $SPCX calls. $215 strike https://t.co/xXQ0XETICl",
       "url": "https://x.com/FL0WG0D/status/2100223843042218044",
-      "images": []
-    },
-    {
-      "id": "2100220565743173682",
-      "created_at": "2026-09-16T13:49:37.000Z",
-      "text": "$ORCL - $378K Call buyer https://t.co/XdH1ShTBIa",
-      "url": "https://x.com/FL0WG0D/status/2100220565743173682",
-      "images": []
-    },
-    {
-      "id": "2100216304347107696",
-      "created_at": "2026-09-16T13:32:41.000Z",
-      "text": "$4.2 million into these $AMD calls https://t.co/xM2Zxx29as",
-      "url": "https://x.com/FL0WG0D/status/2100216304347107696",
       "images": []
     }
   ]
