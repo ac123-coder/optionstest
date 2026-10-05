@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-02T21:01:13+00:00",
-  "last_id": "2106088565239120194",
-  "new_this_run": 0,
+  "updated_at": "2026-10-05T12:09:49+00:00",
+  "last_id": "2106128437836644814",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2106128437836644814",
+      "created_at": "2026-10-02T21:05:24.000Z",
+      "text": "How did they know? $WOLF https://t.co/i4comwHHpI https://t.co/AesxjTRMZI",
+      "url": "https://x.com/FL0WG0D/status/2106128437836644814",
+      "images": [
+        "images/2106128437836644814-0.jpg"
+      ]
+    },
     {
       "id": "2106088565239120194",
       "created_at": "2026-10-02T18:26:57.000Z",
@@ -529,9 +538,7 @@
       "created_at": "2026-09-28T17:13:13.000Z",
       "text": "$AUGO - $292K Call buyer https://t.co/P5OcxjtO6j",
       "url": "https://x.com/FL0WG0D/status/2104620458394230978",
-      "images": [
-        "images/2104620458394230978-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2104607646053470717",
@@ -1504,13 +1511,6 @@
       "created_at": "2026-09-16T16:05:00.000Z",
       "text": "Limited time 70% sale for Options Funding eval accounts right now. Code FLOW (unlimited uses)\n\nhttps://t.co/2i5Bplj808 https://t.co/vfYRQZgKxV",
       "url": "https://x.com/FL0WG0D/status/2100254635403424145",
-      "images": []
-    },
-    {
-      "id": "2100245820809396364",
-      "created_at": "2026-09-16T15:29:59.000Z",
-      "text": "$RKT Weekly Bull https://t.co/LuPci5VhnV",
-      "url": "https://x.com/FL0WG0D/status/2100245820809396364",
       "images": []
     }
   ]
