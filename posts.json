@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-05T20:43:22+00:00",
-  "last_id": "2107209411693269015",
-  "new_this_run": 25,
+  "updated_at": "2026-10-06T01:24:12+00:00",
+  "last_id": "2107212868169216478",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2107212868169216478",
+      "created_at": "2026-10-05T20:54:32.000Z",
+      "text": "Last month we saw this bull load up on $714K worth of $XP calls. \n\nToday $XP is up over 30%. https://t.co/PAfTr9DOaw https://t.co/pVCqPDuAxO",
+      "url": "https://x.com/FL0WG0D/status/2107212868169216478",
+      "images": [
+        "images/2107212868169216478-0.jpg"
+      ]
+    },
     {
       "id": "2107209411693269015",
       "created_at": "2026-10-05T20:40:48.000Z",
@@ -522,9 +531,7 @@
       "created_at": "2026-09-30T15:24:56.000Z",
       "text": "$23.3 million into these $TSM calls https://t.co/fYkVQdyRHp",
       "url": "https://x.com/FL0WG0D/status/2105317981794242901",
-      "images": [
-        "images/2105317981794242901-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2105314718936367138",
@@ -1497,13 +1504,6 @@
       "created_at": "2026-09-18T15:06:20.000Z",
       "text": "$META dip paid. $12 higher off the 670 bounce. Flow + Heatmap posted for X subs https://t.co/7VQv07kh8y",
       "url": "https://x.com/FL0WG0D/status/2100964645095768489",
-      "images": []
-    },
-    {
-      "id": "2100962218799980794",
-      "created_at": "2026-09-18T14:56:41.000Z",
-      "text": "$CRWD - $854K Call buyer. Next week expiration https://t.co/vb0oWM6TLT",
-      "url": "https://x.com/FL0WG0D/status/2100962218799980794",
       "images": []
     }
   ]
