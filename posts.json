@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-13T18:45:01+00:00",
-  "last_id": "2110053159657759182",
-  "new_this_run": 19,
+  "updated_at": "2026-10-13T23:07:48+00:00",
+  "last_id": "2110106906429727007",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2110106906429727007",
+      "created_at": "2026-10-13T20:34:25.000Z",
+      "text": "This flow put $GME back on the map https://t.co/ZIe1OAgtUW https://t.co/aMuFCoak2Y",
+      "url": "https://x.com/FL0WG0D/status/2110106906429727007",
+      "images": [
+        "images/2110106906429727007-0.jpg"
+      ]
+    },
     {
       "id": "2110053159657759182",
       "created_at": "2026-10-13T17:00:50.000Z",
@@ -530,9 +539,7 @@
       "created_at": "2026-10-07T16:23:15.000Z",
       "text": "$3.9 million into these $MU calls https://t.co/KD0eHQ2lOU",
       "url": "https://x.com/FL0WG0D/status/2107869372924477499",
-      "images": [
-        "images/2107869372924477499-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2107864378053685492",
@@ -1505,13 +1512,6 @@
       "created_at": "2026-09-25T14:55:26.000Z",
       "text": "$FSLR - $915K Call buyer https://t.co/UqaD6q6KNA",
       "url": "https://x.com/FL0WG0D/status/2103498619936719067",
-      "images": []
-    },
-    {
-      "id": "2103497038704869650",
-      "created_at": "2026-09-25T14:49:09.000Z",
-      "text": "$BTG - $770K Call buyer https://t.co/UbCg6O1eh9",
-      "url": "https://x.com/FL0WG0D/status/2103497038704869650",
       "images": []
     }
   ]
