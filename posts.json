@@ -1,12 +1,19 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-14T20:14:47+00:00",
-  "last_id": "2110431129794756894",
-  "new_this_run": 3,
+  "updated_at": "2026-10-14T23:16:02+00:00",
+  "last_id": "2110484578410561715",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2110484578410561715",
+      "created_at": "2026-10-14T21:35:09.000Z",
+      "text": "Get to building! This is how I find a lot of my setups! ($MRNA most recently)\n\nCode: API40\n\nhttps://t.co/RLfrjpITkc https://t.co/RDSf4ePFpa",
+      "url": "https://x.com/FL0WG0D/status/2110484578410561715",
+      "images": []
+    },
     {
       "id": "2110431129794756894",
       "created_at": "2026-10-14T18:02:45.000Z",
@@ -534,9 +541,7 @@
       "created_at": "2026-10-08T17:39:35.000Z",
       "text": "$2.1 million into these $IBM calls https://t.co/WFEoboJngq",
       "url": "https://x.com/FL0WG0D/status/2108250968810766486",
-      "images": [
-        "images/2108250968810766486-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108247351538401392",
@@ -1509,13 +1514,6 @@
       "created_at": "2026-09-28T13:43:00.000Z",
       "text": "$IONQ - $160K Call buyer https://t.co/8xZbtIrqHH",
       "url": "https://x.com/FL0WG0D/status/2104567555658744109",
-      "images": []
-    },
-    {
-      "id": "2104566762817589263",
-      "created_at": "2026-09-28T13:39:51.000Z",
-      "text": "$GOOGL - $559K Call buyer https://t.co/y6Rf302KXQ",
-      "url": "https://x.com/FL0WG0D/status/2104566762817589263",
       "images": []
     }
   ]
