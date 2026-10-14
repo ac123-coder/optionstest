@@ -1,12 +1,40 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-14T16:18:44+00:00",
-  "last_id": "2110396238885720391",
-  "new_this_run": 6,
+  "updated_at": "2026-10-14T20:14:47+00:00",
+  "last_id": "2110431129794756894",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2110431129794756894",
+      "created_at": "2026-10-14T18:02:45.000Z",
+      "text": "$687K into these $ENPH puts https://t.co/YelX5VU2sS",
+      "url": "https://x.com/FL0WG0D/status/2110431129794756894",
+      "images": [
+        "images/2110431129794756894-0.jpg"
+      ]
+    },
+    {
+      "id": "2110430703519428709",
+      "created_at": "2026-10-14T18:01:04.000Z",
+      "text": "And then there’s $SPX 7700.\n\nSimply don’t need to spend hundreds of dollars on GEX heatmaps \n\nLink in bio. https://t.co/AnsBB4dska",
+      "url": "https://x.com/FL0WG0D/status/2110430703519428709",
+      "images": [
+        "images/2110430703519428709-0.jpg"
+      ]
+    },
+    {
+      "id": "2110418435696165058",
+      "created_at": "2026-10-14T17:12:19.000Z",
+      "text": "Thank you $MRNA! https://t.co/IXq7E2IiZo",
+      "url": "https://x.com/FL0WG0D/status/2110418435696165058",
+      "images": [
+        "images/2110418435696165058-0.png",
+        "images/2110418435696165058-1.png"
+      ]
+    },
     {
       "id": "2110396238885720391",
       "created_at": "2026-10-14T15:44:07.000Z",
@@ -515,18 +543,14 @@
       "created_at": "2026-10-08T17:25:12.000Z",
       "text": "And they are out… RIP $SPY https://t.co/DsbIB6MKqi https://t.co/t8Z2BXEcPZ",
       "url": "https://x.com/FL0WG0D/status/2108247351538401392",
-      "images": [
-        "images/2108247351538401392-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108220925971755496",
       "created_at": "2026-10-08T15:40:12.000Z",
       "text": "Omg @TheRoaringKitty is that you?  $GME https://t.co/3hHiNILdNR",
       "url": "https://x.com/FL0WG0D/status/2108220925971755496",
-      "images": [
-        "images/2108220925971755496-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108184862339539320",
@@ -1492,27 +1516,6 @@
       "created_at": "2026-09-28T13:39:51.000Z",
       "text": "$GOOGL - $559K Call buyer https://t.co/y6Rf302KXQ",
       "url": "https://x.com/FL0WG0D/status/2104566762817589263",
-      "images": []
-    },
-    {
-      "id": "2104560103169065048",
-      "created_at": "2026-09-28T13:13:24.000Z",
-      "text": "Noteworthy flow from Friday\n(OI Confirmed)\n\n$CBRS 210 Call (10/2) - $5M @ 9.20\n$RIOT 23 Call (10/16) - $3.9M @ 1.58\n$BTG 5.5 Call (10/16) - $1M @ 0.25\n$FSLR 180 Call (10/30) - $1M @ 11.55\n$XLU 45 Call (3/19/27) - $2M @ 0.46",
-      "url": "https://x.com/FL0WG0D/status/2104560103169065048",
-      "images": []
-    },
-    {
-      "id": "2103573142879027256",
-      "created_at": "2026-09-25T19:51:34.000Z",
-      "text": "$OKTA - $385K Call buyer https://t.co/ETn9Kk394M",
-      "url": "https://x.com/FL0WG0D/status/2103573142879027256",
-      "images": []
-    },
-    {
-      "id": "2103567959184806169",
-      "created_at": "2026-09-25T19:30:58.000Z",
-      "text": "$VEON - $414K Call buyer https://t.co/UkzXA0Nda7",
-      "url": "https://x.com/FL0WG0D/status/2103567959184806169",
       "images": []
     }
   ]
