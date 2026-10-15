@@ -1,12 +1,67 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-15T16:06:44+00:00",
-  "last_id": "2110758281807343946",
-  "new_this_run": 12,
+  "updated_at": "2026-10-15T19:51:02+00:00",
+  "last_id": "2110818275693035564",
+  "new_this_run": 6,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2110818275693035564",
+      "created_at": "2026-10-15T19:41:08.000Z",
+      "text": "$864K into these $TE calls https://t.co/7bcdIpj7wn",
+      "url": "https://x.com/FL0WG0D/status/2110818275693035564",
+      "images": [
+        "images/2110818275693035564-0.jpg"
+      ]
+    },
+    {
+      "id": "2110813615729369353",
+      "created_at": "2026-10-15T19:22:37.000Z",
+      "text": "$DAL - $271K Call buyer https://t.co/Y6P3QPwtUx",
+      "url": "https://x.com/FL0WG0D/status/2110813615729369353",
+      "images": [
+        "images/2110813615729369353-0.jpg"
+      ]
+    },
+    {
+      "id": "2110812712116912313",
+      "created_at": "2026-10-15T19:19:02.000Z",
+      "text": "$BRUN - $496K Call buyer https://t.co/4yaOmeRuKp",
+      "url": "https://x.com/FL0WG0D/status/2110812712116912313",
+      "images": [
+        "images/2110812712116912313-0.jpg"
+      ]
+    },
+    {
+      "id": "2110792324515082511",
+      "created_at": "2026-10-15T17:58:01.000Z",
+      "text": "$GPN - $687K Call buyer https://t.co/H8Gg9bgDB1",
+      "url": "https://x.com/FL0WG0D/status/2110792324515082511",
+      "images": [
+        "images/2110792324515082511-0.jpg"
+      ]
+    },
+    {
+      "id": "2110779468247900466",
+      "created_at": "2026-10-15T17:06:56.000Z",
+      "text": "Somebody just loaded up on $16.1 million worth of $CRWV calls.\n\nIs this AI selloff over? https://t.co/LbEvs2pOQ9",
+      "url": "https://x.com/FL0WG0D/status/2110779468247900466",
+      "images": [
+        "images/2110779468247900466-0.jpg"
+      ]
+    },
+    {
+      "id": "2110770384245280944",
+      "created_at": "2026-10-15T16:30:50.000Z",
+      "text": "All over $MSFT this morning https://t.co/ejG9V8vLH2",
+      "url": "https://x.com/FL0WG0D/status/2110770384245280944",
+      "images": [
+        "images/2110770384245280944-0.png",
+        "images/2110770384245280944-1.png"
+      ]
+    },
     {
       "id": "2110758281807343946",
       "created_at": "2026-10-15T15:42:45.000Z",
@@ -484,54 +539,42 @@
       "created_at": "2026-10-09T18:34:02.000Z",
       "text": "$1.2 million into these $AAPL calls https://t.co/oUI8p8j9Mz",
       "url": "https://x.com/FL0WG0D/status/2108627060638064658",
-      "images": [
-        "images/2108627060638064658-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108621081586368779",
       "created_at": "2026-10-09T18:10:16.000Z",
       "text": "These $QQQ calls going ITM next week? https://t.co/soGszNIUa6",
       "url": "https://x.com/FL0WG0D/status/2108621081586368779",
-      "images": [
-        "images/2108621081586368779-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108618331125108991",
       "created_at": "2026-10-09T17:59:21.000Z",
       "text": "$2.4 million into these $MU calls https://t.co/FKssFZDBpt",
       "url": "https://x.com/FL0WG0D/status/2108618331125108991",
-      "images": [
-        "images/2108618331125108991-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108613971318112673",
       "created_at": "2026-10-09T17:42:01.000Z",
       "text": "$MCHP - $903K Call buyer https://t.co/W4syMfLABP",
       "url": "https://x.com/FL0WG0D/status/2108613971318112673",
-      "images": [
-        "images/2108613971318112673-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108597599242768704",
       "created_at": "2026-10-09T16:36:58.000Z",
       "text": "$ESRT - $79K Call buyer https://t.co/yXIcxOUpLp",
       "url": "https://x.com/FL0WG0D/status/2108597599242768704",
-      "images": [
-        "images/2108597599242768704-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108596569000096157",
       "created_at": "2026-10-09T16:32:52.000Z",
       "text": "Is that @ShaneStoffer? $MRNA https://t.co/pJnoUNPCTD",
       "url": "https://x.com/FL0WG0D/status/2108596569000096157",
-      "images": [
-        "images/2108596569000096157-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108587035439071696",
@@ -1469,48 +1512,6 @@
       "created_at": "2026-09-29T18:43:51.000Z",
       "text": "$2.9 million into these $MSTR calls https://t.co/FYqu2vH1u1",
       "url": "https://x.com/FL0WG0D/status/2105005652267409750",
-      "images": []
-    },
-    {
-      "id": "2105001611353297112",
-      "created_at": "2026-09-29T18:27:47.000Z",
-      "text": "$MDB - $399K Call buyer https://t.co/DYRQMhNzKZ",
-      "url": "https://x.com/FL0WG0D/status/2105001611353297112",
-      "images": []
-    },
-    {
-      "id": "2104986933323542949",
-      "created_at": "2026-09-29T17:29:28.000Z",
-      "text": "$BIRK - $245K Call buyer https://t.co/QEtJgnMmAr",
-      "url": "https://x.com/FL0WG0D/status/2104986933323542949",
-      "images": []
-    },
-    {
-      "id": "2104986522525348107",
-      "created_at": "2026-09-29T17:27:50.000Z",
-      "text": "$1.5 million into these $SPCX calls now https://t.co/OkuPchfhvt https://t.co/Asg3eb41MZ",
-      "url": "https://x.com/FL0WG0D/status/2104986522525348107",
-      "images": []
-    },
-    {
-      "id": "2104967165241622562",
-      "created_at": "2026-09-29T16:10:55.000Z",
-      "text": "$809K into these $SPCX calls https://t.co/IH7l99A8G1",
-      "url": "https://x.com/FL0WG0D/status/2104967165241622562",
-      "images": []
-    },
-    {
-      "id": "2104948585380859916",
-      "created_at": "2026-09-29T14:57:05.000Z",
-      "text": "$2.1 million into these $INTC calls now https://t.co/VyIEhsSq3D https://t.co/f8JG0hN5MA",
-      "url": "https://x.com/FL0WG0D/status/2104948585380859916",
-      "images": []
-    },
-    {
-      "id": "2104947228024713331",
-      "created_at": "2026-09-29T14:51:41.000Z",
-      "text": "$1.1 million into these $INTC calls https://t.co/URp9idUl1o",
-      "url": "https://x.com/FL0WG0D/status/2104947228024713331",
       "images": []
     }
   ]
