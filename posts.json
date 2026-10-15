@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-15T19:51:02+00:00",
-  "last_id": "2110818275693035564",
-  "new_this_run": 6,
+  "updated_at": "2026-10-15T22:42:12+00:00",
+  "last_id": "2110823805316919775",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2110823805316919775",
+      "created_at": "2026-10-15T20:03:07.000Z",
+      "text": "It doesn’t get much cleaner than that. Bullflow’s devs absolutely crushed this feature. Clean and simple to read.\n\nCode: FLOW  for a special discount\nhttps://t.co/RLfrjpITkc https://t.co/wXvm5un94x",
+      "url": "https://x.com/FL0WG0D/status/2110823805316919775",
+      "images": [
+        "images/2110823805316919775-0.jpg"
+      ]
+    },
     {
       "id": "2110818275693035564",
       "created_at": "2026-10-15T19:41:08.000Z",
@@ -530,9 +539,7 @@
       "created_at": "2026-10-09T18:59:29.000Z",
       "text": "$SPY 780 magnet 🧲 all day https://t.co/3usBQ5sEih",
       "url": "https://x.com/FL0WG0D/status/2108633464568221965",
-      "images": [
-        "images/2108633464568221965-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108627060638064658",
@@ -1505,13 +1512,6 @@
       "created_at": "2026-09-29T18:55:04.000Z",
       "text": "$WOLF - $993K Call buyer https://t.co/pdWw22A2CP",
       "url": "https://x.com/FL0WG0D/status/2105008477806747777",
-      "images": []
-    },
-    {
-      "id": "2105005652267409750",
-      "created_at": "2026-09-29T18:43:51.000Z",
-      "text": "$2.9 million into these $MSTR calls https://t.co/FYqu2vH1u1",
-      "url": "https://x.com/FL0WG0D/status/2105005652267409750",
       "images": []
     }
   ]
