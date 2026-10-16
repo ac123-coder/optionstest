@@ -1,12 +1,28 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-15T22:42:12+00:00",
-  "last_id": "2110823805316919775",
-  "new_this_run": 1,
+  "updated_at": "2026-10-16T15:54:14+00:00",
+  "last_id": "2111118558650335561",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2111118558650335561",
+      "created_at": "2026-10-16T15:34:21.000Z",
+      "text": "$2.4 million into these $SNOW calls https://t.co/r9skxSiGO2",
+      "url": "https://x.com/FL0WG0D/status/2111118558650335561",
+      "images": [
+        "images/2111118558650335561-0.jpg"
+      ]
+    },
+    {
+      "id": "2111085700108169567",
+      "created_at": "2026-10-16T13:23:47.000Z",
+      "text": "Noteworthy flow from yesterday\n(OI Confirmed)\n\n$GPN 95 Call (12/18) - $769K @ 2.30\n$TE 3 Call (1/15/27) - $978K @ 0.60\n$BRUN 15 Call (1/15/27) - $656K @ 1.15\n$CRWV 90 Call (4/16/27) - $19.5M @ 8.20",
+      "url": "https://x.com/FL0WG0D/status/2111085700108169567",
+      "images": []
+    },
     {
       "id": "2110823805316919775",
       "created_at": "2026-10-15T20:03:07.000Z",
@@ -521,18 +537,14 @@
       "created_at": "2026-10-09T20:02:35.000Z",
       "text": "This $AMZN bull is pushing 100% on these calls, and it was the first flow posted for X subs today. https://t.co/4WAFg0M0ji",
       "url": "https://x.com/FL0WG0D/status/2108649347588280386",
-      "images": [
-        "images/2108649347588280386-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108637943057273054",
       "created_at": "2026-10-09T19:17:16.000Z",
       "text": "These $AAPL calls are up 30% already https://t.co/aohpenxssp https://t.co/YYRPBUJkcM",
       "url": "https://x.com/FL0WG0D/status/2108637943057273054",
-      "images": [
-        "images/2108637943057273054-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2108633464568221965",
@@ -1498,20 +1510,6 @@
       "created_at": "2026-09-30T13:07:35.000Z",
       "text": "Noteworthy flow from yesterday\n(OI Confirmed)\n\n$SPCX 162.5 Call (10/16) - $2.1M @ 1.72\n$BIRK 35 Call (10/16) - $550K @ 0.59\n$MSTR 165 Call (10/23) - $3.6M @ 6.58\n$FRVO 15 Call (11/20) - $346K @ 1.60\n$INTC 145 Call (2/19/27) - $3M @ 12.07",
       "url": "https://x.com/FL0WG0D/status/2105283415981314284",
-      "images": []
-    },
-    {
-      "id": "2105009851055096306",
-      "created_at": "2026-09-29T19:00:32.000Z",
-      "text": "$FRVO - $312K Call buyer https://t.co/7iP56I0tOm",
-      "url": "https://x.com/FL0WG0D/status/2105009851055096306",
-      "images": []
-    },
-    {
-      "id": "2105008477806747777",
-      "created_at": "2026-09-29T18:55:04.000Z",
-      "text": "$WOLF - $993K Call buyer https://t.co/pdWw22A2CP",
-      "url": "https://x.com/FL0WG0D/status/2105008477806747777",
       "images": []
     }
   ]
