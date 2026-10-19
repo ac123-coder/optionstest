@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-16T22:03:37+00:00",
-  "last_id": "2111170609392898492",
-  "new_this_run": 0,
+  "updated_at": "2026-10-19T18:08:29+00:00",
+  "last_id": "2112196286082589103",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2112196286082589103",
+      "created_at": "2026-10-19T14:56:51.000Z",
+      "text": "Woah $AMZN bull is paid. https://t.co/SSdz4qRuL5",
+      "url": "https://x.com/FL0WG0D/status/2112196286082589103",
+      "images": [
+        "images/2112196286082589103-0.jpg"
+      ]
+    },
     {
       "id": "2111170609392898492",
       "created_at": "2026-10-16T19:01:11.000Z",
@@ -1510,13 +1519,6 @@
       "created_at": "2026-09-30T13:54:45.000Z",
       "text": "$1.1 million into these $INTC calls https://t.co/bKaUsyEDSS",
       "url": "https://x.com/FL0WG0D/status/2105295285756760479",
-      "images": []
-    },
-    {
-      "id": "2105292802984927309",
-      "created_at": "2026-09-30T13:44:53.000Z",
-      "text": "$3.9 million into these $CBRS calls https://t.co/QEzujW1gRh",
-      "url": "https://x.com/FL0WG0D/status/2105292802984927309",
       "images": []
     }
   ]
