@@ -1,12 +1,31 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-19T18:08:29+00:00",
-  "last_id": "2112196286082589103",
-  "new_this_run": 1,
+  "updated_at": "2026-10-19T22:18:19+00:00",
+  "last_id": "2112270434452320668",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2112270434452320668",
+      "created_at": "2026-10-19T19:51:30.000Z",
+      "text": "Not much flow today, but this $AMZN and $GOOGL flow from this morning paid. https://t.co/yVWU2Js3i4",
+      "url": "https://x.com/FL0WG0D/status/2112270434452320668",
+      "images": [
+        "images/2112270434452320668-0.png",
+        "images/2112270434452320668-1.png"
+      ]
+    },
+    {
+      "id": "2112245026290053445",
+      "created_at": "2026-10-19T18:10:32.000Z",
+      "text": "$SECZ - $349K Call buyer https://t.co/optEn336A9",
+      "url": "https://x.com/FL0WG0D/status/2112245026290053445",
+      "images": [
+        "images/2112245026290053445-0.jpg"
+      ]
+    },
     {
       "id": "2112196286082589103",
       "created_at": "2026-10-19T14:56:51.000Z",
@@ -528,18 +547,14 @@
       "created_at": "2026-10-12T13:43:56.000Z",
       "text": "$698K into these $SNAP calls https://t.co/RSGKRiAgmk",
       "url": "https://x.com/FL0WG0D/status/2109641216950436090",
-      "images": [
-        "images/2109641216950436090-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2109640300939419983",
       "created_at": "2026-10-12T13:40:17.000Z",
       "text": "$2.5 million into these $MSFT calls https://t.co/6GFU0rrpML",
       "url": "https://x.com/FL0WG0D/status/2109640300939419983",
-      "images": [
-        "images/2109640300939419983-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2109633243565666779",
@@ -1505,20 +1520,6 @@
       "created_at": "2026-09-30T14:17:45.000Z",
       "text": "$PATH - $494K Call buyer https://t.co/7sC4MBG5BI",
       "url": "https://x.com/FL0WG0D/status/2105301073686880697",
-      "images": []
-    },
-    {
-      "id": "2105300402388500613",
-      "created_at": "2026-09-30T14:15:05.000Z",
-      "text": "$AMZN - $845K Call buyer https://t.co/dDnx8o5qb1",
-      "url": "https://x.com/FL0WG0D/status/2105300402388500613",
-      "images": []
-    },
-    {
-      "id": "2105295285756760479",
-      "created_at": "2026-09-30T13:54:45.000Z",
-      "text": "$1.1 million into these $INTC calls https://t.co/bKaUsyEDSS",
-      "url": "https://x.com/FL0WG0D/status/2105295285756760479",
       "images": []
     }
   ]
