@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-20T16:09:55+00:00",
-  "last_id": "2112559517292699921",
-  "new_this_run": 4,
+  "updated_at": "2026-10-20T19:59:06+00:00",
+  "last_id": "2112588098303361458",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2112588098303361458",
+      "created_at": "2026-10-20T16:53:47.000Z",
+      "text": "$MRNA always paying. Only stock I can trust in this market https://t.co/eHOtQ4Pq7w",
+      "url": "https://x.com/FL0WG0D/status/2112588098303361458",
+      "images": [
+        "images/2112588098303361458-0.jpg"
+      ]
+    },
     {
       "id": "2112559517292699921",
       "created_at": "2026-10-20T15:00:13.000Z",
@@ -538,9 +547,7 @@
       "created_at": "2026-10-13T13:44:11.000Z",
       "text": "This $AAPL bull is taking profits as $AAPL reaches a new all time high https://t.co/0zAUHDfWU3 https://t.co/YYRPBUJS2k",
       "url": "https://x.com/FL0WG0D/status/2110003671203484122",
-      "images": [
-        "images/2110003671203484122-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2110002729321898223",
@@ -1513,13 +1520,6 @@
       "created_at": "2026-09-30T15:40:46.000Z",
       "text": "Earnings gamble $MU https://t.co/fez7vAPFOI",
       "url": "https://x.com/FL0WG0D/status/2105321966068506639",
-      "images": []
-    },
-    {
-      "id": "2105317981794242901",
-      "created_at": "2026-09-30T15:24:56.000Z",
-      "text": "$23.3 million into these $TSM calls https://t.co/fYkVQdyRHp",
-      "url": "https://x.com/FL0WG0D/status/2105317981794242901",
       "images": []
     }
   ]
