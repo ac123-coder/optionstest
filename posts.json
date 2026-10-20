@@ -1,12 +1,22 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-20T19:59:06+00:00",
-  "last_id": "2112588098303361458",
+  "updated_at": "2026-10-20T23:03:08+00:00",
+  "last_id": "2112661584149418058",
   "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2112661584149418058",
+      "created_at": "2026-10-20T21:45:47.000Z",
+      "text": "This $DELL weekly flow I posted for my X subs 👀 https://t.co/dodQd0F2mJ",
+      "url": "https://x.com/FL0WG0D/status/2112661584149418058",
+      "images": [
+        "images/2112661584149418058-0.jpg",
+        "images/2112661584149418058-1.jpg"
+      ]
+    },
     {
       "id": "2112588098303361458",
       "created_at": "2026-10-20T16:53:47.000Z",
@@ -538,9 +548,7 @@
       "created_at": "2026-10-13T13:52:18.000Z",
       "text": "Wow that strike $META https://t.co/OzQLU8oTur",
       "url": "https://x.com/FL0WG0D/status/2110005711954706540",
-      "images": [
-        "images/2110005711954706540-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2110003671203484122",
@@ -1513,13 +1521,6 @@
       "created_at": "2026-09-30T15:51:18.000Z",
       "text": "$AFRM - $511K Call buyer https://t.co/4leyMYvFXM",
       "url": "https://x.com/FL0WG0D/status/2105324618932240803",
-      "images": []
-    },
-    {
-      "id": "2105321966068506639",
-      "created_at": "2026-09-30T15:40:46.000Z",
-      "text": "Earnings gamble $MU https://t.co/fez7vAPFOI",
-      "url": "https://x.com/FL0WG0D/status/2105321966068506639",
       "images": []
     }
   ]
