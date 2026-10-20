@@ -1,12 +1,48 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-19T22:18:19+00:00",
-  "last_id": "2112270434452320668",
-  "new_this_run": 2,
+  "updated_at": "2026-10-20T16:09:55+00:00",
+  "last_id": "2112559517292699921",
+  "new_this_run": 4,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2112559517292699921",
+      "created_at": "2026-10-20T15:00:13.000Z",
+      "text": "You would not have missed the $SPX $SPY pump this morning if you had Bullflow GEX charts!\n\n20% off today using code FLOW\nhttps://t.co/RLfrjpITkc https://t.co/nMQkQFGPU2",
+      "url": "https://x.com/FL0WG0D/status/2112559517292699921",
+      "images": [
+        "images/2112559517292699921-0.jpg"
+      ]
+    },
+    {
+      "id": "2112548129392283804",
+      "created_at": "2026-10-20T14:14:57.000Z",
+      "text": "$2 million into these $NET calls https://t.co/PcBTSagFQj",
+      "url": "https://x.com/FL0WG0D/status/2112548129392283804",
+      "images": [
+        "images/2112548129392283804-0.jpg"
+      ]
+    },
+    {
+      "id": "2112540077721022581",
+      "created_at": "2026-10-20T13:42:58.000Z",
+      "text": "$720K into these $CRWV puts https://t.co/emr1SDL7Go",
+      "url": "https://x.com/FL0WG0D/status/2112540077721022581",
+      "images": [
+        "images/2112540077721022581-0.jpg"
+      ]
+    },
+    {
+      "id": "2112539535209009635",
+      "created_at": "2026-10-20T13:40:48.000Z",
+      "text": "$2.3 million into these $SNDK puts https://t.co/DmMl0IsP49",
+      "url": "https://x.com/FL0WG0D/status/2112539535209009635",
+      "images": [
+        "images/2112539535209009635-0.jpg"
+      ]
+    },
     {
       "id": "2112270434452320668",
       "created_at": "2026-10-19T19:51:30.000Z",
@@ -511,36 +547,28 @@
       "created_at": "2026-10-13T13:40:27.000Z",
       "text": "$1.2 million into these $OKLO calls https://t.co/RsociRXj4U",
       "url": "https://x.com/FL0WG0D/status/2110002729321898223",
-      "images": [
-        "images/2110002729321898223-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2109667403416158364",
       "created_at": "2026-10-12T15:27:59.000Z",
       "text": "$9.4 million into these $MSFT calls now https://t.co/W15gJsAZzf https://t.co/wAMz6tKjf4",
       "url": "https://x.com/FL0WG0D/status/2109667403416158364",
-      "images": [
-        "images/2109667403416158364-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2109647257243201793",
       "created_at": "2026-10-12T14:07:56.000Z",
       "text": "$761K into these $NBIS calls https://t.co/vrCyj1tCkY",
       "url": "https://x.com/FL0WG0D/status/2109647257243201793",
-      "images": [
-        "images/2109647257243201793-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2109644483415408756",
       "created_at": "2026-10-12T13:56:54.000Z",
       "text": "$745K into these $SKHY calls https://t.co/G3wn7KvaaU",
       "url": "https://x.com/FL0WG0D/status/2109644483415408756",
-      "images": [
-        "images/2109644483415408756-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2109641216950436090",
@@ -1492,34 +1520,6 @@
       "created_at": "2026-09-30T15:24:56.000Z",
       "text": "$23.3 million into these $TSM calls https://t.co/fYkVQdyRHp",
       "url": "https://x.com/FL0WG0D/status/2105317981794242901",
-      "images": []
-    },
-    {
-      "id": "2105314718936367138",
-      "created_at": "2026-09-30T15:11:58.000Z",
-      "text": "Another bull $PACB. Also 8% higher since last post https://t.co/DDa394c2FZ https://t.co/uojhdA4low",
-      "url": "https://x.com/FL0WG0D/status/2105314718936367138",
-      "images": []
-    },
-    {
-      "id": "2105312886696341724",
-      "created_at": "2026-09-30T15:04:41.000Z",
-      "text": "$1.4 million into these $RIOT calls https://t.co/0jkRTQSSeR",
-      "url": "https://x.com/FL0WG0D/status/2105312886696341724",
-      "images": []
-    },
-    {
-      "id": "2105301406739562548",
-      "created_at": "2026-09-30T14:19:04.000Z",
-      "text": "$PACB - $95K Call buyer https://t.co/2vrkf4b610",
-      "url": "https://x.com/FL0WG0D/status/2105301406739562548",
-      "images": []
-    },
-    {
-      "id": "2105301073686880697",
-      "created_at": "2026-09-30T14:17:45.000Z",
-      "text": "$PATH - $494K Call buyer https://t.co/7sC4MBG5BI",
-      "url": "https://x.com/FL0WG0D/status/2105301073686880697",
       "images": []
     }
   ]
