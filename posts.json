@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-22T16:26:07+00:00",
-  "last_id": "2112980995398086865",
-  "new_this_run": 0,
+  "updated_at": "2026-10-22T20:14:09+00:00",
+  "last_id": "2113311316840485371",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2113311316840485371",
+      "created_at": "2026-10-22T16:47:36.000Z",
+      "text": "RIP $MRNA. Was great while it lasted https://t.co/p28ippeXad https://t.co/OKMBvL3oVH",
+      "url": "https://x.com/FL0WG0D/status/2113311316840485371",
+      "images": [
+        "images/2113311316840485371-0.jpg"
+      ]
+    },
     {
       "id": "2112980995398086865",
       "created_at": "2026-10-21T18:55:01.000Z",
@@ -540,9 +549,7 @@
       "created_at": "2026-10-13T16:16:09.000Z",
       "text": "$5 million into these $CIFR calls https://t.co/ElNjtjc58V",
       "url": "https://x.com/FL0WG0D/status/2110041913143525663",
-      "images": [
-        "images/2110041913143525663-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2110041576928109017",
@@ -1515,13 +1522,6 @@
       "created_at": "2026-10-01T16:00:56.000Z",
       "text": "$2.8 million into these $SDGR calls https://t.co/iL7x66Glq9",
       "url": "https://x.com/FL0WG0D/status/2105689430954577998",
-      "images": []
-    },
-    {
-      "id": "2105673075425767889",
-      "created_at": "2026-10-01T14:55:57.000Z",
-      "text": "$1.2 million into these $CCL calls https://t.co/GaY9MREYl1",
-      "url": "https://x.com/FL0WG0D/status/2105673075425767889",
       "images": []
     }
   ]
