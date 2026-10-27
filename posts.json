@@ -1,12 +1,56 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-27T17:12:31+00:00",
-  "last_id": "2115113549626269747",
-  "new_this_run": 13,
+  "updated_at": "2026-10-27T21:19:32+00:00",
+  "last_id": "2115169661750747445",
+  "new_this_run": 5,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2115169661750747445",
+      "created_at": "2026-10-27T19:51:59.000Z",
+      "text": "Daily picks + insider flow here https://t.co/qufKfVJeCC",
+      "url": "https://x.com/FL0WG0D/status/2115169661750747445",
+      "images": []
+    },
+    {
+      "id": "2115169522839585131",
+      "created_at": "2026-10-27T19:51:26.000Z",
+      "text": "$TSLA was one of my top picks of the week from my custom scanner and is up over 10% so far. My X subscribers get access to all of these picks daily. And no, I don’t post hundreds of them — just a few of the best daily/weekly setups. ($AMZN was one of today’s top picks) https://t.co/61sNxK6PYr",
+      "url": "https://x.com/FL0WG0D/status/2115169522839585131",
+      "images": [
+        "images/2115169522839585131-0.jpg",
+        "images/2115169522839585131-1.png"
+      ]
+    },
+    {
+      "id": "2115160523167932429",
+      "created_at": "2026-10-27T19:15:41.000Z",
+      "text": "$16.8 million into these $AAPL calls https://t.co/bsZM2IEDQW",
+      "url": "https://x.com/FL0WG0D/status/2115160523167932429",
+      "images": [
+        "images/2115160523167932429-0.jpg"
+      ]
+    },
+    {
+      "id": "2115160422823399673",
+      "created_at": "2026-10-27T19:15:17.000Z",
+      "text": "$18.4 million into these $GOOGL calls https://t.co/qFLQFHbI0o",
+      "url": "https://x.com/FL0WG0D/status/2115160422823399673",
+      "images": [
+        "images/2115160422823399673-0.jpg"
+      ]
+    },
+    {
+      "id": "2115155384084152672",
+      "created_at": "2026-10-27T18:55:15.000Z",
+      "text": "$RIVN news? https://t.co/TdVEumBSDf https://t.co/qw4u60CUDB",
+      "url": "https://x.com/FL0WG0D/status/2115155384084152672",
+      "images": [
+        "images/2115155384084152672-0.jpg"
+      ]
+    },
     {
       "id": "2115113549626269747",
       "created_at": "2026-10-27T16:09:01.000Z",
@@ -507,28 +551,21 @@
       "created_at": "2026-10-16T18:45:17.000Z",
       "text": "$OXY bull https://t.co/iDYlSyVBEk",
       "url": "https://x.com/FL0WG0D/status/2111166609125413093",
-      "images": [
-        "images/2111166609125413093-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2111127742855221731",
       "created_at": "2026-10-16T16:10:51.000Z",
       "text": "Trust your data enough that you actually take the positions. Another beautiful short setup today.\n\nhttps://t.co/RLfrjpITkc https://t.co/3SXWFNl6kG https://t.co/DIiNLF7OTe",
       "url": "https://x.com/FL0WG0D/status/2111127742855221731",
-      "images": [
-        "images/2111127742855221731-0.jpg",
-        "images/2111127742855221731-1.png"
-      ]
+      "images": []
     },
     {
       "id": "2111118558650335561",
       "created_at": "2026-10-16T15:34:21.000Z",
       "text": "$2.4 million into these $SNOW calls https://t.co/r9skxSiGO2",
       "url": "https://x.com/FL0WG0D/status/2111118558650335561",
-      "images": [
-        "images/2111118558650335561-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2111085700108169567",
@@ -542,9 +579,7 @@
       "created_at": "2026-10-15T20:03:07.000Z",
       "text": "It doesn’t get much cleaner than that. Bullflow’s devs absolutely crushed this feature. Clean and simple to read.\n\nCode: FLOW  for a special discount\nhttps://t.co/RLfrjpITkc https://t.co/wXvm5un94x",
       "url": "https://x.com/FL0WG0D/status/2110823805316919775",
-      "images": [
-        "images/2110823805316919775-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2110818275693035564",
@@ -1489,41 +1524,6 @@
       "created_at": "2026-10-05T18:04:28.000Z",
       "text": "$NU - $334K Call buyer https://t.co/YTQ8bnqgVO",
       "url": "https://x.com/FL0WG0D/status/2107170068803002456",
-      "images": []
-    },
-    {
-      "id": "2107164855639871526",
-      "created_at": "2026-10-05T17:43:45.000Z",
-      "text": "$2.3 million into these $TSLA calls https://t.co/1A9lxJfmsU",
-      "url": "https://x.com/FL0WG0D/status/2107164855639871526",
-      "images": []
-    },
-    {
-      "id": "2107160651609297271",
-      "created_at": "2026-10-05T17:27:03.000Z",
-      "text": "$MRNA is ripping! This trade was found using Bullflow’s GEX and flow data. Same exact data the expensive platforms charge hundreds a month for, at about 1/10 the price.\n\nUse code FLOW for 20% off today!\nhttps://t.co/ZypmBx2ZmQ https://t.co/dF2wJ252y5",
-      "url": "https://x.com/FL0WG0D/status/2107160651609297271",
-      "images": []
-    },
-    {
-      "id": "2107151237149798611",
-      "created_at": "2026-10-05T16:49:38.000Z",
-      "text": "$3.1 million into these $MU calls https://t.co/Rk9x8qgDvP",
-      "url": "https://x.com/FL0WG0D/status/2107151237149798611",
-      "images": []
-    },
-    {
-      "id": "2107133144520335826",
-      "created_at": "2026-10-05T15:37:44.000Z",
-      "text": "$1.1 million into these $SPCX calls. $SPCX bulls are going crazy today https://t.co/sJvppGE5MG",
-      "url": "https://x.com/FL0WG0D/status/2107133144520335826",
-      "images": []
-    },
-    {
-      "id": "2107132184553251197",
-      "created_at": "2026-10-05T15:33:56.000Z",
-      "text": "https://t.co/qufKfVJeCC",
-      "url": "https://x.com/FL0WG0D/status/2107132184553251197",
       "images": []
     }
   ]
