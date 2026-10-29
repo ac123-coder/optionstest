@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-29T17:53:47+00:00",
-  "last_id": "2115859554634260661",
-  "new_this_run": 9,
+  "updated_at": "2026-10-29T22:11:57+00:00",
+  "last_id": "2115920638686761423",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2115920638686761423",
+      "created_at": "2026-10-29T21:36:06.000Z",
+      "text": "Are you ready for Black Friday? $SPY $QQQ https://t.co/tpOYq99VzH https://t.co/QhWsUF9RCi",
+      "url": "https://x.com/FL0WG0D/status/2115920638686761423",
+      "images": [
+        "images/2115920638686761423-0.jpg"
+      ]
+    },
     {
       "id": "2115859554634260661",
       "created_at": "2026-10-29T17:33:23.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-10-21T18:54:04.000Z",
       "text": "$971K into these $IREN calls https://t.co/gekT7xtX8B",
       "url": "https://x.com/FL0WG0D/status/2112980756800688247",
-      "images": [
-        "images/2112980756800688247-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2112976725097242844",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-10-06T14:40:35.000Z",
       "text": "Unreal $AVGO https://t.co/R5IKfOyiHw https://t.co/4Pimy2C7jv",
       "url": "https://x.com/FL0WG0D/status/2107481150168203592",
-      "images": []
-    },
-    {
-      "id": "2107479043415363746",
-      "created_at": "2026-10-06T14:32:13.000Z",
-      "text": "$AMZN - $810K Call buyer https://t.co/GMlmjPpI42",
-      "url": "https://x.com/FL0WG0D/status/2107479043415363746",
       "images": []
     }
   ]
