@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-10-30T17:35:32+00:00",
-  "last_id": "2116211106146652486",
-  "new_this_run": 4,
+  "updated_at": "2026-10-30T21:40:54+00:00",
+  "last_id": "2116251873049288787",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2116251873049288787",
+      "created_at": "2026-10-30T19:32:19.000Z",
+      "text": "No signs of selling for this $32.1 million $QQQ bear. Contracts were up over 100%.\n\nAre they holding for Black Monday? https://t.co/ytQ8ipzN0Y https://t.co/QhWsUFaprQ",
+      "url": "https://x.com/FL0WG0D/status/2116251873049288787",
+      "images": [
+        "images/2116251873049288787-0.jpg"
+      ]
+    },
     {
       "id": "2116211106146652486",
       "created_at": "2026-10-30T16:50:19.000Z",
@@ -535,9 +544,7 @@
       "created_at": "2026-10-23T15:50:32.000Z",
       "text": "$RKLB - $229K Call buyer https://t.co/AFTCu4o03D",
       "url": "https://x.com/FL0WG0D/status/2113659344332173746",
-      "images": [
-        "images/2113659344332173746-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2113642979726630967",
@@ -1510,13 +1517,6 @@
       "created_at": "2026-10-06T17:29:16.000Z",
       "text": "$216K into these $XE calls https://t.co/g1xz6IalR2",
       "url": "https://x.com/FL0WG0D/status/2107523599443939508",
-      "images": []
-    },
-    {
-      "id": "2107497646470406307",
-      "created_at": "2026-10-06T15:46:08.000Z",
-      "text": "$AAOI - $308K Call buyer https://t.co/9OddWxFvOw",
-      "url": "https://x.com/FL0WG0D/status/2107497646470406307",
       "images": []
     }
   ]
