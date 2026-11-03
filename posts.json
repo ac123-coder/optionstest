@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-03T18:55:15+00:00",
-  "last_id": "2117689589728981255",
-  "new_this_run": 6,
+  "updated_at": "2026-11-03T23:50:13+00:00",
+  "last_id": "2117701765726347461",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2117701765726347461",
+      "created_at": "2026-11-03T19:33:40.000Z",
+      "text": "$8.3 million into these $INTC calls https://t.co/03eotPLQ5o",
+      "url": "https://x.com/FL0WG0D/status/2117701765726347461",
+      "images": [
+        "images/2117701765726347461-0.jpg"
+      ]
+    },
     {
       "id": "2117689589728981255",
       "created_at": "2026-11-03T18:45:17.000Z",
@@ -539,9 +548,7 @@
       "created_at": "2026-10-27T14:51:15.000Z",
       "text": "$2.7 million into these $GLW calls https://t.co/G3y3jqBS6E",
       "url": "https://x.com/FL0WG0D/status/2115093977225376029",
-      "images": [
-        "images/2115093977225376029-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2115093816675901523",
@@ -1514,13 +1521,6 @@
       "created_at": "2026-10-07T18:30:04.000Z",
       "text": "$TSCO - $157K Call buyer https://t.co/IHYyhCUPZV",
       "url": "https://x.com/FL0WG0D/status/2107901288599933153",
-      "images": []
-    },
-    {
-      "id": "2107894687411691561",
-      "created_at": "2026-10-07T18:03:50.000Z",
-      "text": "$ORCL - $361K Call buyer https://t.co/yQClfWnPYW",
-      "url": "https://x.com/FL0WG0D/status/2107894687411691561",
       "images": []
     }
   ]
