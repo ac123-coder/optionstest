@@ -1,12 +1,37 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-04T19:13:29+00:00",
-  "last_id": "2118037075627012455",
-  "new_this_run": 14,
+  "updated_at": "2026-11-05T00:22:51+00:00",
+  "last_id": "2118100620699996360",
+  "new_this_run": 3,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2118100620699996360",
+      "created_at": "2026-11-04T21:58:35.000Z",
+      "text": "https://t.co/qufKfVJMsa",
+      "url": "https://x.com/FL0WG0D/status/2118100620699996360",
+      "images": []
+    },
+    {
+      "id": "2118100555944116598",
+      "created_at": "2026-11-04T21:58:19.000Z",
+      "text": "Yesterday I posted this $MSFT flow for my X subscribers, someone bought 1,390 $MSFT 522.5 calls expiring today at $2.86, about $398K total\n\nThis morning those calls hit a high of $36.13\n\nAt the peak that position was worth around $5M\n\n$398K → $5M overnight\n +1,163% https://t.co/LAyv8iiNCX",
+      "url": "https://x.com/FL0WG0D/status/2118100555944116598",
+      "images": [
+        "images/2118100555944116598-0.jpg"
+      ]
+    },
+    {
+      "id": "2118061577882726638",
+      "created_at": "2026-11-04T19:23:26.000Z",
+      "text": "$934K into these $AAPL calls https://t.co/eKreXMvWCz",
+      "url": "https://x.com/FL0WG0D/status/2118061577882726638",
+      "images": [
+        "images/2118061577882726638-0.jpg"
+      ]
+    },
     {
       "id": "2118037075627012455",
       "created_at": "2026-11-04T17:46:04.000Z",
@@ -523,27 +548,21 @@
       "created_at": "2026-10-28T18:44:09.000Z",
       "text": "$1.9 million into these $GOOG calls. $GOOG reports earnings today 😬 https://t.co/JiyZZ9DKsi",
       "url": "https://x.com/FL0WG0D/status/2115514975297098031",
-      "images": [
-        "images/2115514975297098031-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2115512996134789275",
       "created_at": "2026-10-28T18:36:17.000Z",
       "text": "$971K into these $CRWV calls https://t.co/fhoyirQvE1",
       "url": "https://x.com/FL0WG0D/status/2115512996134789275",
-      "images": [
-        "images/2115512996134789275-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2115454671120679232",
       "created_at": "2026-10-28T14:44:31.000Z",
       "text": "$1 million into these $MRNA calls https://t.co/9WaGEHzAuh",
       "url": "https://x.com/FL0WG0D/status/2115454671120679232",
-      "images": [
-        "images/2115454671120679232-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2115446295393399059",
@@ -1502,27 +1521,6 @@
       "created_at": "2026-10-09T15:54:59.000Z",
       "text": "$NET - $663K Call buyer https://t.co/y2uLH67BcM",
       "url": "https://x.com/FL0WG0D/status/2108587035439071696",
-      "images": []
-    },
-    {
-      "id": "2108582477279219757",
-      "created_at": "2026-10-09T15:36:52.000Z",
-      "text": "$ASTS - $8.6M Put seller https://t.co/004tw7dpQt",
-      "url": "https://x.com/FL0WG0D/status/2108582477279219757",
-      "images": []
-    },
-    {
-      "id": "2108581495074070579",
-      "created_at": "2026-10-09T15:32:58.000Z",
-      "text": "$GME is waking up 👀 https://t.co/B4a39ZcAjN https://t.co/aMuFCoaRSw",
-      "url": "https://x.com/FL0WG0D/status/2108581495074070579",
-      "images": []
-    },
-    {
-      "id": "2108574831667302648",
-      "created_at": "2026-10-09T15:06:29.000Z",
-      "text": "No other Flow + GEX service can compete with the price and precision of @BullflowIO.\n\n$SPX 80%+ today \n$MRNA 400%+ today\n(It's only 11AM)\n\nCode FLOW for 20% off \nhttps://t.co/RLfrjpITkc https://t.co/KrCXX5wLDx",
-      "url": "https://x.com/FL0WG0D/status/2108574831667302648",
       "images": []
     }
   ]
