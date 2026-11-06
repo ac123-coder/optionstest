@@ -1,12 +1,28 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-06T18:44:59+00:00",
-  "last_id": "2118733246733168966",
-  "new_this_run": 1,
+  "updated_at": "2026-11-06T23:32:13+00:00",
+  "last_id": "2118811158987903087",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2118811158987903087",
+      "created_at": "2026-11-06T21:02:00.000Z",
+      "text": "New position here https://t.co/qufKfVJMsa",
+      "url": "https://x.com/FL0WG0D/status/2118811158987903087",
+      "images": []
+    },
+    {
+      "id": "2118811032625848392",
+      "created_at": "2026-11-06T21:01:30.000Z",
+      "text": "Good news: They’re out of the $50 million worth of $SPY puts for about a 100% gain.\n\nBad news: The new position is insane 🙃 https://t.co/y3yMyKfPiP https://t.co/Wu401H2hhg",
+      "url": "https://x.com/FL0WG0D/status/2118811032625848392",
+      "images": [
+        "images/2118811032625848392-0.jpg"
+      ]
+    },
     {
       "id": "2118733246733168966",
       "created_at": "2026-11-06T15:52:24.000Z",
@@ -528,20 +544,14 @@
       "created_at": "2026-10-30T14:28:16.000Z",
       "text": "Togi loading up on $MSTR puts https://t.co/ihfrNDX2ZH https://t.co/Px0loErNEv",
       "url": "https://x.com/FL0WG0D/status/2116175358458528235",
-      "images": [
-        "images/2116175358458528235-0.jpg",
-        "images/2116175358458528235-1.jpg",
-        "images/2116175358458528235-2.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2116161859158196589",
       "created_at": "2026-10-30T13:34:38.000Z",
       "text": "This $QQQ put whale is sitting on roughly $15 million in profit https://t.co/Bi3byJWjsb https://t.co/QhWsUFaprQ",
       "url": "https://x.com/FL0WG0D/status/2116161859158196589",
-      "images": [
-        "images/2116161859158196589-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2116155213723971932",
@@ -1507,20 +1517,6 @@
       "created_at": "2026-10-12T15:27:59.000Z",
       "text": "$9.4 million into these $MSFT calls now https://t.co/W15gJsAZzf https://t.co/wAMz6tKjf4",
       "url": "https://x.com/FL0WG0D/status/2109667403416158364",
-      "images": []
-    },
-    {
-      "id": "2109647257243201793",
-      "created_at": "2026-10-12T14:07:56.000Z",
-      "text": "$761K into these $NBIS calls https://t.co/vrCyj1tCkY",
-      "url": "https://x.com/FL0WG0D/status/2109647257243201793",
-      "images": []
-    },
-    {
-      "id": "2109644483415408756",
-      "created_at": "2026-10-12T13:56:54.000Z",
-      "text": "$745K into these $SKHY calls https://t.co/G3wn7KvaaU",
-      "url": "https://x.com/FL0WG0D/status/2109644483415408756",
       "images": []
     }
   ]
