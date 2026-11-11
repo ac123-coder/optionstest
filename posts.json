@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-10T19:10:18+00:00",
-  "last_id": "2120211774704103566",
-  "new_this_run": 2,
+  "updated_at": "2026-11-11T00:01:41+00:00",
+  "last_id": "2120249503160938823",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2120249503160938823",
+      "created_at": "2026-11-10T20:17:28.000Z",
+      "text": "$2.2 million into these $EL calls https://t.co/fBww2nWHyY",
+      "url": "https://x.com/FL0WG0D/status/2120249503160938823",
+      "images": [
+        "images/2120249503160938823-0.jpg"
+      ]
+    },
     {
       "id": "2120211774704103566",
       "created_at": "2026-11-10T17:47:33.000Z",
@@ -533,9 +542,7 @@
       "created_at": "2026-11-02T19:04:30.000Z",
       "text": "This $32 million $QQQ bear is still holding….\n\nThis week is going to be interesting https://t.co/sGPvk26COq https://t.co/QhWsUF9RCi",
       "url": "https://x.com/FL0WG0D/status/2117332036050423892",
-      "images": [
-        "images/2117332036050423892-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2117316080616042546",
@@ -1508,13 +1515,6 @@
       "created_at": "2026-10-13T15:24:32.000Z",
       "text": "$CLSK - $651K Call buyer https://t.co/UgHfvl2GGS",
       "url": "https://x.com/FL0WG0D/status/2110028925250245083",
-      "images": []
-    },
-    {
-      "id": "2110026779993768362",
-      "created_at": "2026-10-13T15:16:01.000Z",
-      "text": "Time for $NBIS to bounce? https://t.co/OpyK2JIkf3",
-      "url": "https://x.com/FL0WG0D/status/2110026779993768362",
       "images": []
     }
   ]
