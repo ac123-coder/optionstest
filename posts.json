@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-11T19:07:15+00:00",
-  "last_id": "2120586823906755016",
-  "new_this_run": 13,
+  "updated_at": "2026-11-12T01:28:57+00:00",
+  "last_id": "2120606609961538015",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2120606609961538015",
+      "created_at": "2026-11-11T19:56:29.000Z",
+      "text": "$CE - $625K Call buyer https://t.co/O6O4HX3vIR",
+      "url": "https://x.com/FL0WG0D/status/2120606609961538015",
+      "images": [
+        "images/2120606609961538015-0.jpg"
+      ]
+    },
     {
       "id": "2120586823906755016",
       "created_at": "2026-11-11T18:37:52.000Z",
@@ -532,10 +541,7 @@
       "created_at": "2026-11-04T02:13:58.000Z",
       "text": "$SPY https://t.co/fUVTUPwueA https://t.co/bptawaVm0x",
       "url": "https://x.com/FL0WG0D/status/2117802504951890092",
-      "images": [
-        "images/2117802504951890092-0.jpg",
-        "images/2117802504951890092-1.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2117701765726347461",
@@ -1508,13 +1514,6 @@
       "created_at": "2026-10-14T15:44:07.000Z",
       "text": "Bullflow absolutely nailing this $SPY dump to 770. Wow!\n\nhttps://t.co/RLfrjpITkc https://t.co/chvpZx2QEN",
       "url": "https://x.com/FL0WG0D/status/2110396238885720391",
-      "images": []
-    },
-    {
-      "id": "2110395299198116205",
-      "created_at": "2026-10-14T15:40:23.000Z",
-      "text": "$BTDR - $450K Call buyer https://t.co/HTd9TtOCA7",
-      "url": "https://x.com/FL0WG0D/status/2110395299198116205",
       "images": []
     }
   ]
