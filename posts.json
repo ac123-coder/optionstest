@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-12T19:24:43+00:00",
-  "last_id": "2120934962379567387",
-  "new_this_run": 5,
+  "updated_at": "2026-11-13T00:36:17+00:00",
+  "last_id": "2120982395923169285",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2120982395923169285",
+      "created_at": "2026-11-12T20:49:43.000Z",
+      "text": "$1.5 million into these $AVGO calls https://t.co/YbdElVwycg",
+      "url": "https://x.com/FL0WG0D/status/2120982395923169285",
+      "images": [
+        "images/2120982395923169285-0.jpg"
+      ]
+    },
     {
       "id": "2120934962379567387",
       "created_at": "2026-11-12T17:41:14.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-11-04T14:42:46.000Z",
       "text": "$MRNA 🙏😴 https://t.co/eArTVPoGzE https://t.co/DrVQ8oskvP",
       "url": "https://x.com/FL0WG0D/status/2117990945937326264",
-      "images": [
-        "images/2117990945937326264-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2117989455550165258",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-10-15T13:49:43.000Z",
       "text": "$2.6 million into these $IBIT calls https://t.co/hp3PRipBP1",
       "url": "https://x.com/FL0WG0D/status/2110729836708917522",
-      "images": []
-    },
-    {
-      "id": "2110718789008408660",
-      "created_at": "2026-10-15T13:05:49.000Z",
-      "text": "Large $TLT bull right before close yesterday https://t.co/FtWtYj2MDX",
-      "url": "https://x.com/FL0WG0D/status/2110718789008408660",
       "images": []
     }
   ]
