@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-13T19:03:09+00:00",
-  "last_id": "2120982395923169285",
-  "new_this_run": 0,
+  "updated_at": "2026-11-14T00:17:07+00:00",
+  "last_id": "2121335556194148480",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2121335556194148480",
+      "created_at": "2026-11-13T20:13:03.000Z",
+      "text": "$8.6 million into these $DRAM calls https://t.co/EiA06jvY0O",
+      "url": "https://x.com/FL0WG0D/status/2121335556194148480",
+      "images": [
+        "images/2121335556194148480-0.jpg"
+      ]
+    },
     {
       "id": "2120982395923169285",
       "created_at": "2026-11-12T20:49:43.000Z",
@@ -532,9 +541,7 @@
       "created_at": "2026-11-04T15:04:44.000Z",
       "text": "1,000% gains for this $398K $MSFT position https://t.co/kd1MHTauDQ",
       "url": "https://x.com/FL0WG0D/status/2117996474046755095",
-      "images": [
-        "images/2117996474046755095-0.png"
-      ]
+      "images": []
     },
     {
       "id": "2117990945937326264",
@@ -1507,13 +1514,6 @@
       "created_at": "2026-10-15T13:51:38.000Z",
       "text": "$FRMI - $240K Call buyer https://t.co/xmvGIRR6bH",
       "url": "https://x.com/FL0WG0D/status/2110730319779266709",
-      "images": []
-    },
-    {
-      "id": "2110729836708917522",
-      "created_at": "2026-10-15T13:49:43.000Z",
-      "text": "$2.6 million into these $IBIT calls https://t.co/hp3PRipBP1",
-      "url": "https://x.com/FL0WG0D/status/2110729836708917522",
       "images": []
     }
   ]
