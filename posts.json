@@ -1,12 +1,48 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-16T21:29:49+00:00",
-  "last_id": "2122396376135029137",
-  "new_this_run": 3,
+  "updated_at": "2026-11-17T20:19:51+00:00",
+  "last_id": "2122738183767237030",
+  "new_this_run": 4,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2122738183767237030",
+      "created_at": "2026-11-17T17:06:36.000Z",
+      "text": "$2.1 million into these $SQQQ calls https://t.co/qzfhJuiE0i",
+      "url": "https://x.com/FL0WG0D/status/2122738183767237030",
+      "images": [
+        "images/2122738183767237030-0.jpg"
+      ]
+    },
+    {
+      "id": "2122717047003939124",
+      "created_at": "2026-11-17T15:42:36.000Z",
+      "text": "Understand now? $SPY https://t.co/ky1AXu4p87 https://t.co/owUxFci1hM",
+      "url": "https://x.com/FL0WG0D/status/2122717047003939124",
+      "images": [
+        "images/2122717047003939124-0.jpg"
+      ]
+    },
+    {
+      "id": "2122714678161723453",
+      "created_at": "2026-11-17T15:33:12.000Z",
+      "text": "Woah $AMD. Lisa Su affair? https://t.co/fMvf0BWXFx",
+      "url": "https://x.com/FL0WG0D/status/2122714678161723453",
+      "images": [
+        "images/2122714678161723453-0.jpg"
+      ]
+    },
+    {
+      "id": "2122707081157280245",
+      "created_at": "2026-11-17T15:03:00.000Z",
+      "text": "$867K into these $MCD calls https://t.co/BKxrtm6XBQ",
+      "url": "https://x.com/FL0WG0D/status/2122707081157280245",
+      "images": [
+        "images/2122707081157280245-0.jpg"
+      ]
+    },
     {
       "id": "2122396376135029137",
       "created_at": "2026-11-16T18:28:22.000Z",
@@ -505,36 +541,28 @@
       "created_at": "2026-11-04T19:23:26.000Z",
       "text": "$934K into these $AAPL calls https://t.co/eKreXMvWCz",
       "url": "https://x.com/FL0WG0D/status/2118061577882726638",
-      "images": [
-        "images/2118061577882726638-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2118037075627012455",
       "created_at": "2026-11-04T17:46:04.000Z",
       "text": "$2.4 million into these $TSLA calls https://t.co/UBbwzeZOjh",
       "url": "https://x.com/FL0WG0D/status/2118037075627012455",
-      "images": [
-        "images/2118037075627012455-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2118035527576555763",
       "created_at": "2026-11-04T17:39:55.000Z",
       "text": "$680K into these $GLXY calls https://t.co/SGSDrd25fJ",
       "url": "https://x.com/FL0WG0D/status/2118035527576555763",
-      "images": [
-        "images/2118035527576555763-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2118025004575027270",
       "created_at": "2026-11-04T16:58:06.000Z",
       "text": "$HBM - $519K Call buyer https://t.co/oe9dTUKQQu",
       "url": "https://x.com/FL0WG0D/status/2118025004575027270",
-      "images": [
-        "images/2118025004575027270-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2118005712400130447",
@@ -1486,34 +1514,6 @@
       "created_at": "2026-10-15T15:09:54.000Z",
       "text": "Instantly rips 40% $LLY https://t.co/6dZjxB4lKr",
       "url": "https://x.com/FL0WG0D/status/2110750018122727695",
-      "images": []
-    },
-    {
-      "id": "2110746040823398497",
-      "created_at": "2026-10-15T14:54:06.000Z",
-      "text": "Legend @ShaneStoffer https://t.co/hYXvK9iX7G https://t.co/1EEdApqvOu",
-      "url": "https://x.com/FL0WG0D/status/2110746040823398497",
-      "images": []
-    },
-    {
-      "id": "2110744375755993222",
-      "created_at": "2026-10-15T14:47:29.000Z",
-      "text": "Oh myyyyyyyyyyyy $MRNA https://t.co/O2nFka0OQk",
-      "url": "https://x.com/FL0WG0D/status/2110744375755993222",
-      "images": []
-    },
-    {
-      "id": "2110735796512972964",
-      "created_at": "2026-10-15T14:13:24.000Z",
-      "text": "$ALC - $918K Call buyer https://t.co/AokHrnQyqe",
-      "url": "https://x.com/FL0WG0D/status/2110735796512972964",
-      "images": []
-    },
-    {
-      "id": "2110734935967580599",
-      "created_at": "2026-10-15T14:09:58.000Z",
-      "text": "$AAOI - $2.7M Put seller (bullish) https://t.co/7c3VatAHoW",
-      "url": "https://x.com/FL0WG0D/status/2110734935967580599",
       "images": []
     }
   ]
