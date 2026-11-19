@@ -1,12 +1,21 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-18T19:50:15+00:00",
-  "last_id": "2123141409100181568",
-  "new_this_run": 4,
+  "updated_at": "2026-11-19T01:31:27+00:00",
+  "last_id": "2123142833947148571",
+  "new_this_run": 1,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2123142833947148571",
+      "created_at": "2026-11-18T19:54:32.000Z",
+      "text": "$TSLR bull https://t.co/7CcEPqCXaO",
+      "url": "https://x.com/FL0WG0D/status/2123142833947148571",
+      "images": [
+        "images/2123142833947148571-0.jpg"
+      ]
+    },
     {
       "id": "2123141409100181568",
       "created_at": "2026-11-18T19:48:52.000Z",
@@ -534,9 +543,7 @@
       "created_at": "2026-11-05T15:48:06.000Z",
       "text": "$SPY https://t.co/1LBV3EjhsS https://t.co/r9yzEKv5Sd",
       "url": "https://x.com/FL0WG0D/status/2118369775462101159",
-      "images": [
-        "images/2118369775462101159-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2118364619941326973",
@@ -1509,13 +1516,6 @@
       "created_at": "2026-10-15T17:58:01.000Z",
       "text": "$GPN - $687K Call buyer https://t.co/H8Gg9bgDB1",
       "url": "https://x.com/FL0WG0D/status/2110792324515082511",
-      "images": []
-    },
-    {
-      "id": "2110779468247900466",
-      "created_at": "2026-10-15T17:06:56.000Z",
-      "text": "Somebody just loaded up on $16.1 million worth of $CRWV calls.\n\nIs this AI selloff over? https://t.co/LbEvs2pOQ9",
-      "url": "https://x.com/FL0WG0D/status/2110779468247900466",
       "images": []
     }
   ]
