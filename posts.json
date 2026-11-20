@@ -1,12 +1,31 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-19T19:50:31+00:00",
-  "last_id": "2123471176571687113",
+  "updated_at": "2026-11-20T01:27:37+00:00",
+  "last_id": "2123514096393801844",
   "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2123514096393801844",
+      "created_at": "2026-11-19T20:29:48.000Z",
+      "text": "Is it time? $GME https://t.co/VXGP66iePo https://t.co/aMuFCoak2Y",
+      "url": "https://x.com/FL0WG0D/status/2123514096393801844",
+      "images": [
+        "images/2123514096393801844-0.jpg",
+        "images/2123514096393801844-1.jpg"
+      ]
+    },
+    {
+      "id": "2123508125701681279",
+      "created_at": "2026-11-19T20:06:04.000Z",
+      "text": "$1.1 million into these $CSCO puts https://t.co/GH0AHWba9T",
+      "url": "https://x.com/FL0WG0D/status/2123508125701681279",
+      "images": [
+        "images/2123508125701681279-0.jpg"
+      ]
+    },
     {
       "id": "2123471176571687113",
       "created_at": "2026-11-19T17:39:15.000Z",
@@ -536,9 +555,7 @@
       "created_at": "2026-11-05T16:57:11.000Z",
       "text": "$1 million into these $SPCX puts https://t.co/LqlFKPdKPx",
       "url": "https://x.com/FL0WG0D/status/2118387162240422338",
-      "images": [
-        "images/2118387162240422338-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2118383380173857187",
@@ -1504,20 +1521,6 @@
       "created_at": "2026-10-15T20:03:07.000Z",
       "text": "It doesn’t get much cleaner than that. Bullflow’s devs absolutely crushed this feature. Clean and simple to read.\n\nCode: FLOW  for a special discount\nhttps://t.co/RLfrjpITkc https://t.co/wXvm5un94x",
       "url": "https://x.com/FL0WG0D/status/2110823805316919775",
-      "images": []
-    },
-    {
-      "id": "2110818275693035564",
-      "created_at": "2026-10-15T19:41:08.000Z",
-      "text": "$864K into these $TE calls https://t.co/7bcdIpj7wn",
-      "url": "https://x.com/FL0WG0D/status/2110818275693035564",
-      "images": []
-    },
-    {
-      "id": "2110813615729369353",
-      "created_at": "2026-10-15T19:22:37.000Z",
-      "text": "$DAL - $271K Call buyer https://t.co/Y6P3QPwtUx",
-      "url": "https://x.com/FL0WG0D/status/2110813615729369353",
       "images": []
     }
   ]
