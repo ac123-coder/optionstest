@@ -1,12 +1,30 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-20T19:29:59+00:00",
-  "last_id": "2123861306461851873",
-  "new_this_run": 9,
+  "updated_at": "2026-11-21T00:54:58+00:00",
+  "last_id": "2123880270818361385",
+  "new_this_run": 2,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2123880270818361385",
+      "created_at": "2026-11-20T20:44:51.000Z",
+      "text": "Don’t worry, it’s just a hedge $NBIS https://t.co/R2cvBseqht https://t.co/3TDNxuWSIt",
+      "url": "https://x.com/FL0WG0D/status/2123880270818361385",
+      "images": [
+        "images/2123880270818361385-0.jpg"
+      ]
+    },
+    {
+      "id": "2123863063992697243",
+      "created_at": "2026-11-20T19:36:28.000Z",
+      "text": "You were warned $SPY https://t.co/NZVl0CWeSd https://t.co/owUxFciz7k",
+      "url": "https://x.com/FL0WG0D/status/2123863063992697243",
+      "images": [
+        "images/2123863063992697243-0.jpg"
+      ]
+    },
     {
       "id": "2123861306461851873",
       "created_at": "2026-11-20T19:29:29.000Z",
@@ -541,9 +559,7 @@
       "created_at": "2026-11-06T21:01:30.000Z",
       "text": "Good news: They’re out of the $50 million worth of $SPY puts for about a 100% gain.\n\nBad news: The new position is insane 🙃 https://t.co/y3yMyKfPiP https://t.co/Wu401H2hhg",
       "url": "https://x.com/FL0WG0D/status/2118811032625848392",
-      "images": [
-        "images/2118811032625848392-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2118733246733168966",
@@ -1509,20 +1525,6 @@
       "created_at": "2026-10-20T14:14:57.000Z",
       "text": "$2 million into these $NET calls https://t.co/PcBTSagFQj",
       "url": "https://x.com/FL0WG0D/status/2112548129392283804",
-      "images": []
-    },
-    {
-      "id": "2112540077721022581",
-      "created_at": "2026-10-20T13:42:58.000Z",
-      "text": "$720K into these $CRWV puts https://t.co/emr1SDL7Go",
-      "url": "https://x.com/FL0WG0D/status/2112540077721022581",
-      "images": []
-    },
-    {
-      "id": "2112539535209009635",
-      "created_at": "2026-10-20T13:40:48.000Z",
-      "text": "$2.3 million into these $SNDK puts https://t.co/DmMl0IsP49",
-      "url": "https://x.com/FL0WG0D/status/2112539535209009635",
       "images": []
     }
   ]
