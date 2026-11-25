@@ -1,12 +1,48 @@
 {
   "account": "FL0WG0D",
   "user_id": "1022369459468726277",
-  "updated_at": "2026-11-24T21:49:13+00:00",
-  "last_id": "2124971647635460470",
-  "new_this_run": 0,
+  "updated_at": "2026-11-25T20:56:10+00:00",
+  "last_id": "2125623641274544437",
+  "new_this_run": 4,
   "post_count": 200,
   "image_retention_posts": 60,
   "posts": [
+    {
+      "id": "2125623641274544437",
+      "created_at": "2026-11-25T16:12:22.000Z",
+      "text": "So is Jensen not saving $NBIS? https://t.co/ggkXiBba1M https://t.co/3TDNxuWSIt",
+      "url": "https://x.com/FL0WG0D/status/2125623641274544437",
+      "images": [
+        "images/2125623641274544437-0.jpg"
+      ]
+    },
+    {
+      "id": "2125612690538209744",
+      "created_at": "2026-11-25T15:28:52.000Z",
+      "text": "Pretty nice trade for this bear that loaded up on these $SPY puts yesterday https://t.co/WlP4psVMaA",
+      "url": "https://x.com/FL0WG0D/status/2125612690538209744",
+      "images": [
+        "images/2125612690538209744-0.jpg"
+      ]
+    },
+    {
+      "id": "2125599829266985150",
+      "created_at": "2026-11-25T14:37:45.000Z",
+      "text": "Will you be buying $ANT at $10 a share? https://t.co/k8oafrmWMm https://t.co/ZeUI92M2k6",
+      "url": "https://x.com/FL0WG0D/status/2125599829266985150",
+      "images": [
+        "images/2125599829266985150-0.jpg"
+      ]
+    },
+    {
+      "id": "2125372670648951183",
+      "created_at": "2026-11-24T23:35:06.000Z",
+      "text": "Somebody bought $680K worth of $ANT $10 puts today. AI trade needs a miracle https://t.co/lIEChaIW0p",
+      "url": "https://x.com/FL0WG0D/status/2125372670648951183",
+      "images": [
+        "images/2125372670648951183-0.jpg"
+      ]
+    },
     {
       "id": "2124971647635460470",
       "created_at": "2026-11-23T21:01:35.000Z",
@@ -517,9 +553,7 @@
       "created_at": "2026-11-11T17:39:21.000Z",
       "text": "$710K into these $ONTO calls https://t.co/l2W6fUUjrl",
       "url": "https://x.com/FL0WG0D/status/2120572097491501249",
-      "images": [
-        "images/2120572097491501249-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2120563836365177073",
@@ -533,18 +567,14 @@
       "created_at": "2026-11-11T17:04:51.000Z",
       "text": "Massive $7.8 million $SPY call buyer loaded up right before yesterday’s close. They are now ITM with plenty of time remaining and pushing 100%. https://t.co/r6mqEN8dRX",
       "url": "https://x.com/FL0WG0D/status/2120563418621268324",
-      "images": [
-        "images/2120563418621268324-0.png"
-      ]
+      "images": []
     },
     {
       "id": "2120557669329387523",
       "created_at": "2026-11-11T16:42:01.000Z",
       "text": "Somebody is loading up $4 million worth of $QQQ calls for December\n\nIs it Santa rally time? https://t.co/QApqqVQG6h",
       "url": "https://x.com/FL0WG0D/status/2120557669329387523",
-      "images": [
-        "images/2120557669329387523-0.jpg"
-      ]
+      "images": []
     },
     {
       "id": "2120554003616743486",
@@ -1496,34 +1526,6 @@
       "created_at": "2026-10-23T18:39:36.000Z",
       "text": "$2.6 million into these $AAPL calls https://t.co/Fa86oycbii",
       "url": "https://x.com/FL0WG0D/status/2113701893604258093",
-      "images": []
-    },
-    {
-      "id": "2113671322589094278",
-      "created_at": "2026-10-23T16:38:08.000Z",
-      "text": "$SAIL - $285K Call buyer https://t.co/cnHsyspJTd",
-      "url": "https://x.com/FL0WG0D/status/2113671322589094278",
-      "images": []
-    },
-    {
-      "id": "2113660198451912721",
-      "created_at": "2026-10-23T15:53:55.000Z",
-      "text": "$1 million into these $BWA calls https://t.co/9sQsqV7YBh",
-      "url": "https://x.com/FL0WG0D/status/2113660198451912721",
-      "images": []
-    },
-    {
-      "id": "2113659344332173746",
-      "created_at": "2026-10-23T15:50:32.000Z",
-      "text": "$RKLB - $229K Call buyer https://t.co/AFTCu4o03D",
-      "url": "https://x.com/FL0WG0D/status/2113659344332173746",
-      "images": []
-    },
-    {
-      "id": "2113642979726630967",
-      "created_at": "2026-10-23T14:45:30.000Z",
-      "text": "2 setups mentioned for my X subs this morning.\n\n$PLTR 100% + \n$IBM 200% + https://t.co/hhE5Wyywk7",
-      "url": "https://x.com/FL0WG0D/status/2113642979726630967",
       "images": []
     }
   ]
